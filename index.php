@@ -5,21 +5,15 @@
   
   if ($request == 'POST') {
     if (isset($_POST['password']) && $_POST['password'] == "temple@ogden") {
-      $_SESSION['ValidUser'] = 'Yes';
+      setcookie('logged_in','cmsyemckjfdaoiisa',time() + (86400 * 120));
       header('Location: home.php');
     } else {
       $badlogin = 1;
     }
   }
-  elseif (isset($_SESSION['ValidUser']) && $_SESSION['ValidUser'] == 'No') {
+  elseif (isset($_GET['status'])) {
     $login_required = 1;
-    $_SESSION['ValidUser'] = '';
-    session_destroy();
   }
-  /*else {
-    $_SESSION['ValidUser'] = '';
-    session_destroy();
-  }*/
   include('header.php'); 
 ?>
 <h1>Ogden Temple Cultural Celebration</h1>
@@ -34,24 +28,34 @@
 <p>Contact your local bishop to find out ways you can be part of this once in a lifetime opportunity.</p>
 <a name="login"></a>
 <div class="form">
-  <div class="left_half">
+  <?php
+    if (!isset($_COOKIE['logged_in'])) {
+  ?>
+    <div class="left_half">
+      <h3>Cast members</h3>
+      <p>Login with the password you have been provided to download music, choreography, and other information.</p>
+    </div>
+    <div class="right_half">
+      <form action="index.php" method="post">
+        <?php
+          if (isset($badlogin)) {
+            echo '<span class="error">The password is incorrect.</span><br />';
+          } elseif (isset($login_required)) {
+            echo '<span class="error">Login required.</span><br />';
+          }
+        ?>
+        <input name="password" id="password" type="password" placeholder='Password' /><br/>
+        <input type="submit" id="login" value="Login" />
+      </form>
+    </div>
+  <?php
+    } else {
+  ?>
     <h3>Cast members</h3>
-    <p>Login with the password you have been provided to download music, choreography, and other information.</p>
-  </div>
-  <div class="right_half">
-    <form action="index.php" method="post">
-      <?php
-      if (isset($badlogin)) {
-        echo '<span class="error">The password is incorrect.</span><br />';
-      } elseif (isset($login_required)) {
-        echo '<span class="error">Login required.</span><br />';
-      }
-      
-      ?>
-      <input name="password" id="password" type="password" placeholder='Password' /><br/>
-      <input type="submit" id="login" value="Login" />
-    </form>
-  </div>
+    <p>Use the navigation links above to download music, choreography, and other information.</p>
+  <?php
+    }
+  ?>
   <div style="clear:both;"></div>
   <div class="divider_dark"></div>
   <h3>Ward Leaders</h3>

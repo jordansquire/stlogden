@@ -1,9 +1,6 @@
 <?php
-  session_start();
-  
-  if (!isset($_SESSION['ValidUser']) || ($_SESSION['ValidUser'] != 'Yes')) {
-    $_SESSION['ValidUser'] = 'No';
-    header('Location: index.php#login');
+  if (!isset($_COOKIE['logged_in'])) {
+    header('Location: index.php?status=1#login');
   }
   
   include('header.php'); 

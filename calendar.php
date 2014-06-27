@@ -1,9 +1,6 @@
 <?php
-  session_start();
-  
-  if (!isset($_SESSION['ValidUser']) || ($_SESSION['ValidUser'] != 'Yes')) {
-    $_SESSION['ValidUser'] = 'No';
-    header('Location: index.php#login');
+  if (!isset($_COOKIE['logged_in'])) {
+    header('Location: index.php?status=1#login');
   }
   
   include('header.php'); 
@@ -18,7 +15,6 @@
   font-size:11.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Calibri, sans-serif;
   vertical-align:bottom;
   white-space:nowrap;}
 .CAL906588
@@ -29,7 +25,6 @@
   font-size:11.0pt;
   font-weight:700;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:center;
   vertical-align:bottom;
   border-top:1.0pt solid #3A6293;
@@ -45,7 +40,6 @@
   font-size:9.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:"Arial Narrow", sans-serif;
   text-align:left;
   vertical-align:bottom;
   border-top:1.0pt solid #3A6293;
@@ -59,7 +53,6 @@
   font-size:11.0pt;
   font-weight:700;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:center;
   vertical-align:bottom;
   border-top:1.0pt solid #3A6293;
@@ -75,7 +68,6 @@
   font-size:9.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:"Arial Narrow", sans-serif;
   text-align:left;
   vertical-align:bottom;
   border-top:1.0pt solid #3A6293;
@@ -90,7 +82,6 @@
   font-size:11.0pt;
   font-weight:700;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:center;
   vertical-align:bottom;
   border-top:1.0pt solid #3A6293;
@@ -106,7 +97,6 @@
   font-size:9.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:"Arial Narrow", sans-serif;
   text-align:left;
   vertical-align:bottom;
   border-top:1.0pt solid #3A6293;
@@ -120,7 +110,6 @@
   font-size:12.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Calibri, sans-serif;
   vertical-align:bottom;
   white-space:nowrap;}
 .CAL976588
@@ -131,7 +120,6 @@
   font-size:12.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:center-across;
   vertical-align:middle;
   border-top:1.5pt solid #3A6293;
@@ -145,7 +133,6 @@
   font-size:12.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:middle;
   border-top:1.5pt solid #3A6293;
@@ -159,7 +146,6 @@
   font-size:10.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:center;
   vertical-align:middle;
   border-top:.5pt solid white;
@@ -176,7 +162,6 @@
   font-size:10.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:center;
   vertical-align:middle;
   border-top:.5pt solid white;
@@ -193,7 +178,6 @@
   font-size:10.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:center;
   vertical-align:middle;
   border-top:.5pt solid white;
@@ -210,7 +194,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:bottom;
   border-top:1.5pt solid #3A6293;
@@ -226,7 +209,6 @@
   font-size:11.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Calibri, sans-serif;
   text-align:left;
   vertical-align:bottom;
   border-top:1.5pt solid #3A6293;
@@ -240,7 +222,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:right;
   vertical-align:bottom;
   border-top:1.5pt solid #3A6293;
@@ -255,7 +236,6 @@
   font-size:11.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Calibri, sans-serif;
   text-align:right;
   vertical-align:bottom;
   border-top:1.5pt solid #3A6293;
@@ -270,7 +250,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:1.0pt solid #3A6293;
@@ -285,7 +264,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:1.0pt solid #3A6293;
@@ -299,7 +277,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:1.0pt solid #3A6293;
@@ -314,7 +291,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -329,7 +305,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   background:silver;
@@ -342,7 +317,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -357,7 +331,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -372,7 +345,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -387,7 +359,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -402,7 +373,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   background:#F8F9DB;
@@ -415,7 +385,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -430,7 +399,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   background:white;
@@ -443,7 +411,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:1.0pt solid #3A6293;
@@ -458,7 +425,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:1.0pt solid #3A6293;
@@ -473,7 +439,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -488,7 +453,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -504,7 +468,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -519,7 +482,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -535,7 +497,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -550,7 +511,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -566,7 +526,6 @@
   font-size:8.0pt;
   font-weight:400;
   font-style:normal;
-  font-family:Arial, sans-serif;
   text-align:left;
   vertical-align:top;
   border-top:none;
@@ -574,7 +533,13 @@
   border-bottom:1.5pt solid #3A6293;
   background:silver;
   white-space:normal;}
-h1.title {font-family:Arial, Helvetica, sans-serif; font-size:12.0pt; font-weight:400; margin-top:0px; margin-bottom:0px;}
+h1.title {
+  font-size: 20px; 
+  font-weight: bold; 
+  margin-top: 0px; 
+  margin-bottom: 0px;
+  padding: 3px 0;
+}
 </style>
 
 <h1>Calendar</h1>
@@ -583,7 +548,7 @@ h1.title {font-family:Arial, Helvetica, sans-serif; font-size:12.0pt; font-weigh
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed malesuada nunc, sed aliquet diam. Suspendisse ac tortor tincidunt, vulputate diam eget, pellentesque lorem. Ut et velit sed eros hendrerit scelerisque vel et nulla. Quisque mattis blandit rhoncus. Praesent mattis, erat sit amet suscipit tempus, justo libero vehicula mauris, nec vehicula felis augue in libero. Sed id pharetra risus. Etiam tincidunt vel tortor ac lobortis. Sed dictum mollis pharetra. Donec euismod velit id massa sagittis, ornare pretium erat bibendum. Nulla iaculis ipsum nunc, elementum rhoncus ipsum dignissim vel. Integer aliquet tempor turpis, eget consectetur nisi.</p>
 <!-- JULY -->
 <table border=0 cellpadding=0 cellspacing=0 width=637 style='border-collapse:
- collapse;table-layout:fixed;width:476pt'>
+ collapse;table-layout:fixed;width:625pt'>
  <col width=23 >
  <col width=68 >
  <col width=23 >
@@ -979,7 +944,7 @@ h1.title {font-family:Arial, Helvetica, sans-serif; font-size:12.0pt; font-weigh
 <!-- AUGUST -->
 <br/><br/>
 <table border=0 cellpadding=0 cellspacing=0 width=637 style='border-collapse:
- collapse;table-layout:fixed;width:476pt'>
+ collapse;table-layout:fixed;width:625pt'>
  <col width=23 >
  <col width=68 >
  <col width=23 >
@@ -1446,7 +1411,7 @@ h1.title {font-family:Arial, Helvetica, sans-serif; font-size:12.0pt; font-weigh
 <!-- SEPTEMBER -->
 <br/><br/>
 <table border=0 cellpadding=0 cellspacing=0 width=637 style='border-collapse:
- collapse;table-layout:fixed;width:476pt'>
+ collapse;table-layout:fixed;width:625pt'>
  <col width=23 >
  <col width=68 >
  <col width=23 >
