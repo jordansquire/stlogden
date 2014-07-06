@@ -9,7 +9,7 @@ $(document).ready(function(){
     ready: function () {
       $(this).jPlayer("setMedia", {
         title: "Shine the Light",
-        mp3: "files/BNY_2008_12_00_ShinetheLight__eng.mp3"
+        mp3: "files/Shine_the_Light.mp3"
       });
     },
     swfPath: "js",
