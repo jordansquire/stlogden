@@ -1,20 +1,88 @@
 <?php
-  if (!isset($_COOKIE['logged_in'])) {
-    header('Location: index.php?status=1#login');
-  }
-  
+  include('util.php');
+  include('login_check.php');
   include('header.php'); 
+  
+  $stake = $_COOKIE['stake'];
+  $council = getCouncil($stake);
+  
+  if($stake == 'ADMIN') {
+    if(isset($_POST['council'])) {
+      
+      $council = $_POST['council'];
+    } else {
+      $council = 'Layton';
+    }  
+?>
+<div class="right council_select">
+  <form action="home.php" method="post">
+    <?php getCouncilDropDown($council) ?>
+  </form>
+</div>
+<?php
+  }
 ?>
 <h1>Announcements</h1>
 <div class="divider"></div>
+<!-- GLOBAL CONTENT -->
+<div class="right likebox"><iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FShineTheLightOgden&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe></div>
+<?php
+  if($council == 'Layton') {
+?>
+<!-- Layton CONTENT -->
 <h3 class="date">Thu, June 26th</h3>
-<h3>Rehearsal Time Change</h3>
+<h3>Layton Announcement</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed malesuada nunc, sed aliquet diam. Suspendisse ac tortor tincidunt, vulputate diam eget, pellentesque lorem. Ut et velit sed eros hendrerit scelerisque vel et nulla. Quisque mattis blandit rhoncus. Praesent mattis, erat sit amet suscipit tempus, justo libero vehicula mauris, nec vehicula felis augue in libero. Sed id pharetra risus. Etiam tincidunt vel tortor ac lobortis. Sed dictum mollis pharetra. Donec euismod velit id massa sagittis, ornare pretium erat bibendum. Nulla iaculis ipsum nunc, elementum rhoncus ipsum dignissim vel. Integer aliquet tempor turpis, eget consectetur nisi.</p>
-<h3 class="date">Mon, June 23th</h3>
-<h3>Return Your Completed Permission Slip!</h3>
-<p>Praesent vestibulum vitae ante ut consectetur. Nam mattis laoreet ligula. Nullam scelerisque mi nec neque commodo aliquam. Sed eu neque vitae odio iaculis sagittis. Morbi pellentesque arcu non nibh porta posuere at at velit. Suspendisse potenti. Fusce id ligula eget turpis consequat suscipit. Vivamus at ultrices mi.</p>
-<h3 class="date">Thu, June 19th</h3>
-<h3>Welcome!</h3>
-<p>Cras scelerisque, neque eu molestie posuere, libero mi suscipit nisi, in vulputate lectus neque porttitor arcu. Maecenas pulvinar sem ut convallis ultricies. Integer vel aliquam lacus. Sed ultricies lorem sit amet dapibus aliquam. Proin bibendum, lacus ut dignissim faucibus, leo augue adipiscing metus, quis sagittis libero mauris sed mi. Suspendisse libero dui, dapibus ut pulvinar at, porta non tellus. Sed sodales, felis at cursus malesuada, eros neque euismod augue, non gravida nibh dui a lectus. Aliquam vitae purus justo. Suspendisse consectetur fringilla erat, sit amet placerat nibh bibendum at. Phasellus lobortis augue eu odio viverra dapibus. Aenean vel libero et tellus tempus lacinia. Quisque in volutpat urna.</p>
-<div style="height:30px;">&nbsp;</div>
+<?php
+  }
+  if ($council == 'Ogden North') {
+?>
+<!-- Ogden North CONTENT -->
+<h3 class="date">Thu, June 26th</h3>
+<h3>Ogden North Announcement</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed malesuada nunc, sed aliquet diam. Suspendisse ac tortor tincidunt, vulputate diam eget, pellentesque lorem. Ut et velit sed eros hendrerit scelerisque vel et nulla. Quisque mattis blandit rhoncus. Praesent mattis, erat sit amet suscipit tempus, justo libero vehicula mauris, nec vehicula felis augue in libero. Sed id pharetra risus. Etiam tincidunt vel tortor ac lobortis. Sed dictum mollis pharetra. Donec euismod velit id massa sagittis, ornare pretium erat bibendum. Nulla iaculis ipsum nunc, elementum rhoncus ipsum dignissim vel. Integer aliquet tempor turpis, eget consectetur nisi.</p>
+<?php
+  }
+  if ($council == 'Ogden South') {
+?>
+<!-- Ogden South CONTENT -->
+<h3 class="date">Thu, June 26th</h3>
+<h3>Ogden South Announcement</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed malesuada nunc, sed aliquet diam. Suspendisse ac tortor tincidunt, vulputate diam eget, pellentesque lorem. Ut et velit sed eros hendrerit scelerisque vel et nulla. Quisque mattis blandit rhoncus. Praesent mattis, erat sit amet suscipit tempus, justo libero vehicula mauris, nec vehicula felis augue in libero. Sed id pharetra risus. Etiam tincidunt vel tortor ac lobortis. Sed dictum mollis pharetra. Donec euismod velit id massa sagittis, ornare pretium erat bibendum. Nulla iaculis ipsum nunc, elementum rhoncus ipsum dignissim vel. Integer aliquet tempor turpis, eget consectetur nisi.</p>
+<?php
+  }
+  if ($council == 'Ogden West') {
+?>
+<!-- Ogden West CONTENT -->
+<h3 class="date">Thu, June 26th</h3>
+<h3>Ogden West Announcement</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed malesuada nunc, sed aliquet diam. Suspendisse ac tortor tincidunt, vulputate diam eget, pellentesque lorem. Ut et velit sed eros hendrerit scelerisque vel et nulla. Quisque mattis blandit rhoncus. Praesent mattis, erat sit amet suscipit tempus, justo libero vehicula mauris, nec vehicula felis augue in libero. Sed id pharetra risus. Etiam tincidunt vel tortor ac lobortis. Sed dictum mollis pharetra. Donec euismod velit id massa sagittis, ornare pretium erat bibendum. Nulla iaculis ipsum nunc, elementum rhoncus ipsum dignissim vel. Integer aliquet tempor turpis, eget consectetur nisi.</p>
+<?php
+  }
+  if ($council == 'Southwest Wyoming') {
+?>
+<!-- Southwest Wyoming CONTENT -->
+<h3 class="date">Thu, June 26th</h3>
+<h3>Southwest Wyoming Announcement</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed malesuada nunc, sed aliquet diam. Suspendisse ac tortor tincidunt, vulputate diam eget, pellentesque lorem. Ut et velit sed eros hendrerit scelerisque vel et nulla. Quisque mattis blandit rhoncus. Praesent mattis, erat sit amet suscipit tempus, justo libero vehicula mauris, nec vehicula felis augue in libero. Sed id pharetra risus. Etiam tincidunt vel tortor ac lobortis. Sed dictum mollis pharetra. Donec euismod velit id massa sagittis, ornare pretium erat bibendum. Nulla iaculis ipsum nunc, elementum rhoncus ipsum dignissim vel. Integer aliquet tempor turpis, eget consectetur nisi.</p>
+<?php
+  }
+  if ($council == 'Weber East') {
+?>
+<!-- Weber East CONTENT -->
+<h3 class="date">Thu, June 26th</h3>
+<h3>Weber East Announcement</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed malesuada nunc, sed aliquet diam. Suspendisse ac tortor tincidunt, vulputate diam eget, pellentesque lorem. Ut et velit sed eros hendrerit scelerisque vel et nulla. Quisque mattis blandit rhoncus. Praesent mattis, erat sit amet suscipit tempus, justo libero vehicula mauris, nec vehicula felis augue in libero. Sed id pharetra risus. Etiam tincidunt vel tortor ac lobortis. Sed dictum mollis pharetra. Donec euismod velit id massa sagittis, ornare pretium erat bibendum. Nulla iaculis ipsum nunc, elementum rhoncus ipsum dignissim vel. Integer aliquet tempor turpis, eget consectetur nisi.</p>
+<?php
+  }
+  if ($council == 'Weber West' or $council == 'ADMIN') {
+?>
+<!-- Weber West CONTENT -->
+<h3 class="date">Thu, June 26th</h3>
+<h3>Weber West Announcement</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed malesuada nunc, sed aliquet diam. Suspendisse ac tortor tincidunt, vulputate diam eget, pellentesque lorem. Ut et velit sed eros hendrerit scelerisque vel et nulla. Quisque mattis blandit rhoncus. Praesent mattis, erat sit amet suscipit tempus, justo libero vehicula mauris, nec vehicula felis augue in libero. Sed id pharetra risus. Etiam tincidunt vel tortor ac lobortis. Sed dictum mollis pharetra. Donec euismod velit id massa sagittis, ornare pretium erat bibendum. Nulla iaculis ipsum nunc, elementum rhoncus ipsum dignissim vel. Integer aliquet tempor turpis, eget consectetur nisi.</p>
+<?php    
+  }
+?>
+<div style="height:30px; clear:both;">&nbsp;</div>
 <?php include('footer.php'); ?>

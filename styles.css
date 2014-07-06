@@ -18,7 +18,7 @@ div.top_nav_container {
   background-color: #FFFFFF;
   background-image: url("images/color-stripe.jpg");
   background-repeat: repeat-x;
-  height: 85px;
+  height: 95px;
   -webkit-box-shadow: 0 1px 3px rgba(36,36,36,.25);
   -moz-box-shadow: 0 1px 3px rgba(36,36,36,.25);
   box-shadow: 0 1px 3px rgba(36,36,36,.25);
@@ -72,12 +72,13 @@ ul.nav li {
 ul.nav a {
   display: block;
   float: right;
-  width: 100px;
   text-decoration: none;
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
   color: #000000;
-  padding: 10px 0px;
+  margin-top: 10px;
+  padding: 10px 15px;
+  height: 25px;
 }
 ul.nav a:hover {
   background-color: #00a2ed;
@@ -108,8 +109,8 @@ div.footer {
 div.form {
   margin: 0px -75px 0px -75px;
   padding: 30px 75px 30px 75px;
-  background-color: #f9f9f9;
-  z-index: 200;
+  background-color: #F9F9F9;
+  border-top: 1px solid #DDDDDD;
 }
 div.left_half {
   float: left;
@@ -129,12 +130,32 @@ div.divider_dark {
   height: 2px;
   background-color: #CCCCCC;
 }
+div.logo {
+  margin-top: -10px;
+}
+div.likebox {
+  margin-left: 10px;
+  width: 300px;
+  height: 290px;
+}
+div.council_select {
+  margin: -25px -70px 0 0;
+}
+div.council_select select {
+  width: 200px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid #999;
+  font-size: 16px;
+  padding: 8px 10px;
+}
 
 
 h1 {
   text-align: center;
   font-size: 38px;
   font-weight: 600;
+  clear: both;
 }
 a {
   text-decoration: none;
@@ -145,21 +166,42 @@ a img {
 }
 input {
   width: 380px;
-  height: 50px;
+  height: 40px;
   margin-top: 15px;
   border-radius: 5px;
   border: 1px solid #999;
-  font-size: 15px;
+  font-size: 18px;
   padding: 0 15px;
 }
 input#password {
   /*color: #999999;*/
- 
 }
 input#login {
   background-color: #00a2ed;
   color: #FFFFFF;
   font-weight: bold;
+}
+a.button {
+  display:block;
+  text-align: center;
+  width: 380px;
+  height: 25px;
+  margin-top: 15px;
+  border-radius: 5px;
+  border: 1px solid #999;
+  font-size: 18px;
+  padding: 5px 0px;
+  font-weight: 600;
+  background-color: #00a2ed;
+  color: #FFFFFF;
+}
+table.directory {
+  font-size: 12px;
+  width: 100%;
+}
+table.directory td {
+  padding: 2px 5px;
+  border-bottom: 1px solid #CCCCCC;
 }
 
 .right {

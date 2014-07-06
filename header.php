@@ -10,14 +10,20 @@
       <div class="page_content">
         <div class="top_nav">
           <ul class="nav">
-            <li><a href="crew.php">Crew</a></li>
-            <li><a href="costumes.php">Costumes</a></li>
-            <li><a href="script.php">Script</a></li>
-            <li><a href="music.php">Music</a></li>
-            <li><a href="calendar.php">Calendar</a></li>
-            <li><a href="home.php">Home</a></li>
+            <?php
+              if (isset($_COOKIE['logged_in']) && isset($site_context)) {
+                if ($site_context == 'choir') {
+                  include('nav_choir.php');
+                } else {
+                  include('nav_cast.php');
+                }
+              } else {
+                include('nav.php');
+              }
+            ?>
+            <li><a href="index.php">Home</a></li>
           </ul>
-          <a href="index.php"><img src="images/shine-the-light-logo-3.png" /></a>
+          <div class="logo"><a href="index.php"><img src="images/logo.png" /></a></div>
         </div>
         <div class="top_section">
           <div class="top_section_container" style="padding-bottom: 0px;">
