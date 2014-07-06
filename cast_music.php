@@ -17,11 +17,15 @@
     }  
 ?>
 <div class="right council_select">
-  <form action="cast_mp3.php" method="post">
+  <form action="cast_sheet_music.php" method="post">
     <?php getCouncilDropDown($council) ?>
   </form>
 </div>
 <?php
   }
-  include('mp3.php');
 ?>
+<h1>Cast Music</h1>
+<div class="divider"></div>
+<p>We don&#39;t currently have any music available for download. Check back again later.</p>
+<div style="height:30px;">&nbsp;</div>
+<?php include('footer.php'); ?>
