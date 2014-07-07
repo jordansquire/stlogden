@@ -134,9 +134,9 @@ div.logo {
   margin-top: -10px;
 }
 div.likebox {
-  margin-left: 10px;
+  margin-left: 45px;
   width: 300px;
-  height: 290px;
+  min-height: 290px;
 }
 div.council_select {
   margin: -25px -70px 0 0;
@@ -149,6 +149,13 @@ div.council_select select {
   font-size: 16px;
   padding: 8px 10px;
 }
+div.information {
+  padding: 5px;
+  background-color: #F9F9F9;
+  border: 1px solid #DDDDDD;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
 
 
 h1 {
@@ -156,6 +163,10 @@ h1 {
   font-size: 38px;
   font-weight: 600;
   clear: both;
+}
+h4 {
+  font-size: 20px;
+  font-variant: small-caps;
 }
 a {
   text-decoration: none;
@@ -239,6 +250,13 @@ table.directory td {
   font-weight: bold;
   padding: 5px;
 }
+.prompt {
+  color: #AAAAAA;
+  font-size: 12px;
+}
 .odd {
   background-color: #F9F9F9;
+}
+.even {
+  background-color: #FFFFFF;
 }

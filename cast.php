@@ -23,10 +23,31 @@
 </div>
 <?php
   }
+  $cast = getCast($council);
 ?>
 <h1>Cast Announcements</h1>
 <div class="divider"></div>
-<div class="right likebox"><iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FShineTheLightOgden&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe></div>
+<div class="right likebox">
+  <div class="information">
+    <h4 style="margin:0 0 10px 0; text-align:center;">Your Information</h4>
+    <table class="directory">
+      <tr>
+        <td style="border-top: 1px solid #CCCCCC;">Cast:</td>
+        <td style="border-top: 1px solid #CCCCCC;"><?php echo $cast; ?></td>
+      </tr>
+      <tr>
+        <td>Coordinating Council:</td>
+        <td><?php echo $council; ?></td>
+      </tr>
+      <tr>
+        <td>Stake:</td>
+        <td><?php echo $stake; ?></td>
+      </tr>
+    </table>
+    <div class="prompt" style="text-align:right;">Not the right Stake? <a href="logout.php">Change it</a></div>
+  </div>
+  <iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FShineTheLightOgden&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe>
+</div>
 <h3 class="date">Sun, July 6th</h3>
 <h3>Welcome!</h3>
 <p>We are so very excited for your willingness to share your talents in this once in a lifetime event! 

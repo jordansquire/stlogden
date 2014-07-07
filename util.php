@@ -100,4 +100,26 @@ function getCouncilDropDown($councilStr) {
   echo "</select>\n";
   return;
 }
+
+function getCast($councilStr) {
+  switch ($councilStr) {
+    case 'Ogden South':
+    case 'Weber East':
+    case 'Weber West':
+    case 'Southwest Wyoming':
+      $cast = 'A - 1:00pm Performance';
+      break;
+    
+    case 'Layton':
+    case 'Ogden North':
+    case 'Ogden West':
+      $cast = 'B - 7:00pm Performance';
+      break;
+    
+    case 'ADMIN':
+      $cast = 'ADMIN';
+      break;
+  }
+  return $cast;
+}
 ?>
