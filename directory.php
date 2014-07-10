@@ -30,6 +30,13 @@
     <td>801-518-2324</td>
     <td>Dan@amscowindows.com</td>
   </tr>
+  <tr class="even">
+    <td>Layton Utah</td>
+    <td>Music Rep.</td>
+    <td>Kimberly Graff</td>
+    <td>801-390-3195</td>
+    <td>Familiegraff@gmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Layton Utah Creekside</td>
     <td>Coordinator 1</td>
@@ -43,6 +50,13 @@
     <td>Ryan Williams</td>
     <td>801-244-1310</td>
     <td>ryanwilliamsBRL@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah Creekside</td>
+    <td>Music Rep.</td>
+    <td>Charlene Adams</td>
+    <td>801-529-3976</td>
+    <td>charlou6@msn.com</td>
   </tr>
   <tr class="even">
     <td>Layton Utah East</td>
@@ -58,6 +72,20 @@
     <td>801.497.0895</td>
     <td>bolingbrokeba@familysearch.org</td>
   </tr>
+  <tr class="even">
+    <td>Layton Utah East</td>
+    <td>Music Rep.</td>
+    <td>Cindy Goulding</td>
+    <td>801.628.3428</td>
+    <td>cgoulding@hotmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah East</td>
+    <td>Music Rep.</td>
+    <td>Cathy Ashman / Geri Conlin</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
   <tr class="odd">
     <td>Layton Utah Holmes Creek</td>
     <td>Coordinator 1</td>
@@ -71,6 +99,13 @@
     <td>Steven Johnson </td>
     <td>801.444.1522</td>
     <td>&nbsp;</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah Holmes Creek</td>
+    <td>Music Rep.</td>
+    <td>Monica Crabb</td>
+    <td>&nbsp;</td>
+    <td>monicacrabb@yahoo.com</td>
   </tr>
   <tr class="even">
     <td>Layton Utah Kays Creek</td>
@@ -86,6 +121,13 @@
     <td>801-694-5916</td>
     <td>dave.moss@shawinc.com</td>
   </tr>
+  <tr class="even">
+    <td>Layton Utah Kays Creek</td>
+    <td>Music Rep.</td>
+    <td>Judy Bell</td>
+    <td>(801) 888-0433</td>
+    <td>belldj8@hotmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Layton Utah Layton Hills</td>
     <td>Coordinator 1</td>
@@ -99,6 +141,13 @@
     <td>Gary Baker</td>
     <td>801-725-3707</td>
     <td>gbaker63@ymail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah Layton Hills</td>
+    <td>Music Rep.</td>
+    <td>Liz Whatcott</td>
+    <td>801-698-6350</td>
+    <td>Liz.whatcott@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Layton Utah Legacy Stake</td>
@@ -114,6 +163,13 @@
     <td>801-726-7223</td>
     <td>mitchpendleton@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Layton Utah Legacy Stake</td>
+    <td>Music Rep.</td>
+    <td>Aimee Geddes</td>
+    <td>8013367541</td>
+    <td>Aimeegeddes@gmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Layton Utah North</td>
     <td>Coordinator 1</td>
@@ -127,6 +183,13 @@
     <td>Allan Foxley</td>
     <td>801-771-4425</td>
     <td>foxbyte28@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah North</td>
+    <td>Music Rep.</td>
+    <td>Melissa Jones Bamfo</td>
+    <td>801-719-9124</td>
+    <td>melissa@business-made-simple.com</td>
   </tr>
   <tr class="even">
     <td>Layton Utah Northridge</td>
@@ -142,6 +205,13 @@
     <td>931-261-3152</td>
     <td>troymartin35@hotmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Layton Utah Northridge</td>
+    <td>Music Rep.</td>
+    <td>Colleen Nicholes</td>
+    <td>801-771-8841</td>
+    <td>cdnicholes@yahoo.com</td>
+  </tr>
   <tr class="odd">
     <td>Layton Utah South</td>
     <td>Coordinator 1</td>
@@ -155,6 +225,13 @@
     <td>Grant Watkins</td>
     <td>801-808-8130</td>
     <td>gmwatk@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah South</td>
+    <td>Music Rep.</td>
+    <td>Jennifer Taylor</td>
+    <td>801-719-0842</td>
+    <td>jendean1@comcast.net</td>
   </tr>
   <tr class="even">
     <td>Layton Utah Valley View</td>
@@ -170,6 +247,13 @@
     <td>801-540-0313  </td>
     <td>ghatch1@msn.com</td>
   </tr>
+  <tr class="even">
+    <td>Layton Utah Valley View</td>
+    <td>Music Rep.</td>
+    <td>Mary Ann Pulham</td>
+    <td>801-698-1095</td>
+    <td>Randypulham@msn.com</td>
+  </tr>
   <tr class="odd">
     <td>Layton Utah West</td>
     <td>Coordinator 1</td>
@@ -183,6 +267,13 @@
     <td>Rod Sanders  </td>
     <td>801-725-7803</td>
     <td>Sandersinc2@Comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah West</td>
+    <td>Music Rep.</td>
+    <td>Myrna Applonie</td>
+    <td>801-825-8978</td>
+    <td>mylapplonie@msn.com</td>
   </tr>
   <tr class="even">
     <td>Layton Utah YSA Stake</td>
@@ -228,6 +319,13 @@
     <td>801-745-5564</td>
     <td>darrell.r.allen@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Huntsville</td>
+    <td>Music Rep.</td>
+    <td>Kay Kilgore</td>
+    <td>801-458-7058</td>
+    <td>dkil709@aol.com </td>
+  </tr>
   <tr class="odd">
     <td>North Ogden Ben Lomond</td>
     <td>Coordinator 1</td>
@@ -241,6 +339,13 @@
     <td>Matt Wardle </td>
     <td>801-725-6936</td>
     <td>mdwardle@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>North Ogden Ben Lomond</td>
+    <td>Music Rep.</td>
+    <td>Cara Secrist</td>
+    <td>&nbsp;</td>
+    <td>cara.secrist@gmail.com</td>
   </tr>
   <tr class="even">
     <td>North Ogden Coldwater</td>
@@ -256,6 +361,13 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
+  <tr class="even">
+    <td>North Ogden Coldwater</td>
+    <td>Music Rep.</td>
+    <td>Emily Henrie</td>
+    <td>(801) 603-7382 </td>
+    <td>Emily_mae21@yahoo.com</td>
+  </tr>
   <tr class="odd">
     <td>North Ogden East</td>
     <td>Coordinator 1</td>
@@ -269,6 +381,13 @@
     <td>Gary Rands</td>
     <td>801-940-0505</td>
     <td>gary@randsroofing.com</td>
+  </tr>
+  <tr class="odd">
+    <td>North Ogden East</td>
+    <td>Music Rep.</td>
+    <td>Melissa Chertudi </td>
+    <td>801-675-6256</td>
+    <td>mchertudi@wsd.net</td>
   </tr>
   <tr class="even">
     <td>North Ogden</td>
@@ -284,6 +403,13 @@
     <td>801-430-0540</td>
     <td>cturner@big-d.com</td>
   </tr>
+  <tr class="even">
+    <td>North Ogden</td>
+    <td>Music Rep.</td>
+    <td>Suann Adams</td>
+    <td>801-589-3549</td>
+    <td>teachersuann@comcast.net</td>
+  </tr>
   <tr class="odd">
     <td>Lorin Farr</td>
     <td>Coordinator 1</td>
@@ -297,6 +423,13 @@
     <td>David Hadley</td>
     <td>801-399-4521  </td>
     <td>dghadley@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Lorin Farr</td>
+    <td>Music Rep.</td>
+    <td>Katie Stevens</td>
+    <td>801-837-6786</td>
+    <td>Katiestanger@hotmail.com </td>
   </tr>
   <tr class="even">
     <td>Mount Lewis</td>
@@ -312,6 +445,13 @@
     <td>720-339-5558</td>
     <td>assad@reichdan.com</td>
   </tr>
+  <tr class="even">
+    <td>Mount Lewis</td>
+    <td>Music Rep.</td>
+    <td>Jonathan Sears</td>
+    <td>801-710-9268</td>
+    <td>jhpcsears@gmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Rock Cliff</td>
     <td>Coordinator 1</td>
@@ -325,6 +465,13 @@
     <td>Mark Wangsgard</td>
     <td>8016785766</td>
     <td>markwangsgard@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Rock Cliff</td>
+    <td>Music Rep.</td>
+    <td>Shawn &amp; Lanette Stephens</td>
+    <td>(801) 564-0612</td>
+    <td>photoshawn801@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Pleasant View South</td>
@@ -340,6 +487,13 @@
     <td>801-644-4907</td>
     <td>brentLmcknight@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Pleasant View South</td>
+    <td>Music Rep.</td>
+    <td>Leslie Carpenter</td>
+    <td>801-668-4443</td>
+    <td>leshavingfun@gmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Pleasant View</td>
     <td>Coordinator 1</td>
@@ -353,6 +507,13 @@
     <td>Arie Andersson</td>
     <td>801-726-2000</td>
     <td>arie.d.anderson@wellsfargo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Pleasant View</td>
+    <td>Music Rep.</td>
+    <td>David Sowby</td>
+    <td>801.882.6295</td>
+    <td>sowbyone@gmail.com</td>
   </tr>
 </table>
 <?php
@@ -384,6 +545,13 @@
     <td>801-392-0711</td>
     <td>betueller@comcast.net</td>
   </tr>
+  <tr class="even">
+    <td>Burch Creek</td>
+    <td>Music Rep.</td>
+    <td>Jolene Reneau</td>
+    <td>801 389-7049</td>
+    <td>jodyreneau@gmail.com</td>
+  </tr>
    <tr class="odd">
     <td>Ogden East</td>
     <td>Coordinator 1</td>
@@ -391,12 +559,19 @@
     <td>801-510-6205 </td>
     <td>teck@weber.edu</td>
   </tr>
-   <tr class="odd">
+  <tr class="odd">
     <td>Ogden East</td>
     <td>Coordinator 2</td>
     <td>Rusty Jensen</td>
     <td>801 589-9339 </td>
     <td>rtljensen@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden East</td>
+    <td>Music Rep.</td>
+    <td>Meg Naisbitt</td>
+    <td>801-388-3154</td>
+    <td>mmpcc@comcast.net</td>
   </tr>
    <tr class="even">
     <td>Pleasant Valley</td>
@@ -412,6 +587,13 @@
     <td>801-479-4500</td>
     <td>mgweeks@comcast.net</td>
   </tr>
+  <tr class="even">
+    <td>Pleasant Valley</td>
+    <td>Music Rep.</td>
+    <td>Jake Tesch</td>
+    <td>801-689-2900</td>
+    <td>jakenbake_12@yahoo.com</td>
+  </tr>
    <tr class="odd">
     <td>Ogden</td>
     <td>Coordinator 1</td>
@@ -419,12 +601,19 @@
     <td>801-781-0400</td>
     <td>jeffrey.heiner@msn.com</td>
   </tr>
-   <tr class="odd">
+  <tr class="odd">
     <td>Ogden</td>
     <td>Coordinator 2</td>
     <td>Steven Call</td>
     <td>801-781-0153</td>
     <td>scall3@yahoo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden</td>
+    <td>Music Rep.</td>
+    <td>Jessie Rimmasch</td>
+    <td>801.425.2202 </td>
+    <td>jprimmasch@msn.com</td>
   </tr>
    <tr class="even">
     <td>Weber Heights</td>
@@ -440,6 +629,13 @@
     <td>801 458-7739</td>
     <td>dallenmd@comcast.net</td>
   </tr>
+  <tr class="even">
+    <td>Weber Heights</td>
+    <td>Music Rep.</td>
+    <td>Meredith Ashton</td>
+    <td>801-458-6245</td>
+    <td>meredithashton26@gmail.com</td>
+  </tr>
    <tr class="odd">
     <td>Ogden Weber</td>
     <td>Coordinator 1</td>
@@ -453,6 +649,13 @@
     <td>Justin Johnson</td>
     <td>801-475-0693</td>
     <td>justinkjohnson24@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden Weber</td>
+    <td>Music Rep.</td>
+    <td>Kristi Palkki</td>
+    <td>801-866-4867</td>
+    <td>mkpalkki7@gmail.com</td>
   </tr>
    <tr class="even">
     <td>Ogden YSA 1st </td>
@@ -482,6 +685,13 @@
     <td>801-644-1616 </td>
     <td>bdsanders@gmail.com</td>
   </tr>
+  <tr class="odd">
+    <td>Riverdale</td>
+    <td>Music Rep.</td>
+    <td>Terry Christensen</td>
+    <td>801-866-3724</td>
+    <td>tlc@musicati.us</td>
+  </tr>
   <tr class="even">
     <td>South Ogden</td>
     <td>Coordinator 1</td>
@@ -495,6 +705,13 @@
     <td>Manual Cypers</td>
     <td>801-928-8549</td>
     <td>mcypers@comcast.net</td>
+  </tr>
+  <tr class="even">
+    <td>South Ogden</td>
+    <td>Music Rep.</td>
+    <td>Evelyn Harris</td>
+    <td>801-392-3773</td>
+    <td>evieh7@comcast.net</td>
   </tr>
   <tr class="odd">
     <td>Washington Terrace East</td>
@@ -510,6 +727,13 @@
     <td>801-621-6951</td>
     <td>boydharris@wsd.net</td>
   </tr>
+  <tr class="odd">
+    <td>Washington Terrace East</td>
+    <td>Music Rep.</td>
+    <td>Steven Shupe</td>
+    <td>801-479-1165</td>
+    <td>steveshupe@hotmail.com</td>
+  </tr>
   <tr class="even">
     <td>Washington Terrace West</td>
     <td>Coordinator 1</td>
@@ -523,6 +747,13 @@
     <td>Bill Shurtleff</td>
     <td>801-479-7266</td>
     <td>drshurtl@msn.com</td>
+  </tr>
+  <tr class="even">
+    <td>Washington Terrace West</td>
+    <td>Music Rep.</td>
+    <td>Colleen Bott</td>
+    <td>801-540-9621</td>
+    <td>cbottmom@gmail.com</td>
   </tr>
 </table>
 <?php
@@ -554,6 +785,13 @@
     <td>801-941-6613</td>
     <td>larry@ojavanproducts.com</td>
   </tr>
+  <tr class="even">
+    <td>Farr West Poplar</td>
+    <td>Music Rep.</td>
+    <td>Gerilyn Jensen</td>
+    <td>801-628-3325</td>
+    <td>gerilynjensen@rocketmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Farr West</td>
     <td>Coordinator 1</td>
@@ -567,6 +805,13 @@
     <td>Preston Boswell</td>
     <td>801-645-0256</td>
     <td>boswell28@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Farr West</td>
+    <td>Music Rep.</td>
+    <td>Becky Arrington </td>
+    <td>801-458-5253</td>
+    <td>beckyarrington2504@Yahoo.com</td>
   </tr>
   <tr class="even">
     <td>Harrisville</td>
@@ -582,6 +827,13 @@
     <td>801-452-1998</td>
     <td>garys@xmission.com</td>
   </tr>
+  <tr class="even">
+    <td>Harrisville</td>
+    <td>Music Rep.</td>
+    <td>Emily Harkness</td>
+    <td>801-645-1457</td>
+    <td>emilyharknessphotography@gmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Hooper</td>
     <td>Coordinator 1</td>
@@ -595,6 +847,13 @@
     <td>Don Fowers</td>
     <td>801-773-3839</td>
     <td>don@fowerstire.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Hooper</td>
+    <td>Music Rep.</td>
+    <td>Lisa Hamblin</td>
+    <td>801-678-2262</td>
+    <td>Lisa.hamblin@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Kanesville</td>
@@ -610,6 +869,13 @@
     <td>801.419.2649</td>
     <td>dredgedl@ldschurch.org</td>
   </tr>
+  <tr class="even">
+    <td>Kanesville</td>
+    <td>Music Rep.</td>
+    <td>Donna Dallinga</td>
+    <td>801-809-6702</td>
+    <td>donnadallinga47@comcast.net</td>
+  </tr>
   <tr class="odd">
     <td>Mound Fort</td>
     <td>Coordinator 1</td>
@@ -623,6 +889,20 @@
     <td>David Stanger</td>
     <td>801-399-1515</td>
     <td>vstanger@live.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Mound Fort</td>
+    <td>Coordinator 2</td>
+    <td>Marilyn Holley</td>
+    <td>801-668-0585</td>
+    <td>holleymar42@yahoo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Mound Fort</td>
+    <td>Coordinator 2</td>
+    <td>Shawn &amp; Marilyn Holley</td>
+    <td>801-668-0585</td>
+    <td>holleymar42@yahoo.com</td>
   </tr>
   <tr class="even">
     <td>Ogden Weber North</td>
@@ -638,6 +918,13 @@
     <td>801- 940-2461</td>
     <td>guyharbe@yahoo.com</td>
   </tr>
+  <tr class="even">
+    <td>Ogden Weber North</td>
+    <td>Music Rep.</td>
+    <td>Evonne Howard</td>
+    <td>801-643-7126</td>
+    <td>howardevonne@yahoo.com</td>
+  </tr>
   <tr class="odd">
     <td>Ogden West</td>
     <td>Coordinator 1</td>
@@ -651,6 +938,20 @@
     <td>Scott Lucas </td>
     <td>801-388-8466</td>
     <td>scottlucas@marketstar.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden West</td>
+    <td>Music Rep.</td>
+    <td>Pam Higginson</td>
+    <td>801-540-3594</td>
+    <td>pam.higginson@cancer.org</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden West</td>
+    <td>Music Rep.</td>
+    <td>Diane Morin</td>
+    <td>801-725-5517</td>
+    <td>dmorin@wsd.net</td>
   </tr>
   <tr class="even">
     <td>Ogden YSA 2nd</td>
@@ -679,6 +980,13 @@
     <td>801-726-4198</td>
     <td>Hancock4470@msn.com</td>
   </tr>
+  <tr class="odd">
+    <td>Plain City</td>
+    <td>Music Rep.</td>
+    <td>Alan Yorgason</td>
+    <td>801-388-1796</td>
+    <td>ayorgason@gmail.com</td>
+  </tr>
   <tr class="even">
     <td>West Haven</td>
     <td>Coordinator 1</td>
@@ -693,7 +1001,13 @@
     <td>801-645-6601</td>
     <td>gpjnjvj@msn.com</td>
   </tr>
-
+  <tr class="even">
+    <td>West Haven</td>
+    <td>Music Rep.</td>
+    <td>Valeen Peterson</td>
+    <td>801-710-6393</td>
+    <td>bgrand88@juno.com</td>
+  </tr>
 </table>
 <?php
   }
@@ -724,6 +1038,13 @@
     <td>435-336-2619</td>
     <td>sam.donaldson@kilgorecontracting.com</td>
   </tr>
+  <tr class="even">
+    <td>Coalville Stake</td>
+    <td>Music Rep.</td>
+    <td>Vicky Richins</td>
+    <td>435-336-5859</td>
+    <td>vicky.richins@yahoo.com</td>
+  </tr>
   <tr class="odd">
     <td>Evanston Wyoming Stake</td>
     <td>Coordinator 1</td>
@@ -738,6 +1059,13 @@
     <td>307-677- 5168   </td>
     <td>copycats@allwest.net</td>
   </tr>
+  <tr class="odd">
+    <td>Evanston Wyoming Stake</td>
+    <td>Music Rep.</td>
+    <td>Barbara Diehl</td>
+    <td>307-708-3333</td>
+    <td>thend@vcn.com</td>
+  </tr>
   <tr class="even">
     <td>Evanston Wyoming South Stake</td>
     <td>Coordinator 1</td>
@@ -751,6 +1079,13 @@
     <td>Roland Park</td>
     <td>307-789-5330</td>
     <td>rolandprk@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Evanston Wyoming South Stake</td>
+    <td>Music Rep.</td>
+    <td>Jolene Hill</td>
+    <td>307-677-3071</td>
+    <td>jrh.family@hotmail.com</td>
   </tr>
   <tr class="odd">
     <td>Green River Wyoming Stake</td>
@@ -773,6 +1108,20 @@
     <td>307-723-0840</td>
     <td>ellissn9@q.com</td>
   </tr>
+  <tr class="even">
+    <td>Kemmerer Wyoming Stake</td>
+    <td>Music Rep.</td>
+    <td>Celeste Howard</td>
+    <td>307-386-9249</td>
+    <td>rossceleste85@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Kemmerer Wyoming Stake</td>
+    <td>Music Rep.</td>
+    <td>Deb Archibald</td>
+    <td>&nbsp;</td>
+    <td>debarchibald@msn.com</td>
+  </tr>
   <tr class="odd">
     <td>Lyman Wyoming Stake</td>
     <td>Coordinator 1</td>
@@ -787,6 +1136,13 @@
     <td>307-780-8085</td>
     <td>wyovet@gmail.com</td>
   </tr>
+  <tr class="odd">
+    <td>Lyman Wyoming Stake</td>
+    <td>Music Rep.</td>
+    <td>Jesse Willie</td>
+    <td>307-600-3040</td>
+    <td>jessewillie@yahoo.com</td>
+  </tr>
   <tr class="even">
     <td>Riverton Wyoming Stake</td>
     <td>Coordinator 1</td>
@@ -794,7 +1150,14 @@
     <td>307-349-2331</td>
     <td>mshane@wyoming.com</td>
   </tr>
-     <tr class="odd">
+  <tr class="even">
+    <td>Riverton Wyoming Stake</td>
+    <td>Music Rep.</td>
+    <td>Cindy McDonald</td>
+    <td>307-240-0482</td>
+    <td>mcdfamily@wyoming.com</td>
+  </tr>
+  <tr class="odd">
     <td>Rock Springs Wyoming Stake</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -831,6 +1194,20 @@
     <td>801-682-3254</td>
     <td>dnpcarter1@msn.com</td>
   </tr>
+  <tr class="even">
+    <td>Clearfield Utah North Stake </td>
+    <td>Music Rep.</td>
+    <td>Analee Lee</td>
+    <td>831-233-8670</td>
+    <td>Motherdiva1066@hotmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clearfield Utah North Stake </td>
+    <td>Music Rep.</td>
+    <td>Andrea Scanlon</td>
+    <td>(801) 518-9604</td>
+    <td>tygerlily.02@gmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Clearfield Utah South Stake</td>
     <td>Coordinator 1</td>
@@ -844,6 +1221,13 @@
     <td>Trevor Wilson </td>
     <td>801-833-1534</td>
     <td>trevor_wilson@byu.edu</td>
+  </tr>
+  <tr class="odd">
+    <td>Clearfield Utah South Stake</td>
+    <td>Music Rep.</td>
+    <td>Emily Turpin</td>
+    <td>&nbsp;</td>
+    <td>emturpin@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Clearfield Utah Stake</td>
@@ -859,6 +1243,13 @@
     <td>801-825-1286</td>
     <td>justin@bsgbenefits.com</td>
   </tr>
+  <tr class="even">
+    <td>Clearfield Utah Stake</td>
+    <td>Music Rep.</td>
+    <td>Krissy Hegsted</td>
+    <td>801-882-0291</td>
+    <td>kristinehattie@hotmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Morgan Utah North Stake</td>
     <td>Coordinator 1</td>
@@ -872,6 +1263,20 @@
     <td>Boyd Jacobson </td>
     <td>(801) 829-5528</td>
     <td>boydjacobson@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Morgan Utah North Stake</td>
+    <td>Music Rep.</td>
+    <td>Lanette Jensen</td>
+    <td>801 829 6757</td>
+    <td>lanette3@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Morgan Utah North Stake</td>
+    <td>Music Rep.</td>
+    <td>Marilyn Lofgreen</td>
+    <td>801 829 6232</td>
+    <td>marilyn.lofgreen@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Morgan Utah Stake</td>
@@ -887,6 +1292,13 @@
     <td>801-528-8241</td>
     <td>&nbsp;</td>
   </tr>
+  <tr class="even">
+    <td>Morgan Utah Stake</td>
+    <td>Music Rep.</td>
+    <td>Teresa Brooks</td>
+    <td>801-458-7660</td>
+    <td>alanbrooksfamily6@hotmail.com</td>
+  </tr>
   <tr class="odd">
     <td>South Weber Utah Stake</td>
     <td>Coordinator 1</td>
@@ -900,6 +1312,20 @@
     <td>Will Street </td>
     <td>801 528-8266 </td>
     <td>was509@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>South Weber Utah Stake</td>
+    <td>Music Rep.</td>
+    <td>Jean Jenkins</td>
+    <td>801 430-6183</td>
+    <td>jeanbjenkins@comcast.net </td>
+  </tr>
+  <tr class="odd">
+    <td>South Weber Utah Stake</td>
+    <td>Music Rep.</td>
+    <td>Jolene Sjoblom</td>
+    <td>801 628-3905</td>
+    <td>jsjoblom@dsdmail.net</td>
   </tr>
   <tr class="even">
     <td>Sunset Utah Stake</td>
@@ -915,6 +1341,13 @@
     <td>801-698-1674</td>
     <td>spaderwire@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Sunset Utah Stake</td>
+    <td>Music Rep.</td>
+    <td>Kristal Goddard</td>
+    <td>801-603-7688. </td>
+    <td>latsirkkristal@yahoo.com</td>
+  </tr>
   <tr class="odd">
     <td>Syracuse Utah Bluff Stake</td>
     <td>Coordinator 1</td>
@@ -928,6 +1361,13 @@
     <td>Doug Stokes </td>
     <td>801-643-8463</td>
     <td>dstokes@dsdmail.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Bluff Stake</td>
+    <td>Music Rep.</td>
+    <td>Sheri Barber</td>
+    <td>801-390-1921</td>
+    <td>sher.5@hotmail.com</td>
   </tr>
   <tr class="even">
     <td>Syracuse Utah Lake View YSA Stk</td>
@@ -957,6 +1397,13 @@
     <td>801-699-0240</td>
     <td>kdowns@dfamilk.com</td>
   </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Legacy Park Stake</td>
+    <td>Music Rep.</td>
+    <td>Robert Douglas &quot;RD&quot; Parsons</td>
+    <td>801-525-6788</td>
+    <td>rparsonsgtr@yahoo.com</td>
+  </tr>
   <tr class="even">
     <td>Syracuse Utah South Stake</td>
     <td>Coordinator 1</td>
@@ -970,6 +1417,13 @@
     <td>Galen Rasmussen</td>
     <td>801-728-4632</td>
     <td>GalenR@q.com</td>
+  </tr>
+  <tr class="even">
+    <td>Syracuse Utah South Stake</td>
+    <td>Music Rep.</td>
+    <td>Lara Mountford</td>
+    <td>801.726.6462</td>
+    <td>Lmountford@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Syracuse Utah Stake</td>
@@ -985,12 +1439,33 @@
     <td>801-721-1039</td>
     <td>nelsonthomas24@yahoo.com</td>
   </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Stake</td>
+    <td>Music Rep.</td>
+    <td>Kari McEvoy</td>
+    <td>801-645-2713</td>
+    <td>kkmcevoy@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Stake</td>
+    <td>Music Rep.</td>
+    <td>Kevin McEvoy</td>
+    <td>801-589-1250</td>
+    <td>Kevin.McEvoy@icentris.com</td>
+  </tr>
   <tr class="even">
     <td>Syracuse Utah West Stake </td>
     <td>Coordinator 1</td>
     <td>Kelly Taylor</td>
     <td>801-452-5242</td>
     <td>kt@medell.com</td>
+  </tr>
+  <tr class="even">
+    <td>Syracuse Utah West Stake </td>
+    <td>Music Rep.</td>
+    <td>Mary Streuling</td>
+    <td>801-510-5978</td>
+    <td>iloveckra@gmail.com</td>
   </tr>
 </table>
 <?php
@@ -1019,8 +1494,22 @@
     <td>Clinton Utah West Stake</td>
     <td>Coordinator 2</td>
     <td>Kregg Knight</td>
-    <td>801- 543-9029</td>
+    <td>801-543-9029</td>
     <td>kregg51@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clinton Utah West Stake</td>
+    <td>Music Rep.</td>
+    <td>Julie Porter</td>
+    <td>801-882-4701</td>
+    <td>dirkjuliebunch@mstar2.net</td>
+  </tr>
+  <tr class="even">
+    <td>Clinton Utah West Stake</td>
+    <td>Music Rep.</td>
+    <td>Suzanne Poole</td>
+    <td>801-791-1812</td>
+    <td>suzanne@poolepianostudio.com</td>
   </tr>
   <tr class="odd">
     <td>Clinton Utah Stake</td>
@@ -1036,6 +1525,13 @@
     <td>801-725-0054</td>
     <td>mitscolee@gmail.com</td>
   </tr>
+  <tr class="odd">
+    <td>Clinton Utah Stake</td>
+    <td>Music Rep.</td>
+    <td>Thomas Saunders</td>
+    <td>(801) 779-3881</td>
+    <td>ja9thomas6@gmail.com</td>
+  </tr>
   <tr class="even">
     <td>Clinton Utah North Stake</td>
     <td>Coordinator 1</td>
@@ -1049,6 +1545,13 @@
     <td>J. Dak Maxfield</td>
     <td>801-698-9264</td>
     <td>&nbsp;</td>
+  </tr>
+  <tr class="even">
+    <td>Clinton Utah North Stake</td>
+    <td>Music Rep.</td>
+    <td>Jamie Balaich</td>
+    <td>(801) 645-4813</td>
+    <td>jbalaich@hotmail.com</td>
   </tr>
   <tr class="odd">
     <td>Roy Utah Central Stake</td>
@@ -1064,7 +1567,14 @@
     <td>801-776-0577</td>
     <td>&nbsp;</td>
   </tr>
-    <tr class="even">
+  <tr class="odd">
+    <td>Roy Utah Central Stake</td>
+    <td>Music Rep.</td>
+    <td>Charity Heiner</td>
+    <td>801-391-8879</td>
+    <td>clheiner@hotmail.com</td>
+  </tr>
+  <tr class="even">
     <td>Roy Utah Midland Stake</td>
     <td>Coordinator 1</td>
     <td>Greg Seegmiller</td>
@@ -1077,6 +1587,13 @@
     <td>Lance Alkire</td>
     <td>801-458-0875</td>
     <td>alkirefam5@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Roy Utah Midland Stake</td>
+    <td>Music Rep.</td>
+    <td>Amanda Gibson </td>
+    <td>801-726-9507</td>
+    <td>kasezwifey@hotmail.com</td>
   </tr>
   <tr class="odd">
     <td>Roy Utah North Stake</td>
@@ -1092,6 +1609,13 @@
     <td>801-510-5539</td>
     <td>rkinmont@gmail.com</td>
   </tr>
+  <tr class="odd">
+    <td>Roy Utah North Stake</td>
+    <td>Msuic Rep.</td>
+    <td>Jared Brandley</td>
+    <td>801-698-5279</td>
+    <td>jaredbrandley@comcast.net</td>
+  </tr>
   <tr class="even">
     <td>Roy Utah South Stake</td>
     <td>Coordinator 1</td>
@@ -1105,6 +1629,13 @@
     <td>Jerry Wilkins</td>
     <td>801-528-2180</td>
     <td>silkwilk46@aol.com</td>
+  </tr>
+  <tr class="even">
+    <td>Roy Utah South Stake</td>
+    <td>Music Rep.</td>
+    <td>Lyn Bardwell</td>
+    <td>801-388-9685</td>
+    <td>Lbardwell@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Roy Utah Stake</td>
@@ -1120,6 +1651,13 @@
     <td>801-205-4476</td>
     <td>dwayne.saviano@gmail.com</td>
   </tr>
+  <tr class="odd">
+    <td>Roy Utah Stake</td>
+    <td>Music Rep.</td>
+    <td>Geoff Anderson </td>
+    <td>801-721-4146</td>
+    <td>ganderson@wsd.net</td>
+  </tr>
   <tr class="even">
     <td>Roy Utah West Stake</td>
     <td>Coordinator 1</td>
@@ -1133,6 +1671,13 @@
     <td>David Brenchley</td>
     <td>801-726-3456</td>
     <td>davidbrenchley@msn.com</td>
+  </tr>
+  <tr class="even">
+    <td>Roy Utah West Stake</td>
+    <td>Music Rep.</td>
+    <td>Janette Duffin</td>
+    <td>801-728-3207 </td>
+    <td>jduffin@dsdmail.net</td>
   </tr>
   <tr class="odd">
     <td>West Point Utah Lakeside Stake</td>
@@ -1148,6 +1693,13 @@
     <td>801-540-8325</td>
     <td>dsingleton@dsdmail.net</td>
   </tr>
+  <tr class="odd">
+    <td>West Point Utah Lakeside Stake</td>
+    <td>Music Rep.</td>
+    <td>Sheila  Lowe  </td>
+    <td>801-391- 2240   </td>
+    <td>sdrlowe@hotmail.com</td>
+  </tr>
   <tr class="even">
     <td>West Point Utah Stake</td>
     <td>Coordinator 1</td>
@@ -1161,6 +1713,13 @@
     <td>Mark Crosby </td>
     <td>801 678 0701</td>
     <td>greatwale@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>West Point Utah Stake</td>
+    <td>Music Rep.</td>
+    <td>Scott Wolford</td>
+    <td>801-820-5404</td>
+    <td>swolford@utah.gov</td>
   </tr>
 </table>
 <?php    

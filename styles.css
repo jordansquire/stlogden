@@ -260,3 +260,6 @@ table.directory td {
 .even {
   background-color: #FFFFFF;
 }
+.text_center {
+  text-align: center;
+}
