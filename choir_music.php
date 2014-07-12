@@ -111,11 +111,7 @@
     <td>6.</td>
     <td>Army of Helaman / Called to Serve</td>
     <td>Choir / Cast</td>
-    <td class="text_center">
-      <a href="http://media.ldscdn.org/pdf/music/childrens-songbook/2002-01-1520-well-bring-the-world-his-truth-army-of-helaman-eng.pdf?download=true">
-        <img src="images/sheet_music.png" alt="Sheet Music" />
-      </a>
-    </td>
+    <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="text_center"><a href="choir_mp3.php#helaman"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">&nbsp;</td>

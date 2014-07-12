@@ -119,6 +119,7 @@
   </tr>
 </table>
 
+<br/>
 <a name="railroad"></a>
 <h3>3. I&#39;ve Been Working on the Railroad / Golden Spike</h3>
 <table class="directory" style="font-size:14px;">
@@ -146,6 +147,7 @@
   </tr>
 </table>
 
+<br/>
 <a name="chosen"></a>
 <h3>4. We Are Chosen</h3>
 <table class="directory" style="font-size:14px;">
@@ -233,6 +235,7 @@
   </tr>
 </table>
 
+<br/>
 <a name="ready"></a>
 <h3>5. I am Ready</h3>
 <table class="directory" style="font-size:14px;">
@@ -315,6 +318,7 @@
   </tr>
 </table>
 
+<br/>
 <a name="helaman"></a>
 <h3>6. Army of Helaman / Called to Serve</h3>
 <table class="directory" style="font-size:14px;">
@@ -332,6 +336,7 @@
   </tr>
 </table>
 
+<br/>
 <a name="new_day"></a>
 <h3>7. Light of A New Day</h3>
 <table class="directory" style="font-size:14px;">
