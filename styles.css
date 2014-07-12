@@ -222,6 +222,20 @@ table.directory th {
 table.directory td {
   padding: 2px 5px;
   border-bottom: 1px solid #CCCCCC;
+  vertical-align: top;
+}
+ul.notes {
+  margin: 0;
+}
+ul.notes li:first-child {
+  margin-top: 0px;
+}
+ul.notes li {
+  list-style-image: url('images/bullet_black.png');
+  margin: 10px 0 0 -20px;
+}
+ul.notes li span {
+  vertical-align: top;
 }
 
 .right {
@@ -255,7 +269,7 @@ table.directory td {
   font-size: 12px;
 }
 .odd {
-  background-color: #F9F9F9;
+  background-color: #EDEDED;
 }
 .even {
   background-color: #FFFFFF;
