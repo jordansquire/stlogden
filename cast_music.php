@@ -34,33 +34,51 @@
       <th>#</th>
       <th style="width:200px;">Song</th>
       <th style="width:160px;">Who</th>
-      <th colspan="2" style="text-align:center;">Downloads</th>
+      <th colspan="3" style="text-align:center;">Downloads</th>
       <th style="width:300px;">Notes</th>
     </tr>
   </thead>
   <tr>
     <td>1.</td>
-    <td>Hoedown</td>
-    <td class="text_center">&nbsp;-&nbsp;</td>
+    <td>Shine the Light</td>
+    <td>Choir / Cast</td>
+    <td class="text_center"><a href="files/choir/2_shine_the_light/Shine_the_Light.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="text_center">
-      <a href="files/cast/Hoedown.mp3"><img src="images/mp3.png" alt="mp3" /></a>
+      <a href="https://drive.google.com/file/d/0B31UTznXWoLudmRGQm9xNktaRXM/edit?usp=sharing"><img src="images/video.png" alt="Video" /></a> 
     </td>
-    <td class="text_center">&nbsp;-&nbsp;</td>
+    <td class="text_center">
+      <a href="files/choir/2_shine_the_light/Shine_the_Light.pdf"><img src="images/sheet_music.png" alt="Sheet Music" /></a>
+    </td>
     <td class="odd">&nbsp;</td>
   </tr>
   <tr>
     <td>2.</td>
-    <td>Las Alazanas (Huapango)</td>
+    <td>Hoedown</td>
+    <td>&nbsp;-&nbsp;</td>
+    <td class="text_center">
+      <a href="files/cast/Hoedown.mp3"><img src="images/mp3.png" alt="mp3" /></a>
+    </td>
     <td class="text_center">&nbsp;-&nbsp;</td>
-    <td class="text_center"><a href="files/cast/Las_Alazanas_Huapango.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">&nbsp;</td>
   </tr>
   <tr>
     <td>3.</td>
+    <td>Las Alazanas (Huapango)</td>
+    <td>&nbsp;-&nbsp;</td>
+    <td class="text_center"><a href="files/cast/Las_Alazanas_Huapango.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="text_center">
+      <a href="https://drive.google.com/file/d/0B31UTznXWoLuajFIUlh6UHRHblU/edit?usp=sharing"><img src="images/video.png" alt="Video" /></a> 
+    </td>
+    <td class="text_center">&nbsp;-&nbsp;</td>
+    <td class="odd">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>4.</td>
     <td>Army of Helaman / Called to Serve</td>
     <td>Choir / Cast</td>
-    <td class="text_center"><a href="files/choir/6_helaman/Army_of_Helaman_Called_to_Serve.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="text_center"><a href="files/cast/Shine_The_Light_Timing.pdf"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">&nbsp;</td>
   </tr>
