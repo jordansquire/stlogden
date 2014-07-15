@@ -63,7 +63,9 @@
     <td class="text_center">
       <a href="files/cast/Hoedown.mp3"><img src="images/mp3.png" alt="mp3" /></a>
     </td>
-    <td class="text_center">&nbsp;-&nbsp;</td>
+    <td class="text_center">
+      <a href="https://drive.google.com/file/d/0B31UTznXWoLuWTFpQUxrVWNiVWc/edit?usp=sharing"><img src="images/video.png" alt="Video" /></a> 
+    </td>
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">&nbsp;</td>
   </tr>
