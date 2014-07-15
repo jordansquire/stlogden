@@ -25,7 +25,7 @@
   }
   $cast = getCast($council);
 ?>
-<h1>Calendar</h1>
+<h1>Cast Calendar</h1>
 <div class="divider"></div>
 <div class="information right" style="width:300px; margin-left:50px;">
   <h4 style="margin:0 0 10px 0; text-align:center;">Your Information</h4>
@@ -53,6 +53,6 @@
 </ul>
 <p>
 </p>
-<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=1odnsbv4cd6l70t3imq949sfao%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FDenver" style=" border-width:0 " width="835" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l25rupi4rl3c4ec8np9tbijfec%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FDenver" style=" border-width:0 " width="835" height="800" frameborder="0" scrolling="no"></iframe>
 <div style="height:30px; clear:both;">&nbsp;</div>
 <?php include('footer.php'); ?>
