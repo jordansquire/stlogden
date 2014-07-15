@@ -55,7 +55,7 @@
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">
       <ul class="notes">
-        <li><span>Opening Song</span></li>
+        <li><span>Opening song</span></li>
       </ul>
     </td>
   </tr>
@@ -67,10 +67,13 @@
       <a href="files/choir/2_shine_the_light/Shine_the_Light.pdf"><img src="images/sheet_music.png" alt="Sheet Music" /></a>
     </td>
     <td class="text_center"><a href="choir_mp3.php"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="text_center">&nbsp;-&nbsp;</td>
+    <td class="text_center">
+      <a href="https://drive.google.com/file/d/0B31UTznXWoLudXVfS0RuYzR1aDQ/edit?usp=sharing"><img src="images/video.png" alt="Video" /></a> 
+    </td>
     <td class="odd">
       <ul class="notes">
         <li><span>The choir will be singing a different part than the cast</span></li>
+        <li><span>See the video for hand motions</span></li>
       </ul>
     </td>
   </tr>

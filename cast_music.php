@@ -49,7 +49,12 @@
     <td class="text_center">
       <a href="files/cast/Shine_The_Light_Timing.pdf"><img src="images/document.png" alt="Shine the Light Timing" /></a>
     </td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd">
+      <ul class="notes">
+        <li><span><a href="https://drive.google.com/file/d/0B31UTznXWoLudXVfS0RuYzR1aDQ/edit?usp=sharing">Hand motions</a> 
+          for those seated</span></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>2.</td>
