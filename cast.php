@@ -28,6 +28,7 @@
 <h1>Cast Announcements</h1>
 <div class="divider"></div>
 <div class="right likebox">
+  <div class="error" style="text-align:center;">All participants need to complete a <a href="files/Release_to_Use_Image.pdf">release form</a></div>
   <div class="information">
     <h4 style="margin:0 0 10px 0; text-align:center;">Your Information</h4>
     <table class="directory">

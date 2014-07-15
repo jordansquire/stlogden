@@ -49,6 +49,7 @@
   </ul>
   Contact your local bishop to find out ways you can be part of this once in a lifetime opportunity. Not 
   sure who your bishop is? Enter your address <a href="http://www.mormon.org/meetinghouse">here</a>.</p>
+<p><b>All participants will need to complete a <a href="files/Release_to_Use_Image.pdf">release form</a></b></p>
 <br/>
 <a name="login"></a>
 <div class="form">

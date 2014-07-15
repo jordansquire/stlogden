@@ -55,7 +55,7 @@
   <tr>
     <td>1st Soprano</td>
     <td class="text_center"><a href="files/choir/2_shine_the_light/Shine_the_Light_Soprano.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>1st Soprano with Acc.</td>
@@ -65,7 +65,7 @@
   <tr>
     <td>2nd Soprano</td>
     <td class="text_center"><a href="files/choir/2_shine_the_light/Shine_the_Light_2nd_Soprano.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>2nd Soprano with Acc.</td>
@@ -75,7 +75,7 @@
   <tr>
     <td>Alto</td>
     <td class="text_center"><a href="files/choir/2_shine_the_light/Shine_the_Light_Alto.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Alto with Acc.</td>
@@ -85,7 +85,7 @@
   <tr>
     <td>Tenor</td>
     <td class="text_center"><a href="files/choir/2_shine_the_light/Shine_the_Light_Tenor.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Tenor with Acc.</td>
@@ -95,7 +95,7 @@
   <tr>
     <td>Baritone</td>
     <td class="text_center"><a href="files/choir/2_shine_the_light/Shine_the_Light_Baritone.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Baritone with Acc.</td>
@@ -105,7 +105,7 @@
   <tr>
     <td>Bass</td>
     <td class="text_center"><a href="files/choir/2_shine_the_light/Shine_the_Light_Bass.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Bass with Acc.</td>
@@ -176,7 +176,7 @@
   <tr>
     <td>1st Soprano</td>
     <td class="text_center"><a href="files/choir/4_chosen/We_Are_Chosen_Soprano.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>1st Soprano with Acc.</td>
@@ -186,7 +186,7 @@
   <tr>
     <td>2nd Soprano</td>
     <td class="text_center"><a href="files/choir/4_chosen/We_Are_Chosen_2nd_Soprano.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>2nd Soprano with Acc.</td>
@@ -196,7 +196,7 @@
   <tr>
     <td>Alto</td>
     <td class="text_center"><a href="files/choir/4_chosen/We_Are_Chosen_Alto.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Alto with Acc.</td>
@@ -206,7 +206,7 @@
   <tr>
     <td>Tenor</td>
     <td class="text_center"><a href="files/choir/4_chosen/We_Are_Chosen_Tenor.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Tenor with Acc.</td>
@@ -216,7 +216,7 @@
   <tr>
     <td>Baritone</td>
     <td class="text_center"><a href="files/choir/4_chosen/We_Are_Chosen_Baritone.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Baritone with Acc.</td>
@@ -226,7 +226,7 @@
   <tr>
     <td>Bass</td>
     <td class="text_center"><a href="files/choir/4_chosen/We_Are_Chosen_Bass.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Bass with Acc.</td>
@@ -264,7 +264,7 @@
   <tr>
     <td>Soprano</td>
     <td class="text_center"><a href="files/choir/5_ready/I_Am_Ready_soprano.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Soprano with Acc.</td>
@@ -274,7 +274,7 @@
   <tr>
     <td>Alto</td>
     <td class="text_center"><a href="files/choir/5_ready/I_Am_Ready_alto.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Alto with Acc.</td>
@@ -284,7 +284,7 @@
   <tr>
     <td>Tenor</td>
     <td class="text_center"><a href="files/choir/5_ready/I_Am_Ready_tenor.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Tenor with Acc.</td>
@@ -294,7 +294,7 @@
   <tr>
     <td>Baritone</td>
     <td class="text_center"><a href="files/choir/5_ready/I_Am_Ready_baritone.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Baritone with Acc.</td>
@@ -304,7 +304,7 @@
   <tr>
     <td>Bass</td>
     <td class="text_center"><a href="files/choir/5_ready/I_Am_Ready_bass.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Bass with Acc.</td>
@@ -365,7 +365,7 @@
   <tr>
     <td>Soprano</td>
     <td class="text_center"><a href="files/choir/7_new_day/Light_of_A_New_Day_soprano.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Soprano with Acc.</td>
@@ -375,7 +375,7 @@
   <tr>
     <td>Alto</td>
     <td class="text_center"><a href="files/choir/7_new_day/Light_of_A_New_Day_alto.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Alto with Acc.</td>
@@ -385,7 +385,7 @@
   <tr>
     <td>Tenor</td>
     <td class="text_center"><a href="files/choir/7_new_day/Light_of_A_New_Day_tenor.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Tenor with Acc.</td>
@@ -395,7 +395,7 @@
   <tr>
     <td>Bass</td>
     <td class="text_center"><a href="files/choir/7_new_day/Light_of_A_New_Day_bass.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd"><i>Track starts with silence</i></td>
   </tr>
   <tr>
     <td>Bass with Acc.</td>

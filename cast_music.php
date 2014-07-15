@@ -47,7 +47,7 @@
       <a href="https://drive.google.com/file/d/0B31UTznXWoLudmRGQm9xNktaRXM/edit?usp=sharing"><img src="images/video.png" alt="Video" /></a> 
     </td>
     <td class="text_center">
-      <a href="files/cast/Shine_The_Light_Timing.pdf"><img src="images/sheet_music.png" alt="Sheet Music" /></a>
+      <a href="files/cast/Shine_The_Light_Timing.pdf"><img src="images/document.png" alt="Shine the Light Timing" /></a>
     </td>
     <td class="odd">&nbsp;</td>
   </tr>
@@ -78,7 +78,9 @@
     <td>Army of Helaman / Called to Serve</td>
     <td>Choir / Cast</td>
     <td class="text_center"><a href="files/choir/6_helaman/Army_of_Helaman_Called_to_Serve.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="text_center">&nbsp;-&nbsp;</td>
+    <td class="text_center">
+      <a href="https://docs.google.com/file/d/0B31UTznXWoLuMFIzVE56ODc5Wk0/edit"><img src="images/video.png" alt="Video" /></a> 
+    </td>
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">&nbsp;</td>
   </tr>
