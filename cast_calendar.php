@@ -45,10 +45,11 @@
   </table>
   <div class="prompt" style="text-align:right;">Not the right Stake? <a href="logout.php">Change it</a></div>
 </div>
-<p>Some events require you to know your Cast and Coordinating Council.</p>
+<p>Some events require you to know your Cast and Coordinating Council. <b>Your stake will schedule its own practices 
+  which will not be listed on this calendar.</b></p>
 <ul class="notes">
   <li><span>
-    <a href="files/DanceAssignments.xlsx">Click here to download your stake&#39;s dance assignments, and rehearsal schedule!</a>
+    <a href="files/DanceAssignments.xlsx">Click here to download your stakes&#39; dance assignments, and rehearsal schedule!</a>
   </span></li>
 </ul>
 <p>
