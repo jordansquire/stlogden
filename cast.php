@@ -51,6 +51,20 @@
   </div>
   <iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FShineTheLightOgden&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe>
 </div>
+<h3 class="date">Wed, July 16th</h3>
+<h3>Dance Corps Auditions</h3>
+<p>Thank you to everyone who came to audition for the Dance Corps this past Saturday and Monday. We 
+  were overwhelmed with the talent and enthusiasm of the dancers we saw! The dancers for the Corps 
+  have been selected and notified at this time. If you have not received an email or voicemail by now, 
+  then we thank you for coming. You are amazing and we are thrilled to have your leadership and talent 
+  in the stake production numbers!</p>
+
+<p>Sincerely<br/>
+Dennis Ferrin, Director<br/>
+Rachel Helwig, Dance Director<br/>
+Dede Williams, Choreographer, Dance Corps<br/>
+</p>
+
 <h3 class="date">Sun, July 6th</h3>
 <h3>Welcome!</h3>
 <p>We are so very excited for your willingness to share your talents in this once in a lifetime event! 

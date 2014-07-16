@@ -37,6 +37,20 @@
     <td>801-390-3195</td>
     <td>Familiegraff@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Layton Utah</td>
+    <td>Cast Asst. 1</td>
+    <td>Makay McIntosh</td>
+    <td>801-879-1268</td>
+    <td>mmcintosh@q.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah</td>
+    <td>Cast Asst. 2</td>
+    <td>Abe Carlsruh</td>
+    <td>801-686-3783</td>
+    <td>cher_bros@hotmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Layton Utah Creekside</td>
     <td>Coordinator 1</td>
@@ -57,6 +71,13 @@
     <td>Charlene Adams</td>
     <td>801-529-3976</td>
     <td>charlou6@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah Creekside</td>
+    <td>Cast Asst. 1</td>
+    <td>Norm &amp; Michelle Frost</td>
+    <td>801-444-0480</td>
+    <td>&nbsp;</td>
   </tr>
   <tr class="even">
     <td>Layton Utah East</td>
@@ -86,6 +107,20 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
+  <tr class="even">
+    <td>Layton Utah East</td>
+    <td>Cast Asst. 1</td>
+    <td>Jodi Rutter</td>
+    <td>801.706.0400</td>
+    <td>jlrutter@hotmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah East</td>
+    <td>Cast Asst. 2</td>
+    <td>Mark &amp; Jana Lee Pendleton</td>
+    <td>801.510.9791<br/>801.289.6612</td>
+    <td>mjpendleton9@q.com</td>
+  </tr>
   <tr class="odd">
     <td>Layton Utah Holmes Creek</td>
     <td>Coordinator 1</td>
@@ -106,6 +141,20 @@
     <td>Monica Crabb</td>
     <td>&nbsp;</td>
     <td>monicacrabb@yahoo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah Holmes Creek</td>
+    <td>Cast Asst. 1</td>
+    <td>Carol Thomas Madsen</td>
+    <td>801-682-9590</td>
+    <td>carol_lds_brazil@hotmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah Holmes Creek</td>
+    <td>Cast Asst. 2</td>
+    <td>Keri Fawcett</td>
+    <td>801-444-1016</td>
+    <td>keri.fawcett77@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Layton Utah Kays Creek</td>
@@ -149,6 +198,20 @@
     <td>801-698-6350</td>
     <td>Liz.whatcott@gmail.com</td>
   </tr>
+  <tr class="odd">
+    <td>Layton Utah Layton Hills</td>
+    <td>Cast Asst. 1</td>
+    <td>Jason Crowl</td>
+    <td>801-643-3050</td>
+    <td>Jjcrowl91@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah Layton Hills</td>
+    <td>Cast Asst. 2</td>
+    <td>Brad Young</td>
+    <td>801-825-2923</td>
+    <td>Brad-shauna@juno.com</td>
+  </tr>
   <tr class="even">
     <td>Layton Utah Legacy Stake</td>
     <td>Coordinator 1</td>
@@ -190,6 +253,20 @@
     <td>Melissa Jones Bamfo</td>
     <td>801-719-9124</td>
     <td>melissa@business-made-simple.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah North</td>
+    <td>Cast Asst. 1</td>
+    <td>Chanell Price</td>
+    <td>801-694-8660</td>
+    <td>chananae@hotmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah North</td>
+    <td>Cast Asst. 2</td>
+    <td>Kacee Neff</td>
+    <td>801-864-0297</td>
+    <td>kaceeneff@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Layton Utah Northridge</td>
@@ -233,6 +310,20 @@
     <td>801-719-0842</td>
     <td>jendean1@comcast.net</td>
   </tr>
+  <tr class="odd">
+    <td>Layton Utah South</td>
+    <td>Cast Asst. 1</td>
+    <td>Heidi Stringham</td>
+    <td>801-547-7929</td>
+    <td>heidistringham@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah South</td>
+    <td>Cast Asst. 2</td>
+    <td>Stephanie Seamons</td>
+    <td>801-510-0868</td>
+    <td>smseamons@gmail.com</td>
+  </tr>
   <tr class="even">
     <td>Layton Utah Valley View</td>
     <td>Coordinator 1</td>
@@ -254,6 +345,20 @@
     <td>801-698-1095</td>
     <td>Randypulham@msn.com</td>
   </tr>
+  <tr class="even">
+    <td>Layton Utah Valley View</td>
+    <td>Cast Asst. 1</td>
+    <td>Lloyd Parry</td>
+    <td>801-540-5825</td>
+    <td>lloydparry@ogdencity.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah Valley View</td>
+    <td>Cast Asst. 2</td>
+    <td>Virginia Parry</td>
+    <td>801-540-5825</td>
+    <td>vparry@dsdmail.net</td>
+  </tr>
   <tr class="odd">
     <td>Layton Utah West</td>
     <td>Coordinator 1</td>
@@ -274,6 +379,20 @@
     <td>Myrna Applonie</td>
     <td>801-825-8978</td>
     <td>mylapplonie@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah West</td>
+    <td>Cast Asst. 1</td>
+    <td>Brayden Gardiner</td>
+    <td>801-928-9302</td>
+    <td>braydgardiner21@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah West</td>
+    <td>Cast Asst. 2</td>
+    <td>Alison Gardiner</td>
+    <td>801-928-9302</td>
+    <td>braydgardiner21@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Layton Utah YSA Stake</td>
@@ -326,6 +445,20 @@
     <td>801-458-7058</td>
     <td>dkil709@aol.com </td>
   </tr>
+  <tr class="even">
+    <td>Huntsville</td>
+    <td>Cast Asst. 1</td>
+    <td>Doug Shepherd</td>
+    <td>801-781-0651</td>
+    <td>dugshepherd@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Huntsville</td>
+    <td>Cast Asst. 2</td>
+    <td>Linda Shepherd</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
   <tr class="odd">
     <td>North Ogden Ben Lomond</td>
     <td>Coordinator 1</td>
@@ -346,6 +479,20 @@
     <td>Cara Secrist</td>
     <td>&nbsp;</td>
     <td>cara.secrist@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>North Ogden Ben Lomond</td>
+    <td>Cast Asst. 1</td>
+    <td>Ben Henderson</td>
+    <td>801.782.8707</td>
+    <td>marathonben@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>North Ogden Ben Lomond</td>
+    <td>Cast Asst. 2</td>
+    <td>Doug Stewart</td>
+    <td>801.391.9786</td>
+    <td>doogie@relia.net</td>
   </tr>
   <tr class="even">
     <td>North Ogden Coldwater</td>
@@ -368,6 +515,20 @@
     <td>(801) 603-7382 </td>
     <td>Emily_mae21@yahoo.com</td>
   </tr>
+  <tr class="even">
+    <td>North Ogden Coldwater</td>
+    <td>Cast Asst. 1</td>
+    <td>Shanna Hawes</td>
+    <td>801-391-5855</td>
+    <td>shannahaws@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>North Ogden Coldwater</td>
+    <td>Cast Asst. 2</td>
+    <td>Janeal Huntsman</td>
+    <td>801-690-3202</td>
+    <td>janealhuntsman@aol.com</td>
+  </tr>
   <tr class="odd">
     <td>North Ogden East</td>
     <td>Coordinator 1</td>
@@ -388,6 +549,20 @@
     <td>Melissa Chertudi </td>
     <td>801-675-6256</td>
     <td>mchertudi@wsd.net</td>
+  </tr>
+  <tr class="odd">
+    <td>North Ogden East</td>
+    <td>Cast Asst. 1</td>
+    <td>Jennifer Bird</td>
+    <td>801-737-3078</td>
+    <td>jebird@wsd.net</td>
+  </tr>
+  <tr class="odd">
+    <td>North Ogden East</td>
+    <td>Cast Asst. 2</td>
+    <td>Randy Bird</td>
+    <td>801-737-3078</td>
+    <td>jebird@wsd.net</td>
   </tr>
   <tr class="even">
     <td>North Ogden</td>
@@ -452,6 +627,20 @@
     <td>801-710-9268</td>
     <td>jhpcsears@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Mount Lewis</td>
+    <td>Cast Asst. 1</td>
+    <td>Jamie West</td>
+    <td>801-866-2685</td>
+    <td>jjwest559@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Mount Lewis</td>
+    <td>Cast Asst. 1</td>
+    <td>Luz Fonseca</td>
+    <td>801-688-7340</td>
+    <td>mona1831@hotmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Rock Cliff</td>
     <td>Coordinator 1</td>
@@ -494,6 +683,20 @@
     <td>801-668-4443</td>
     <td>leshavingfun@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Pleasant View South</td>
+    <td>Cast Asst. 1</td>
+    <td>Suzanne Poole</td>
+    <td>435-881-7143</td>
+    <td>suzpoole1@msn.com</td>
+  </tr>
+  <tr class="even">
+    <td>Pleasant View South</td>
+    <td>Cast Asst. 2</td>
+    <td>Leslie Graham</td>
+    <td>801-391-0006</td>
+    <td>iamleslieg@gmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Pleasant View</td>
     <td>Coordinator 1</td>
@@ -514,6 +717,20 @@
     <td>David Sowby</td>
     <td>801.882.6295</td>
     <td>sowbyone@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Pleasant View</td>
+    <td>Cast Asst. 1</td>
+    <td>Clark Carlile</td>
+    <td>801-726-9533</td>
+    <td>clarkc@setpointusa.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Pleasant View</td>
+    <td>Cast Asst. 2</td>
+    <td>Denise LeFevre</td>
+    <td>801-391-4685</td>
+    <td>deniselef1@gmail.com</td>
   </tr>
 </table>
 <?php
@@ -551,6 +768,20 @@
     <td>Jolene Reneau</td>
     <td>801 389-7049</td>
     <td>jodyreneau@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Burch Creek</td>
+    <td>Cast Asst. 1</td>
+    <td>Becky Cragun</td>
+    <td>801-430-6557</td>
+    <td>beckycragun@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Burch Creek</td>
+    <td>Cast Asst. 2</td>
+    <td>Todd Cragun</td>
+    <td>801-860-8601</td>
+    <td>usatodd@gmail.com</td>
   </tr>
    <tr class="odd">
     <td>Ogden East</td>
@@ -636,6 +867,20 @@
     <td>801-458-6245</td>
     <td>meredithashton26@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Weber Heights</td>
+    <td>Cast Asst. 1</td>
+    <td>Zachary Robbins</td>
+    <td>801-644-1323</td>
+    <td>zmrobbinsm@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Weber Heights</td>
+    <td>Cast Asst. 2</td>
+    <td>Melissa Robbins</td>
+    <td>801-668-2789</td>
+    <td>mjrobbins48@gmail.com</td>
+  </tr>
    <tr class="odd">
     <td>Ogden Weber</td>
     <td>Coordinator 1</td>
@@ -656,6 +901,20 @@
     <td>Kristi Palkki</td>
     <td>801-866-4867</td>
     <td>mkpalkki7@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden Weber</td>
+    <td>Cast Asst. 1</td>
+    <td>Parker Alexander</td>
+    <td>801-624-0824</td>
+    <td>parkeralexander09@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden Weber</td>
+    <td>Cast Asst. 2</td>
+    <td>Mailee Shock</td>
+    <td>801-390-5299</td>
+    <td>rmshock@yahoo.com</td>
   </tr>
    <tr class="even">
     <td>Ogden YSA 1st </td>
@@ -755,6 +1014,20 @@
     <td>801-540-9621</td>
     <td>cbottmom@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Washington Terrace West</td>
+    <td>Cast Asst. 1</td>
+    <td>Chris Jones</td>
+    <td>801-866-7479</td>
+    <td>Officerjones85@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Washington Terrace West</td>
+    <td>Cast Asst. 2</td>
+    <td>Clay Peterson</td>
+    <td>801-663-1802</td>
+    <td>&nbsp;</td>
+  </tr>
 </table>
 <?php
   }
@@ -834,6 +1107,20 @@
     <td>801-645-1457</td>
     <td>emilyharknessphotography@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Harrisville</td>
+    <td>Cast Asst. 1</td>
+    <td>Kirsten Gonzales</td>
+    <td>801-782-6191</td>
+    <td>kirsten@gonzales.com</td>
+  </tr>
+  <tr class="even">
+    <td>Harrisville</td>
+    <td>Cast Asst. 2</td>
+    <td>Cara Fureigh</td>
+    <td>801-782-9273</td>
+    <td>carafureigh@hotmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Hooper</td>
     <td>Coordinator 1</td>
@@ -876,6 +1163,20 @@
     <td>801-809-6702</td>
     <td>donnadallinga47@comcast.net</td>
   </tr>
+  <tr class="even">
+    <td>Kanesville</td>
+    <td>Cast Asst. 1</td>
+    <td>Jon Scoleri</td>
+    <td>801.791.5340</td>
+    <td>jon_scoleri@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Kanesville</td>
+    <td>Cast Asst. 2</td>
+    <td>Alicia Scoleri</td>
+    <td>801.731.2617</td>
+    <td>&nbsp;</td>
+  </tr>
   <tr class="odd">
     <td>Mound Fort</td>
     <td>Coordinator 1</td>
@@ -892,17 +1193,31 @@
   </tr>
   <tr class="odd">
     <td>Mound Fort</td>
-    <td>Coordinator 2</td>
-    <td>Marilyn Holley</td>
+    <td>Music Rep.</td>
+    <td>Shawn &amp; Marilyn Holley</td>
     <td>801-668-0585</td>
     <td>holleymar42@yahoo.com</td>
   </tr>
   <tr class="odd">
     <td>Mound Fort</td>
-    <td>Coordinator 2</td>
-    <td>Shawn &amp; Marilyn Holley</td>
-    <td>801-668-0585</td>
-    <td>holleymar42@yahoo.com</td>
+    <td>Cast Asst. 1</td>
+    <td>MeLisa Nielsen</td>
+    <td>801-920-1446</td>
+    <td>mnielsen@readytek.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Mound Fort</td>
+    <td>Cast Asst. 2</td>
+    <td>Ken Flamm</td>
+    <td>801-603-0627</td>
+    <td>kenflamm@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Mound Fort</td>
+    <td>Cast Asst. 3</td>
+    <td>Paula Griffiths</td>
+    <td>801-920-0067</td>
+    <td>griffitp1@yahoo.com</td>
   </tr>
   <tr class="even">
     <td>Ogden Weber North</td>
@@ -924,6 +1239,20 @@
     <td>Evonne Howard</td>
     <td>801-643-7126</td>
     <td>howardevonne@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Ogden Weber North</td>
+    <td>Cast Asst. 1</td>
+    <td>Andrew Penland  </td>
+    <td> 801-726-4092</td>
+    <td>Penland20@icloud.com</td>
+  </tr>
+  <tr class="even">
+    <td>Ogden Weber North</td>
+    <td>Cast Asst. 2</td>
+    <td>Corey Jensen  </td>
+    <td>801-458-1418.</td>
+    <td>Coreysjensen@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Ogden West</td>
@@ -952,6 +1281,20 @@
     <td>Diane Morin</td>
     <td>801-725-5517</td>
     <td>dmorin@wsd.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden West</td>
+    <td>Cast Asst. 1</td>
+    <td>Kim Dixon</td>
+    <td>801-698-3575</td>
+    <td>kimdixon1@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden West</td>
+    <td>Cast Asst. 2</td>
+    <td>Glenna Lewis</td>
+    <td>801-731-6920</td>
+    <td>glennalewis@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Ogden YSA 2nd</td>
@@ -987,6 +1330,20 @@
     <td>801-388-1796</td>
     <td>ayorgason@gmail.com</td>
   </tr>
+  <tr class="odd">
+    <td>Plain City</td>
+    <td>Cast Asst. 1</td>
+    <td>Jed Black</td>
+    <td>801-941-5129</td>
+    <td>jjb46f@yahoo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Plain City</td>
+    <td>Cast Asst. 2</td>
+    <td>Jennifer Black</td>
+    <td>801-695-0825</td>
+    <td>jjb46f@yahoo.com</td>
+  </tr>
   <tr class="even">
     <td>West Haven</td>
     <td>Coordinator 1</td>
@@ -1007,6 +1364,34 @@
     <td>Valeen Peterson</td>
     <td>801-710-6393</td>
     <td>bgrand88@juno.com</td>
+  </tr>
+  <tr class="even">
+    <td>West Haven</td>
+    <td>Cast Asst. 1</td>
+    <td>Gordon Hadley</td>
+    <td>801-690-6607</td>
+    <td>mbhadley@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>West Haven</td>
+    <td>Cast Asst. 2</td>
+    <td>Maxine Hadley</td>
+    <td>801-690-6607</td>
+    <td>mbhadley@yahoo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Hooper Pioneer Trails</td>
+    <td>Cast Asst. 1</td>
+    <td>Cindy Hancock</td>
+    <td>801-690-1383</td>
+    <td>raysyd7@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Hooper Pioneer Trails</td>
+    <td>Cast Asst. 2</td>
+    <td>Shelby Tuckett</td>
+    <td>801-458-2481</td>
+    <td>bstuckett@yahoo.com</td>
   </tr>
 </table>
 <?php
@@ -1044,6 +1429,20 @@
     <td>Vicky Richins</td>
     <td>435-336-5859</td>
     <td>vicky.richins@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Coalville Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Brian Richins</td>
+    <td>435-336-1496</td>
+    <td>bcrichins@allwest.net</td>
+  </tr>
+  <tr class="even">
+    <td>Coalville Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Jared Richins</td>
+    <td>435-336-4074</td>
+    <td>jmrichins@allwest.net</td>
   </tr>
   <tr class="odd">
     <td>Evanston Wyoming Stake</td>
@@ -1087,56 +1486,63 @@
     <td>307-677-3071</td>
     <td>jrh.family@hotmail.com</td>
   </tr>
-  <tr class="odd">
-    <td>Green River Wyoming Stake</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+  <tr class="even">
+    <td>Evanston Wyoming South Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Linda Ezola</td>
+    <td>307-677-1875</td>
+    <td>linda.ezola@chs.net</td>
   </tr>
   <tr class="even">
+    <td>Evanston Wyoming South Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Laura Frakes</td>
+    <td>307-679-8750</td>
+    <td>laurafrakes@msn.com</td>
+  </tr>
+  <tr class="odd">
     <td>Kemmerer Wyoming Stake</td>
     <td>Coordinator 1</td>
     <td>Wallace Schulthess</td>
     <td>435 881-2313</td>
     <td>wallace@allwest.net</td>
   </tr>
-  <tr class="even">
+  <tr class="odd">
     <td>Kemmerer Wyoming Stake</td>
     <td>Coordinator 2</td>
     <td>Scott Ellis </td>
     <td>307-723-0840</td>
     <td>ellissn9@q.com</td>
   </tr>
-  <tr class="even">
+  <tr class="odd">
     <td>Kemmerer Wyoming Stake</td>
     <td>Music Rep.</td>
     <td>Celeste Howard</td>
     <td>307-386-9249</td>
     <td>rossceleste85@yahoo.com</td>
   </tr>
-  <tr class="even">
+  <tr class="odd">
     <td>Kemmerer Wyoming Stake</td>
     <td>Music Rep.</td>
     <td>Deb Archibald</td>
     <td>&nbsp;</td>
     <td>debarchibald@msn.com</td>
   </tr>
-  <tr class="odd">
+  <tr class="even">
     <td>Lyman Wyoming Stake</td>
     <td>Coordinator 1</td>
     <td>Lee Stoddard</td>
     <td>307-747-2009</td>
     <td>&nbsp;</td>
   </tr>
-  <tr class="odd">
+  <tr class="even">
     <td>Lyman Wyoming Stake</td>
     <td>Coordinator 2</td>
     <td>Mark P. Isom</td>
     <td>307-780-8085</td>
     <td>wyovet@gmail.com</td>
   </tr>
-  <tr class="odd">
+  <tr class="even">
     <td>Lyman Wyoming Stake</td>
     <td>Music Rep.</td>
     <td>Jesse Willie</td>
@@ -1144,25 +1550,32 @@
     <td>jessewillie@yahoo.com</td>
   </tr>
   <tr class="even">
+    <td>Lyman Wyoming Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Marcia Shelton</td>
+    <td>307-747-7111</td>
+    <td>shelty75@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Lyman Wyoming Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Tammy Stoddard</td>
+    <td>307-780-7909</td>
+    <td>wtstoddard@gmail.com</td>
+  </tr>
+  <tr class="odd">
     <td>Riverton Wyoming Stake</td>
     <td>Coordinator 1</td>
     <td>Michael Shane</td>
     <td>307-349-2331</td>
     <td>mshane@wyoming.com</td>
   </tr>
-  <tr class="even">
+  <tr class="odd">
     <td>Riverton Wyoming Stake</td>
     <td>Music Rep.</td>
     <td>Cindy McDonald</td>
     <td>307-240-0482</td>
     <td>mcdfamily@wyoming.com</td>
-  </tr>
-  <tr class="odd">
-    <td>Rock Springs Wyoming Stake</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
   </tr>
 </table>
 <?php
@@ -1299,6 +1712,20 @@
     <td>801-458-7660</td>
     <td>alanbrooksfamily6@hotmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Morgan Utah Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Michael Mills</td>
+    <td>801-597-7796</td>
+    <td>michaelmills01@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Morgan Utah Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Matt Barr</td>
+    <td>801-829-8197</td>
+    <td>matt@barrphoto.com</td>
+  </tr>
   <tr class="odd">
     <td>South Weber Utah Stake</td>
     <td>Coordinator 1</td>
@@ -1327,6 +1754,20 @@
     <td>801 628-3905</td>
     <td>jsjoblom@dsdmail.net</td>
   </tr>
+  <tr class="odd">
+    <td>South Weber Utah Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Savanah Cook</td>
+    <td>801-529-2846</td>
+    <td>speakerboxinc@q.com</td>
+  </tr>
+  <tr class="odd">
+    <td>South Weber Utah Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Amber Waters</td>
+    <td>801-589-3834</td>
+    <td>awaters26@hotmail.com</td>
+  </tr>
   <tr class="even">
     <td>Sunset Utah Stake</td>
     <td>Coordinator 1</td>
@@ -1348,6 +1789,20 @@
     <td>801-603-7688. </td>
     <td>latsirkkristal@yahoo.com</td>
   </tr>
+  <tr class="even">
+    <td>Sunset Utah Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Laurie Allen</td>
+    <td>801-773-7713</td>
+    <td>funnygrandma258@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Sunset Utah Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Lindy Page</td>
+    <td>801-779-9865</td>
+    <td>lindybpage@yahoo.com</td>
+  </tr>
   <tr class="odd">
     <td>Syracuse Utah Bluff Stake</td>
     <td>Coordinator 1</td>
@@ -1368,6 +1823,20 @@
     <td>Sheri Barber</td>
     <td>801-390-1921</td>
     <td>sher.5@hotmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Bluff Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Kamri Goff</td>
+    <td>8017749064</td>
+    <td>kamrigoff@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Bluff Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Julie Griffin</td>
+    <td>8017759218</td>
+    <td>juliecgriffin@juno.com</td>
   </tr>
   <tr class="even">
     <td>Syracuse Utah Lake View YSA Stk</td>
@@ -1403,6 +1872,20 @@
     <td>Robert Douglas &quot;RD&quot; Parsons</td>
     <td>801-525-6788</td>
     <td>rparsonsgtr@yahoo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Legacy Park Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Gretchen Stone</td>
+    <td>435-619-0853</td>
+    <td>gretchenstone123@yahoo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Legacy Park Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Mindy Talbot</td>
+    <td>801-825-1328</td>
+    <td>mindychet@msn.com</td>
   </tr>
   <tr class="even">
     <td>Syracuse Utah South Stake</td>
@@ -1453,6 +1936,20 @@
     <td>801-589-1250</td>
     <td>Kevin.McEvoy@icentris.com</td>
   </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Anette Howes</td>
+    <td>801-675-0474</td>
+    <td>ahowes@q.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Paula Everett</td>
+    <td>801-513-8180</td>
+    <td>p_everett@hotmail.com</td>
+  </tr>
   <tr class="even">
     <td>Syracuse Utah West Stake </td>
     <td>Coordinator 1</td>
@@ -1466,6 +1963,13 @@
     <td>Mary Streuling</td>
     <td>801-510-5978</td>
     <td>iloveckra@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Syracuse Utah West Stake </td>
+    <td>Cast Asst. 1</td>
+    <td>Art Shimata</td>
+    <td>(801) 786-9233</td>
+    <td>manardie@msn.com</td>
   </tr>
 </table>
 <?php
@@ -1511,6 +2015,20 @@
     <td>801-791-1812</td>
     <td>suzanne@poolepianostudio.com</td>
   </tr>
+  <tr class="even">
+    <td>Clinton Utah West Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Melanie Morgan</td>
+    <td>801-529-2868</td>
+    <td>melaniezmorgan@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clinton Utah West Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Tara Kinser</td>
+    <td>801-779-0440</td>
+    <td>happyinthekitchen@gmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Clinton Utah Stake</td>
     <td>Coordinator 1</td>
@@ -1532,6 +2050,20 @@
     <td>(801) 779-3881</td>
     <td>ja9thomas6@gmail.com</td>
   </tr>
+  <tr class="odd">
+    <td>Clinton Utah Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Sandy Essler</td>
+    <td>801-643-2651</td>
+    <td>headspin180@hotmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Clinton Utah Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Jeremy Farner</td>
+    <td>801-779-9818</td>
+    <td>jfarner@weber.edu</td>
+  </tr>
   <tr class="even">
     <td>Clinton Utah North Stake</td>
     <td>Coordinator 1</td>
@@ -1552,6 +2084,20 @@
     <td>Jamie Balaich</td>
     <td>(801) 645-4813</td>
     <td>jbalaich@hotmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clinton Utah North Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Ronnie Kingsbury</td>
+    <td>(801) 719-1890</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr class="even">
+    <td>Clinton Utah North Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Andrea Hill</td>
+    <td>(801) 825-0766</td>
+    <td>akamaynerd1@yahoo.com</td>
   </tr>
   <tr class="odd">
     <td>Roy Utah Central Stake</td>
@@ -1595,6 +2141,20 @@
     <td>801-726-9507</td>
     <td>kasezwifey@hotmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Roy Utah Midland Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Pam Seegmiller</td>
+    <td>801-710-2044</td>
+    <td>sniker31@comcast.net</td>
+  </tr>
+  <tr class="even">
+    <td>Roy Utah Midland Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Trish Watkins</td>
+    <td>801-458-6360</td>
+    <td>ltwatkins6@gmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Roy Utah North Stake</td>
     <td>Coordinator 1</td>
@@ -1611,10 +2171,23 @@
   </tr>
   <tr class="odd">
     <td>Roy Utah North Stake</td>
-    <td>Msuic Rep.</td>
+    <td>Music Rep.</td>
     <td>Jared Brandley</td>
     <td>801-698-5279</td>
     <td>jaredbrandley@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Roy Utah North Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>David Girggs</td>
+    <td>801 725-4290</td>
+    <td>dgriggs99@firehousemail.com</td>
+  <tr class="odd">
+    <td>Roy Utah North Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>brenda Griggs</td>
+    <td>801 725-4290</td>
+    <td>newutahprincess@hotmail.com</td>
   </tr>
   <tr class="even">
     <td>Roy Utah South Stake</td>
@@ -1637,6 +2210,20 @@
     <td>801-388-9685</td>
     <td>Lbardwell@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Roy Utah South Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Kim Allen</td>
+    <td>801-985-8011</td>
+    <td>markimallen@msn.com </td>
+  </tr>
+  <tr class="even">
+    <td>Roy Utah South Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Keith Robinson</td>
+    <td>801-389-8408</td>
+    <td>sgtbubb23@gmail.com</td>
+  </tr>
   <tr class="odd">
     <td>Roy Utah Stake</td>
     <td>Coordinator 1</td>
@@ -1657,6 +2244,20 @@
     <td>Geoff Anderson </td>
     <td>801-721-4146</td>
     <td>ganderson@wsd.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Roy Utah Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Alene Walker</td>
+    <td>801-678-2972</td>
+    <td>alenewalker@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Roy Utah Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Jon Brown</td>
+    <td>801-686-0282</td>
+    <td>inspirepjh@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Roy Utah West Stake</td>
@@ -1679,6 +2280,20 @@
     <td>801-728-3207 </td>
     <td>jduffin@dsdmail.net</td>
   </tr>
+  <tr class="even">
+    <td>Roy Utah West Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Jenee Sustaita</td>
+    <td>801-779-2697</td>
+    <td>sustaitafam@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Roy Utah West Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Gary Penrod</td>
+    <td>&nbsp;</td>
+    <td>penrod_gsj@yahoo.com</td>
+  </tr>
   <tr class="odd">
     <td>West Point Utah Lakeside Stake</td>
     <td>Coordinator 1</td>
@@ -1696,9 +2311,23 @@
   <tr class="odd">
     <td>West Point Utah Lakeside Stake</td>
     <td>Music Rep.</td>
-    <td>Sheila  Lowe  </td>
+    <td>Sheila Lowe</td>
     <td>801-391- 2240   </td>
     <td>sdrlowe@hotmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>West Point Utah Lakeside Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Jeremy Holmes</td>
+    <td>801-791-0419</td>
+    <td>holmes_andrea@peoplepc.com</td>
+  </tr>
+  <tr class="odd">
+    <td>West Point Utah Lakeside Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Juli Beesley</td>
+    <td>801-391-3077</td>
+    <td>arikbeesley@utah.gov</td>
   </tr>
   <tr class="even">
     <td>West Point Utah Stake</td>
@@ -1720,6 +2349,20 @@
     <td>Scott Wolford</td>
     <td>801-820-5404</td>
     <td>swolford@utah.gov</td>
+  </tr>
+  <tr class="even">
+    <td>West Point Utah Stake</td>
+    <td>Cast Asst. 1</td>
+    <td>Patty Flint</td>
+    <td>801-499-0083</td>
+    <td>flintjp@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>West Point Utah Stake</td>
+    <td>Cast Asst. 2</td>
+    <td>Heather Sachs</td>
+    <td>801-678-9359</td>
+    <td>sachsclan@gmail.com</td>
   </tr>
 </table>
 <?php    
