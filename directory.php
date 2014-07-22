@@ -4289,7 +4289,7 @@
     <td>Cast Asst. 1</td>
     <td>Jeremy Holmes</td>
     <td>801-791-0419</td>
-    <td>holmes_andrea@peoplepc.com</td>
+    <td>andholmes250@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>West Point Utah Lakeside</td>
@@ -4317,7 +4317,7 @@
     <td>Dance Specialist 1</td>
     <td>Andrea Holmes</td>
     <td>801-774-8873</td>
-    <td>holmes_andrea@peoplepc.com</td>
+    <td>andholmes250@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>West Point Utah Lakeside</td>
