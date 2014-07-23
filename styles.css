@@ -294,3 +294,18 @@ ul.notes li span {
 .text_center {
   text-align: center;
 }
+.text_cast {
+  color: #000000;
+}
+.text_choir {
+  color: #FF0000;
+}
+.text_solo {
+  color: #0000FF;
+}
+.text_boys {
+  color: #009900;
+}
+.text_girls {
+  color: #FF6699;
+}

@@ -57,6 +57,7 @@
       <ul class="notes">
         <li><span>Opening song before the show starts</span></li>
         <li><span>You can sing parts or melody</span></li>
+        <li><span><a href="choir_lyrics.php">Lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -75,6 +76,7 @@
       <ul class="notes">
         <li><span>The choir will be singing a different part than the cast</span></li>
         <li><span>See the video for hand motions</span></li>
+        <li><span><a href="choir_lyrics.php#shine">Lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -118,7 +120,11 @@
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="text_center"><a href="choir_mp3.php#helaman"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="text_center">&nbsp;-&nbsp;</td>
-    <td class="odd">&nbsp;</td>
+    <td class="odd">
+      <ul class="notes">
+        <li><span><a href="choir_lyrics.php#helaman">Lyrics help</a></span></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>7.</td>
@@ -134,6 +140,7 @@
     <td class="odd">
       <ul class="notes">
         <li><span>See the video for the ASL</span></li>
+        <li><span><a href="choir_lyrics.php#new_day">Lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
