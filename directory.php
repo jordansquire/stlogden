@@ -868,9 +868,9 @@
   <tr class="even">
     <td>Huntsville</td>
     <td>Music Rep.</td>
-    <td>Kay Kilgore</td>
-    <td>801-458-7058</td>
-    <td>dkil709@aol.com</td>
+    <td>Cory Hansen</td>
+    <td>801-866-8119</td>
+    <td>corena.Hansen@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Huntsville</td>
@@ -1497,10 +1497,17 @@
   </tr>
   <tr class="odd">
     <td>Pleasant View</td>
-    <td>Music Rep.</td>
+    <td>Music Rep. 1</td>
     <td>David Sowby</td>
     <td>801.882.6295</td>
     <td>sowbyone@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Pleasant View</td>
+    <td>Music Rep. 2</td>
+    <td>Tricia Buswell</td>
+    <td>&nbsp;</td>
+    <td>buzzpv@msn.com</td>
   </tr>
   <tr class="odd">
     <td>Pleasant View</td>
@@ -2195,9 +2202,9 @@
   <tr class="odd">
     <td>Hooper</td>
     <td>Music Rep.</td>
-    <td>Lisa Hamblin</td>
-    <td>801-678-2262</td>
-    <td>Lisa.hamblin@gmail.com</td>
+    <td>Laurie Kite</td>
+    <td>&nbsp;</td>
+    <td>danielkite@comcast.net</td>
   </tr>
   <tr class="even">
     <td>Kanesville</td>
@@ -2689,6 +2696,13 @@
     <td>Ben Roberts</td>
     <td>801-458-7462</td>
     <td>benhroberts@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Hooper Pioneer Trails</td>
+    <td>Music Rep.</td>
+    <td>Lisa Hamblin</td>
+    <td>801-678-2262</td>
+    <td>Lisa.hamblin@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Hooper Pioneer Trails</td>
@@ -3530,16 +3544,16 @@
   <tr class="odd">
     <td>Syracuse Utah Legacy Park</td>
     <td>Costume Asst. 2</td>
-    <td>Gina Ellis</td>
-    <td>801-726-7625</td>
-    <td>Gellis1025@msn.com</td>
+    <td>Jo Hadfield</td>
+    <td>801-668-8227</td>
+    <td>doug.hadfield@yahoo.com</td>
   </tr>
   <tr class="odd">
     <td>Syracuse Utah Legacy Park</td>
     <td>Dance Specialist 1</td>
     <td>Julie Parsons</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>801-525-6788</td>
+    <td>rparsonsgtr@yahoo.com</td>
   </tr>
   <tr class="odd">
     <td>Syracuse Utah Legacy Park</td>
@@ -3554,13 +3568,6 @@
     <td>Ben Borchert</td>
     <td>891-726-3852</td>
     <td>Ben@mighty-clever.com</td>
-  </tr>
-  <tr class="odd">
-    <td>Syracuse Utah Legacy Park</td>
-    <td>Stage Crew 2</td>
-    <td>Kathleen Gift</td>
-    <td>801-725-5108</td>
-    <td>Higiftgift@aol.com</td>
   </tr>
   <tr class="even">
     <td>Syracuse Utah South</td>
