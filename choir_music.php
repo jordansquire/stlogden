@@ -135,7 +135,7 @@
     </td>
     <td class="text_center"><a href="choir_mp3.php#new_day"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="text_center">
-      <a href="http://youtu.be/xH4zj9h2s7I" target="_blank"><img src="images/video.png" alt="Video" /></a> 
+      <a href="http://youtu.be/Wf6iCq747zM" target="_blank"><img src="images/video.png" alt="Video" /></a> 
     </td>
     <td class="odd">
       <ul class="notes">

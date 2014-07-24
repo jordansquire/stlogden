@@ -105,7 +105,7 @@
     <td>Choir / Cast</td>
     <td class="text_center"><a href="files/choir/3_railroad/Ive_Been_Working_on_the_Railroad.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="text_center">
-      <a href="http://youtu.be/fl3mBNRW-IQ" target="_blank"><img src="images/video.png" alt="Video" /></a> 
+      <a href="http://youtu.be/OiwzLhC8Mig" target="_blank"><img src="images/video.png" alt="Video" /></a> 
     </td>
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">
@@ -150,7 +150,7 @@
     <td>Light of A New Day</td>
     <td>Choir / Cast</td>
     <td class="text_center"><a href="files/choir/7_new_day/Light_of_A_New_Day.mp3" target="_blank"><img src="images/mp3.png" alt="mp3" /></a></td>
-    <td class="text_center"><a href="http://youtu.be/xH4zj9h2s7I" target="_blank"><img src="images/video.png" alt="Video" /></a></td>
+    <td class="text_center"><a href="http://youtu.be/Wf6iCq747zM" target="_blank"><img src="images/video.png" alt="Video" /></a></td>
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">
       <ul class="notes">

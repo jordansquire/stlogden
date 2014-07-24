@@ -26,9 +26,10 @@
 ?>
 <h1>Choir Costumes</h1>
 <div class="divider"></div>
-<p><b>Boys:</b> Long sleeved dress shirt, with a collar and black pants. If you do not have one and do not 
-  want to buy one, you can borrow one from a friend, look at the DI, or a thrift store.</p>
 <p><b>Girls:</b> Jewel tone color blouse and a black skirt or pants.</p>
+<p><b>Boys:</b> Long sleeved jewel tone dress shirt, with a collar and black pants. If you do not have a 
+  jewel toned shirt and do not want to buy one, you can borrow one from a friend, look at the DI, or a thrift
+  store.</p>
 <p>The sample of colors to choose from has a variety of shades in each color; try to match your shirt to one 
   of the shades of your chosen color as best as possible.</p>
 <div class="text_center"><img src="images/jewel.png" alt="Jewel Colors" /></div>

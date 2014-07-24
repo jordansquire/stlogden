@@ -214,6 +214,13 @@
   </tr>
   <tr class="even">
     <td>Layton Utah East</td>
+    <td>Costume Asst. 2</td>
+    <td>Cristan Hurst</td>
+    <td>801-619-9656</td>
+    <td>hurst_herd7@msn.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah East</td>
     <td>Dance Specialist 1</td>
     <td>Chalyce Hadley</td>
     <td>801.444.5165</td>
@@ -337,6 +344,62 @@
     <td>Judy Bell</td>
     <td>(801) 888-0433</td>
     <td>belldj8@hotmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah Kays Creek</td>
+    <td>Cast Asst. 1</td>
+    <td>David Williams</td>
+    <td>801-580-9746</td>
+    <td>datwilliams@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah Kays Creek</td>
+    <td>Cast Asst. 2</td>
+    <td>Angie Williams</td>
+    <td>801-557-7274</td>
+    <td>maggiewill01@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah Kays Creek</td>
+    <td>Costume Asst. 1</td>
+    <td>Diane Call</td>
+    <td>801-725-8828</td>
+    <td>grmacall@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah Kays Creek</td>
+    <td>Costume Asst. 2</td>
+    <td>Marae Persson</td>
+    <td>801-589-2190</td>
+    <td>dmlnp@msn.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah Kays Creek</td>
+    <td>Dance Specialist 1</td>
+    <td>Jen Roberts</td>
+    <td>801-888-4572</td>
+    <td>mejgroberts@comcast.net</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah Kays Creek</td>
+    <td>Dance Specialist 2</td>
+    <td>Karen Jones</td>
+    <td>801-546-1552</td>
+    <td>jonesykaren@comcast.net</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah Kays Creek</td>
+    <td>Stage Crew 1</td>
+    <td>Brad Egginton</td>
+    <td>801-593-6547</td>
+    <td>ladyeggproductions@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah Kays Creek</td>
+    <td>Stage Crew 2</td>
+    <td>Shauna Christensen</td>
+    <td>801-529-2590</td>
+    <td>minivanmaniac@msn.com</td>
   </tr>
   <tr class="odd">
     <td>Layton Utah Layton Hills</td>
@@ -1110,6 +1173,55 @@
     <td>801-589-3549</td>
     <td>teachersuann@comcast.net</td>
   </tr>
+  <tr class="even">
+    <td>North Ogden</td>
+    <td>Cast Asst. 1</td>
+    <td>Leslie Liechte</td>
+    <td>801-547-3680</td>
+    <td>lliechty@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>North Ogden</td>
+    <td>Cast Asst. 2</td>
+    <td>Marty Roskelly</td>
+    <td>801-391-9753</td>
+    <td>mroskelley@msn.com</td>
+  </tr>
+  <tr class="even">
+    <td>North Ogden</td>
+    <td>Costume Asst. 1</td>
+    <td>Tiffany Turner</td>
+    <td>801-737-0398</td>
+    <td>cheftiff@juno.com</td>
+  </tr>
+  <tr class="even">
+    <td>North Ogden</td>
+    <td>Costume Asst. 2</td>
+    <td>Suzie North</td>
+    <td>801-725-3916</td>
+    <td>Suzienorth13@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>North Ogden</td>
+    <td>Dance Specialist 1</td>
+    <td>Jill Muirbrook</td>
+    <td>801-391-1061</td>
+    <td>jmuirbrook@msn.com</td>
+  </tr>
+  <tr class="even">
+    <td>North Ogden</td>
+    <td>Dance Specialist 2</td>
+    <td>Teresa Gordon</td>
+    <td>801-458-8648</td>
+    <td>dancemakerupper@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>North Ogden</td>
+    <td>Stage Crew 1</td>
+    <td>Nate Cragun</td>
+    <td>801-388-0556</td>
+    <td>happiness_82nd@comcast.net</td>
+  </tr>
   <tr class="odd">
     <td>Lorin Farr</td>
     <td>Coordinator 1</td>
@@ -1235,6 +1347,62 @@
     <td>Shawn &amp; Lanette Stephens</td>
     <td>(801) 564-0612</td>
     <td>photoshawn801@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Rock Cliff</td>
+    <td>Cast Asst. 1</td>
+    <td>Matt Taylor</td>
+    <td>801-391-3542</td>
+    <td>mytarchery@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Rock Cliff</td>
+    <td>Cast Asst. 2</td>
+    <td>Quin Jensen</td>
+    <td>801-710-4168</td>
+    <td>jensenquinn@yahoo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Rock Cliff</td>
+    <td>Costume Asst. 1</td>
+    <td>Florence Stacey</td>
+    <td>801-621-0986</td>
+    <td>daveflostacey@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Rock Cliff</td>
+    <td>Costume Asst. 2</td>
+    <td>Valrene Moulton</td>
+    <td>801-621-4391</td>
+    <td>valrenemulten@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Rock Cliff</td>
+    <td>Dance Specialist 1</td>
+    <td>Terresa Shreeve</td>
+    <td>801-628-6065</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr class="odd">
+    <td>Rock Cliff</td>
+    <td>Dance Specialist 2</td>
+    <td>Andrea Cunningham</td>
+    <td>801-866-5273</td>
+    <td>del_cjr@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Rock Cliff</td>
+    <td>Stage Crew 1</td>
+    <td>Bradley Johnson</td>
+    <td>801-690-2909</td>
+    <td>bradjohnsonslc@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Rock Cliff</td>
+    <td>Stage Crew 2</td>
+    <td>Omar Hernandez</td>
+    <td>801-605-3759</td>
+    <td>omar75hernandez@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Pleasant View South</td>
@@ -2927,10 +3095,24 @@
   </tr>
   <tr class="even">
     <td>Clearfield Utah North</td>
+    <td>Costume Asst. 1</td>
+    <td>Shelly Weeks</td>
+    <td>801-458-8376</td>
+    <td>ssweeks58@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clearfield Utah North</td>
     <td>Dance Specialist 1</td>
     <td>Tanya Hipwell</td>
     <td>801-564-2659</td>
     <td>jthipwell@q.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clearfield Utah North</td>
+    <td>Dance Specialist 2</td>
+    <td>Carrie Whitby</td>
+    <td>801-525-4615</td>
+    <td>2whitby@live.com</td>
   </tr>
   <tr class="odd">
     <td>Clearfield Utah South</td>
@@ -2973,6 +3155,13 @@
     <td>Krissy Hegsted</td>
     <td>801-882-0291</td>
     <td>kristinehattie@hotmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clearfield Utah</td>
+    <td>Dance Specialist 1</td>
+    <td>Ayrion Myers</td>
+    <td>435-890-0262</td>
+    <td>ayrion.fab5@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Morgan Utah North</td>
@@ -3348,9 +3537,9 @@
   <tr class="odd">
     <td>Syracuse Utah Legacy Park</td>
     <td>Dance Specialist 1</td>
-    <td>Diane Allred</td>
-    <td>801-336-6400</td>
-    <td>tudance@comcast.net</td>
+    <td>Julie Parsons</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr class="odd">
     <td>Syracuse Utah Legacy Park</td>
@@ -3786,7 +3975,7 @@
     <td>Cast Asst. 1</td>
     <td>Ronnie Kingsbury</td>
     <td>(801) 719-1890</td>
-    <td>&nbsp;</td>
+    <td>kingkongswife@hotmail.com</td>
   </tr>
   <tr class="even">
     <td>Clinton Utah North</td>
@@ -3842,7 +4031,7 @@
     <td>Stage Crew 2</td>
     <td>Jeff Mills</td>
     <td>8018259365</td>
-    <td>slimnny142@gmail.com</td>
+    <td>sllimnnyl42@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Roy Utah Central</td>
