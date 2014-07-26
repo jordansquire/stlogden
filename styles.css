@@ -281,6 +281,12 @@ ul.notes li span {
   text-align: center; 
   border: 1px solid #DDDDDD;
 }
+.red {
+  color: #990000;
+}
+.bold {
+  font-weight: bold;
+}
 .prompt {
   color: #AAAAAA;
   font-size: 12px;
