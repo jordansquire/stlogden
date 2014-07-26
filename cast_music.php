@@ -105,12 +105,13 @@
     <td>Choir / Cast</td>
     <td class="text_center"><a href="files/choir/3_railroad/Ive_Been_Working_on_the_Railroad.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="text_center">
-      <a href="http://youtu.be/OiwzLhC8Mig" target="_blank"><img src="images/video.png" alt="Video" /></a> 
+      <a href="http://youtu.be/jU03K9u-XEo" target="_blank"><img src="images/video.png" alt="Video" /></a> 
     </td>
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">
       <ul class="notes">
-        <li><span>See the video for ukulelee chords</span></li>
+        <li><span>See the video for choreography</span></li>
+        <li><span><a href="http://youtu.be/OiwzLhC8Mig" target="_blank">Ukulelee chords video</a></span></li>
       </ul>
     </td>
   </tr>

@@ -3552,8 +3552,8 @@
     <td>Syracuse Utah Legacy Park</td>
     <td>Dance Specialist 1</td>
     <td>Julie Parsons</td>
-    <td>801-525-6788</td>
-    <td>rparsonsgtr@yahoo.com</td>
+    <td>801-643-0080</td>
+    <td>jparsonsjbp@yahoo.com</td>
   </tr>
   <tr class="odd">
     <td>Syracuse Utah Legacy Park</td>
