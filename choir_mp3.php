@@ -53,6 +53,16 @@
     <td class="odd">&nbsp;</td>
   </tr>
   <tr>
+    <td>All Men</td>
+    <td class="text_center"><a href="files/choir/2_shine_the_light/Shine_the_Light_Men.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="odd">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>All Women</td>
+    <td class="text_center"><a href="files/choir/2_shine_the_light/Shine_the_Light_Women.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="odd">&nbsp;</td>
+  </tr>
+  <tr>
     <td>1st Soprano</td>
     <td class="text_center"><a href="files/choir/2_shine_the_light/Shine_the_Light_Soprano.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="odd"><i>Track starts with silence</i></td>
@@ -142,7 +152,7 @@
   </tr>
   <tr>
     <td>All Parts</td>
-    <td class="text_center"><a href="files/choir/3_railroad/Ive_Been_Working_on_the_Railroad_all.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="text_center"><a href="files/choir/3_railroad/Ive_Been_Working_on_the_Railroad_All.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="odd">&nbsp;</td>
   </tr>
 </table>
@@ -171,6 +181,16 @@
   <tr>
     <td>All Parts</td>
     <td class="text_center"><a href="files/choir/4_chosen/We_Are_Chosen_All.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="odd">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>All Men</td>
+    <td class="text_center"><a href="files/choir/4_chosen/We_Are_Chosen_Men.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="odd">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>All Women</td>
+    <td class="text_center"><a href="files/choir/4_chosen/We_Are_Chosen_Women.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="odd">&nbsp;</td>
   </tr>
   <tr>
@@ -259,6 +279,16 @@
   <tr>
     <td>All Parts</td>
     <td class="text_center"><a href="files/choir/5_ready/I_Am_Ready_all.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="odd">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>All Men</td>
+    <td class="text_center"><a href="files/choir/5_ready/I_Am_Ready_men.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="odd">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>All Women</td>
+    <td class="text_center"><a href="files/choir/5_ready/I_Am_Ready_women.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="odd">&nbsp;</td>
   </tr>
   <tr>
@@ -360,6 +390,16 @@
   <tr>
     <td>All Parts</td>
     <td class="text_center"><a href="files/choir/7_new_day/Light_of_A_New_Day_all.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="odd">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>All Men</td>
+    <td class="text_center"><a href="files/choir/7_new_day/Light_of_A_New_Day_men.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
+    <td class="odd">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>All Women</td>
+    <td class="text_center"><a href="files/choir/7_new_day/Light_of_A_New_Day_women.mp3"><img src="images/mp3.png" alt="mp3" /></a></td>
     <td class="odd">&nbsp;</td>
   </tr>
   <tr>
