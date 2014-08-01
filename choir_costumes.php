@@ -28,17 +28,26 @@
 <div class="divider"></div>
 <p><b>Girls:</b> Jewel tone color blouse and a black skirt or loose fitting pants. No leggings or tight 
   fitting pants.</p>
-<p><b>Boys:</b> Long sleeved jewel tone dress shirt, with a collar and black pants. If you do not have a 
+<p><b>Boys:</b> Long sleeved jewel tone dress shirt, with a collar, matching tie, and black pants. If you do not have a 
   jewel toned shirt and do not want to buy one, you can borrow one from a friend, look at the DI, or a thrift
   store.</p>
 <p>The sample of colors to choose from has a variety of shades in each color; try to match your shirt to one 
   of the shades of your chosen color as best as possible.</p>
 <div class="text_center"><img src="images/jewel.png" alt="Jewel Colors" /></div>
+
+<div class="divider"></div>
 <p>If you have any questions about what to wear please contact the someone on the costume committee:<br/><br/>
   
 &nbsp;&nbsp;&nbsp;&nbsp;Jacci Florence: <a href="mailto:florence.jacci@comcast.net">florence.jacci@comcast.net</a>, 801-643-2088<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Carol Balaich: <a href="mailto:javelin75@hotmail.com">javelin75@hotmail.com</a>, 801-546-4909 / 801-628-9027<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Linda Chatwin: <a href="mailto:linda.chatwin@imail.org">linda.chatwin@imail.org</a>, 801-690-0518</p>
+
+<div class="divider"></div>
+<h3>Stake Volunteer Costume Assignments</h3>
+<p>A spreadsheet explaining the assignment for your stake is attached. The costume committee will contact 
+  each stake to explain your assignment. If you have questions, please contact one of the individuals 
+  listed above.</p>
+<a href="files/STAKE_VOLUNTEER_COSTUME_ASSIGNMENTS(7-29).xlsx">Stake Costume Assignments</a>
 
 <div style="height:30px;">&nbsp;</div>
 <?php include('footer.php'); ?>

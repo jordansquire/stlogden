@@ -592,5 +592,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Carol Balaich: <a href="mailto:javelin75@hotmail.com">javelin75@hotmail.com</a>, 801-546-4909 / 801-628-9027<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Linda Chatwin: <a href="mailto:linda.chatwin@imail.org">linda.chatwin@imail.org</a>, 801-690-0518</p>
 
+<div class="divider"></div>
+<h3>Stake Volunteer Costume Assignments</h3>
+<p>A spreadsheet explaining the assignment for your stake is attached. The costume committee will contact 
+  each stake to explain your assignment. If you have questions, please contact one of the individuals 
+  listed above.</p>
+<a href="files/STAKE_VOLUNTEER_COSTUME_ASSIGNMENTS(7-29).xlsx">Stake Costume Assignments</a>
+
 <div style="height:30px;">&nbsp;</div>
 <?php include('footer.php'); ?>
