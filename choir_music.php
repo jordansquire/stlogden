@@ -57,7 +57,7 @@
       <ul class="notes">
         <li><span>Opening song before the show starts</span></li>
         <li><span>You can sing parts or melody</span></li>
-        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
+        <li><span><a href="cast_lyrics.php"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -128,7 +128,7 @@
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">
       <ul class="notes">
-        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
+        <li><span><a href="cast_lyrics.php#helaman"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -146,7 +146,7 @@
     <td class="odd">
       <ul class="notes">
         <li><span>See the video for the ASL</span></li>
-        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
+        <li><span><a href="cast_lyrics.php#new_day"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
