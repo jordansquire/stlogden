@@ -118,8 +118,8 @@
     <td>Layton Utah Creekside</td>
     <td>Cast Asst. 1</td>
     <td>Norm &amp; Michelle Frost</td>
-    <td>801-444-0480</td>
-    <td>&nbsp;</td>
+    <td>801-200-6877</td>
+    <td>mkdfree@yahoo.com</td>
   </tr>
   <tr class="odd">
     <td>Layton Utah Creekside</td>
@@ -796,15 +796,8 @@
   <tr class="odd">
     <td>Layton Utah West</td>
     <td>Dance Specialist 1</td>
-    <td>Tea D'Lynn Hufford</td>
-    <td>801-593-9017</td>
-    <td>genpow2009@yahoo.com</td>
-  </tr>
-  <tr class="odd">
-    <td>Layton Utah West</td>
-    <td>Dance Specialist 2</td>
     <td>Lynette Rackham</td>
-    <td>801-544-1809</td>
+    <td>801-358-3698</td>
     <td>treasuresinhvn@yahoo.com</td>
   </tr>
   <tr class="odd">
@@ -1979,6 +1972,62 @@
     <td>Steven Shupe</td>
     <td>801-479-1165</td>
     <td>steveshupe@hotmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Washington Terrace East</td>
+    <td>Cast Asst. 1</td>
+    <td>SCOTT LARSEN</td>
+    <td>801-309-8845</td>
+    <td>scott.larsen07@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Washington Terrace East</td>
+    <td>Cast Asst. 2</td>
+    <td>MATT ROPER</td>
+    <td>801-866-7453</td>
+    <td>matroper@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Washington Terrace East</td>
+    <td>Costume Asst. 1</td>
+    <td>NOREEN BARNES</td>
+    <td>801-388-0334</td>
+    <td>btorn8oh@aol.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Washington Terrace East</td>
+    <td>Costume Asst. 2</td>
+    <td>CHELLE ZISUMBO</td>
+    <td>801-476-8680</td>
+    <td>pzisumbo@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Washington Terrace East</td>
+    <td>Dance Specialist 1</td>
+    <td>DENISE JACOBSON</td>
+    <td>801-475-5593</td>
+    <td>denise.jacobson@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Washington Terrace East</td>
+    <td>Stage Crew 1</td>
+    <td>PETE ZISUMBO</td>
+    <td>801-389-6498</td>
+    <td>pzisumbo@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Washington Terrace East</td>
+    <td>Stage Crew 2</td>
+    <td>SCOTT LARSEN</td>
+    <td>801-791-5115</td>
+    <td>rslarsen65@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Washington Terrace East</td>
+    <td>Stage Crew 3</td>
+    <td>DAVID BARNES</td>
+    <td>801-388-0334</td>
+    <td>dbarnes@cdsewer.org</td>
   </tr>
   <tr class="even">
     <td>Washington Terrace West</td>
@@ -3205,6 +3254,55 @@
     <td>801 829 6232</td>
     <td>marilyn.lofgreen@gmail.com</td>
   </tr>
+  <tr class="odd">
+    <td>Morgan Utah North</td>
+    <td>Cast Asst. 1</td>
+    <td>Jodee Warner</td>
+    <td>&nbsp;</td>
+    <td>warnerfam88@digis.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Morgan Utah North</td>
+    <td>Costume Asst. 1</td>
+    <td>Teresa DeRu</td>
+    <td>&nbsp;</td>
+    <td>tkderu@readytek.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Morgan Utah North</td>
+    <td>Costume Asst. 2</td>
+    <td>Janine Porter</td>
+    <td>&nbsp;</td>
+    <td>janineporter@readytek.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Morgan Utah North</td>
+    <td>Dance Specialist 1</td>
+    <td>Ayrion Myers</td>
+    <td>435-890-0262</td>
+    <td>ayrion.fab5@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Morgan Utah North</td>
+    <td>Dance Specialist 2</td>
+    <td>Cambria Gibson</td>
+    <td>&nbsp;</td>
+    <td>cambriagibson@yahoo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Morgan Utah North</td>
+    <td>Stage Crew 1</td>
+    <td>Sean Dorius</td>
+    <td>&nbsp;</td>
+    <td>hid27@hotmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Morgan Utah North</td>
+    <td>Stage Crew 2</td>
+    <td>Heidi Dorius</td>
+    <td>&nbsp;</td>
+    <td>hid27@hotmail.com</td>
+  </tr>
   <tr class="even">
     <td>Morgan Utah</td>
     <td>Coordinator 1</td>
@@ -4040,6 +4138,20 @@
     <td>8018259365</td>
     <td>sllimnnyl42@gmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Clinton Utah North</td>
+    <td>Stage Crew 3</td>
+    <td>Nicole Mills</td>
+    <td>(801) 644-0260</td>
+    <td>slimnny142@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clinton Utah North</td>
+    <td>Stage Crew 4</td>
+    <td>Ricky Payne</td>
+    <td>(801) 825-5221</td>
+    <td>rj5payne@comcast.net</td>
+  </tr>
   <tr class="odd">
     <td>Roy Utah Central</td>
     <td>Coordinator 1</td>
@@ -4060,6 +4172,13 @@
     <td>Charity Heiner</td>
     <td>801-391-8879</td>
     <td>clheiner@hotmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Roy Utah Central</td>
+    <td>Dance Specialist 1</td>
+    <td>Mandi Malmberg</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr class="even">
     <td>Roy Utah Midland</td>

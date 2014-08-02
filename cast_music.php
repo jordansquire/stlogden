@@ -57,7 +57,7 @@
       <ul class="notes">
         <li><span>Opening song before the show starts</span></li>
         <li><span>You can sing parts or melody</span></li>
-        <li><span><a href="cast_lyrics.php">Cast lyrics help</a></span></li>
+        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -76,9 +76,9 @@
       <ul class="notes">
         <li><span>See the video for choreography</span></li>
         <li><span>See the document for choreography timing</span></li>
-        <li><span><a href="https://drive.google.com/file/d/0B31UTznXWoLudXVfS0RuYzR1aDQ/edit?usp=sharing" target="_blank">Hand motions</a> 
+        <li><span><a href="https://drive.google.com/file/d/0B31UTznXWoLudXVfS0RuYzR1aDQ/edit?usp=sharing" target="_blank"><img src="images/video.png" />&nbsp;&nbsp;Hand motions</a> 
           for those seated</span></li>
-        <li><span><a href="cast_lyrics.php#shine">Cast lyrics help</a></span></li>
+        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -141,7 +141,7 @@
     <td class="odd">
       <ul class="notes">
         <li><span>See the video for choreography</span></li>
-        <li><span><a href="cast_lyrics.php#helaman">Cast lyrics help</a></span></li>
+        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -155,7 +155,7 @@
     <td class="odd">
       <ul class="notes">
         <li><span>See the video for the ASL</span></li>
-        <li><span><a href="cast_lyrics.php#new_day">Cast lyrics help</a></span></li>
+        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>

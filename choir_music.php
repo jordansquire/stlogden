@@ -57,7 +57,7 @@
       <ul class="notes">
         <li><span>Opening song before the show starts</span></li>
         <li><span>You can sing parts or melody</span></li>
-        <li><span><a href="cast_lyrics.php">Cast lyrics help</a></span></li>
+        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -76,7 +76,7 @@
       <ul class="notes">
         <li><span>The choir will be singing a different part than the cast</span></li>
         <li><span>See the video for hand motions</span></li>
-        <li><span><a href="cast_lyrics.php#shine">Cast lyrics help</a></span></li>
+        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -91,7 +91,9 @@
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">
       <ul class="notes">
-        <li><span><a href="http://youtu.be/OiwzLhC8Mig" target="_blank">Ukulelee chords video</a></span></li>
+        <li><span>
+          <a href="http://youtu.be/OiwzLhC8Mig" target="_blank"><img src="images/video.png" alt="Video" />&nbsp;&nbsp;Ukulele chords video</a>
+        </span></li>
       </ul>
     </td>
   </tr>
@@ -126,7 +128,7 @@
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">
       <ul class="notes">
-        <li><span><a href="cast_lyrics.php#helaman">Cast lyrics help</a></span></li>
+        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -144,7 +146,7 @@
     <td class="odd">
       <ul class="notes">
         <li><span>See the video for the ASL</span></li>
-        <li><span><a href="cast_lyrics.php#new_day">Cast lyrics help</a></span></li>
+        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
