@@ -796,9 +796,9 @@
   <tr class="odd">
     <td>Layton Utah West</td>
     <td>Dance Specialist 1</td>
-    <td>Lynette Rackham</td>
-    <td>801-358-3698</td>
-    <td>treasuresinhvn@yahoo.com</td>
+    <td>Kathleen Wilcox</td>
+    <td>801-726-5235</td>
+    <td>wlcxk651@aol.com</td>
   </tr>
   <tr class="odd">
     <td>Layton Utah West</td>
