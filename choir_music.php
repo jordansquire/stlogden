@@ -146,6 +146,9 @@
     <td class="odd">
       <ul class="notes">
         <li><span>See the video for the ASL</span></li>
+        <li><span>
+          <a href="http://youtu.be/TxVjbLO8yes" target="_blank"><img src="images/video.png" alt="Video" />&nbsp;&nbsp;Mirror Image ASL</a>
+        </span></li>
         <li><span><a href="cast_lyrics.php#new_day"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>

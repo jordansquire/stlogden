@@ -1654,16 +1654,9 @@
    <tr class="odd">
     <td>Ogden East</td>
     <td>Coordinator 1</td>
-    <td>Timothy J. Eck</td>
-    <td>801-510-6205</td>
-    <td>teck@weber.edu</td>
-  </tr>
-  <tr class="odd">
-    <td>Ogden East</td>
-    <td>Coordinator 2</td>
-    <td>Rusty Jensen</td>
-    <td>801 589-9339</td>
-    <td>rtljensen@msn.com</td>
+    <td>CATHERINE DIAMOND</td>
+    <td>801-675-2032</td>
+    <td>catdiamond@comcast.net</td>
   </tr>
   <tr class="odd">
     <td>Ogden East</td>
@@ -1671,6 +1664,62 @@
     <td>Meg Naisbitt</td>
     <td>801-388-3154</td>
     <td>mmpcc@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden East</td>
+    <td>Cast Asst. 1</td>
+    <td>LYDIA TRIBE</td>
+    <td>801-624-8990</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden East</td>
+    <td>Cast Asst. 2</td>
+    <td>CARRIE LUND</td>
+    <td>801-389-3734</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden East</td>
+    <td>Costume Asst. 1</td>
+    <td>Joyce Wilson</td>
+    <td>801-644-5712</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden East</td>
+    <td>Costume Asst. 2</td>
+    <td>JOANN HATCH</td>
+    <td>801-514-2889</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden East</td>
+    <td>Dance Specialist 1</td>
+    <td>Alison Anis</td>
+    <td>801-866-7115</td>
+    <td>allimoe623@hotmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden East</td>
+    <td>Stage Crew 1</td>
+    <td>DAVID HICKEN</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden East</td>
+    <td>Stage Crew 2</td>
+    <td>CHAD MOSHER</td>
+    <td>801-725-3507</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr class="odd">
+    <td>Ogden East</td>
+    <td>Stage Crew 3</td>
+    <td>RANDY GARRETT</td>
+    <td>801-540-8836</td>
+    <td>&nbsp;</td>
   </tr>
    <tr class="even">
     <td>Pleasant Valley</td>
@@ -2476,8 +2525,8 @@
     <td>Ogden Weber North</td>
     <td>Stage Crew 1</td>
     <td>Lon Hudman</td>
-    <td> 801-732-2805</td>
-    <td>&nbsp;</td>
+    <td>801-732-2805</td>
+    <td>lon@sollenaturals.com</td>
   </tr>
   <tr class="even">
     <td>Ogden Weber North</td>
@@ -2561,7 +2610,7 @@
     <td>Stage Crew 1</td>
     <td>Natalie Heslop</td>
     <td>801-814-6149</td>
-    <td>&nbsp;</td>
+    <td>nrheslop@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Ogden West</td>
@@ -2569,7 +2618,6 @@
     <td>Laura Bird</td>
     <td>801-589-2563</td>
     <td>laurabird789@gmail.com</td>
-    
   </tr>
   <tr class="even">
     <td>Ogden YSA 2nd</td>
@@ -2659,14 +2707,14 @@
     <td>Stage Crew 1</td>
     <td>Raelene Burdess</td>
     <td>801-731-3409</td>
-    <td>&nbsp;</td>
+    <td>burdessgmc3@q.com</td>
   </tr>
   <tr class="odd">
     <td>Plain City</td>
     <td>Stage Crew 2</td>
     <td>Eber Burdess</td>
     <td>801-731-3409</td>
-    <td>&nbsp;</td>
+    <td>burdessgmc3@q.com</td>
   </tr>
   <tr class="even">
     <td>West Haven</td>
@@ -4646,7 +4694,7 @@
     <td>Stage Crew 1</td>
     <td>Andy Christensen</td>
     <td>801-557-2288</td>
-    <td>&nbsp;</td>
+    <td>andy@dcrch.com</td>
   </tr>
   <tr class="odd">
     <td>West Point Utah Lakeside</td>
@@ -4654,6 +4702,13 @@
     <td>Dawain Spendlove</td>
     <td>385-209-4301</td>
     <td>dawainspendlove@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>West Point Utah Lakeside</td>
+    <td>Stage Crew 3</td>
+    <td>Cathy Cook</td>
+    <td>801-513-9405</td>
+    <td>cookfarm@hotmail.com</td>
   </tr>
   <tr class="even">
     <td>West Point Utah</td>
