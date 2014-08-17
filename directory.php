@@ -742,7 +742,7 @@
     <td>Stage Crew 2</td>
     <td>Lorna Rosenstein</td>
     <td>801-719-7300</td>
-    <td>lorna@xmission.com</td>
+    <td>waterwatchofutah@comcast.net</td>
   </tr>
   <tr class="odd">
     <td>Layton Utah West</td>
@@ -799,6 +799,13 @@
     <td>Kathleen Wilcox</td>
     <td>801-726-5235</td>
     <td>wlcxk651@aol.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Layton Utah West</td>
+    <td>Dance Specialist 2</td>
+    <td>Lynette Rackham</td>
+    <td>801-358-3698</td>
+    <td>treasuresinhvn@yahoo.com</td>
   </tr>
   <tr class="odd">
     <td>Layton Utah West</td>
@@ -1250,6 +1257,48 @@
     <td>801-645-8590</td>
     <td>jessdeboer4@gmail.com</td>
   </tr>
+  <tr class="odd">
+    <td>Lorin Farr</td>
+    <td>Cast Asst. 1</td>
+    <td>Kelly Smith</td>
+    <td>801-589-3466</td>
+    <td>kelly@scottsmith.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Lorin Farr</td>
+    <td>Cast Asst. 2</td>
+    <td>Amy Porter</td>
+    <td>801-644-0575</td>
+    <td>amy_porter@comcast.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Lorin Farr</td>
+    <td>Costume Asst. 1</td>
+    <td>Audrey Tibbitts</td>
+    <td>801-732-7861</td>
+    <td>ajtibbitts@hotmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Lorin Farr</td>
+    <td>Costume Asst. 2</td>
+    <td>Jill Barker</td>
+    <td>801-393-8743</td>
+    <td>dbjbarker1@yahoo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Lorin Farr</td>
+    <td>Stage Crew 1</td>
+    <td>Scott Smith</td>
+    <td>801-589-3477</td>
+    <td>scott@scottsmith.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Lorin Farr</td>
+    <td>Stage Crew 2</td>
+    <td>Garth Tuck</td>
+    <td>801-726-8181</td>
+    <td>gtuck@weber.edu</td>
+  </tr>
   <tr class="even">
     <td>Mount Lewis</td>
     <td>Coordinator 1</td>
@@ -1556,7 +1605,7 @@
     <td>Stage Crew 2</td>
     <td>Gary Lindley</td>
     <td>801-455-9705</td>
-    <td>guslindley@comcast.com</td>
+    <td>guslindley@comcast.net</td>
   </tr>
 </table>
 <?php
@@ -1829,13 +1878,6 @@
   <tr class="even">
     <td>Weber Heights</td>
     <td>Stage Crew 1</td>
-    <td>Matt Goff</td>
-    <td>801-791-0023</td>
-    <td>goff.matthewdavid@gmail.com</td>
-  </tr>
-  <tr class="even">
-    <td>Weber Heights</td>
-    <td>Stage Crew 2</td>
     <td>Aaron Linford</td>
     <td>801-648-0665</td>
     <td>linfordginger@gmail.com</td>
@@ -2526,7 +2568,7 @@
     <td>Stage Crew 1</td>
     <td>Lon Hudman</td>
     <td>801-732-2805</td>
-    <td>lon@sollenaturals.com</td>
+    <td>lon@sollenaturals.com </td>
   </tr>
   <tr class="even">
     <td>Ogden Weber North</td>
@@ -3206,10 +3248,31 @@
   </tr>
   <tr class="even">
     <td>Clearfield Utah North</td>
+    <td>Cast Asst. 1</td>
+    <td>Laura Prouty</td>
+    <td>&nbsp;</td>
+    <td>devprouty@msn.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clearfield Utah North</td>
+    <td>Cast Asst. 2</td>
+    <td>Angie Barnes</td>
+    <td>&nbsp;</td>
+    <td>abarnes11@hotmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clearfield Utah North</td>
     <td>Costume Asst. 1</td>
     <td>Shelly Weeks</td>
     <td>801-458-8376</td>
     <td>ssweeks58@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clearfield Utah North</td>
+    <td>Costume Asst. 2</td>
+    <td>Teri Beames</td>
+    <td>&nbsp;</td>
+    <td>terijean33@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Clearfield Utah North</td>
@@ -3224,6 +3287,20 @@
     <td>Carrie Whitby</td>
     <td>801-525-4615</td>
     <td>2whitby@live.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clearfield Utah North</td>
+    <td>Stage Crew 1</td>
+    <td>Joe Simpson</td>
+    <td>&nbsp;</td>
+    <td>utahscotscowboy@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Clearfield Utah North</td>
+    <td>Stage Crew 2</td>
+    <td>Dave Hirst</td>
+    <td>&nbsp;</td>
+    <td>missnus2@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Clearfield Utah South</td>
@@ -3711,9 +3788,16 @@
   <tr class="odd">
     <td>Syracuse Utah Legacy Park</td>
     <td>Stage Crew 1</td>
-    <td>Ben Borchert</td>
-    <td>891-726-3852</td>
-    <td>Ben@mighty-clever.com</td>
+    <td>JD Tyrell</td>
+    <td>&nbsp;</td>
+    <td>jd@wasatchwestllc.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Legacy Park</td>
+    <td>Stage Crew 1</td>
+    <td>Jeff Clark</td>
+    <td>&nbsp;</td>
+    <td>jeffandloganclark@yahoo.com</td>
   </tr>
   <tr class="even">
     <td>Syracuse Utah South</td>
@@ -3861,13 +3945,6 @@
     <td>Keeth Kennington</td>
     <td>801-726-8889</td>
     <td>kkennington@gmail.com</td>
-  </tr>
-  <tr class="odd">
-    <td>Syracuse Utah</td>
-    <td>Stage Crew 2</td>
-    <td>Doug Merrill</td>
-    <td>801-628-0800</td>
-    <td>doug@merrill.us.com</td>
   </tr>
   <tr class="even">
     <td>Syracuse Utah West</td>
