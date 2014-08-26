@@ -51,6 +51,11 @@
   </div>
   <iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FShineTheLightOgden&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe>
 </div>
+<h3 class="date">Mon, August 25th</h3>
+<h3>Costume Clarification</h3>
+<p>We have received a lot of costume questions and have clarified the <b><a href="choir_costumes.php">CHOIR costume 
+  instructions</a></b>.</p>
+
 <h3 class="date">Tue, July 15th</h3>
 <h3>Welcome!</h3>
 <p>I am so excited to welcome you as part of the Ogden Temple Cultural Celebration Youth Choir. The 

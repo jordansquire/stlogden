@@ -5,12 +5,20 @@
   $request = $_SERVER['REQUEST_METHOD'];
   
   if ($request == 'POST') {
-    if (isset($_POST['stake']) && isValidStake($_POST['stake'])) {
+    if (isset($_POST['password']) && strtolower($_POST['password']) == "ogden") {
+      if (isset($_POST['stake']) && isValidStake($_POST['stake'])) {
+        setcookie('logged_in','cmsyemckjfdaoiisa',time() + (86400 * 120));
+        setcookie('stake',$_POST['stake'],time() + (86400 * 120));
+        header('Location: choir.php');
+      } else {
+        $badstake = 1;
+      }
+    } elseif (isset($_POST['password']) && strtolower($_POST['password']) == "@dmin") {
       setcookie('logged_in','cmsyemckjfdaoiisa',time() + (86400 * 120));
-      setcookie('stake',$_POST['stake'],time() + (86400 * 120));
+      setcookie('stake','ADMIN',time() + (86400 * 120));
       header('Location: choir.php');
     } else {
-      $badstake = 1;
+      $badlogin = 1;
     }
   }
   elseif (isset($_GET['status'])) {
@@ -77,12 +85,13 @@
           if (isset($badlogin)) {
             echo '<span class="error">The password is incorrect.</span><br />';
           } elseif (isset($login_required)) {
-            echo '<span class="error">You must select a Stake from the list.</span><br />';
+            echo '<span class="error">Login required.</span><br />';
           } elseif (isset($badstake)) {
             echo '<span class="error">You must select a valid Stake from the list.</span><br />';
           }
         ?>
         <input name="stake" id="stake" placeholder='Type the name of your Stake' /><br/>
+        <input name="password" id="password" type="password" placeholder='Password' /><br/>
         <input type="submit" id="login" value="Login" />
       </form>
     </div>

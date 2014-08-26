@@ -26,11 +26,24 @@
 ?>
 <h1>Choir Costumes</h1>
 <div class="divider"></div>
-<p><b>Girls:</b> Jewel tone color blouse and a black skirt or loose fitting pants. No leggings or tight 
-  fitting pants.</p>
-<p><b>Boys:</b> Long sleeved jewel tone dress shirt, with a collar, matching tie, and black pants. If you do not have a 
-  jewel toned shirt and do not want to buy one, you can borrow one from a friend, look at the DI, or a thrift
-  store.</p>
+<p style="text-align: center; color: red; font-weight: bold;">OFFICIAL COSTUME INFORMATION FOR THE CHOIR</p>
+<p>There has been a lot of confusion over the costumes for the choir. I apologize for the confusion I am not 
+  sure where the disconnect is coming from. This is from the costume committee:<br/><br/>
+Linda Chatwin<br/>
+Jacci Florence<br/>
+Carol Balaich</p>
+
+<p><span style="color: red; font-weight: bold;">Choir Girls:</span> need to wear a jewel tone blouse from the 
+  colors below. It can be long sleeved, 3/4 sleeved, or short sleeved. It <b>DOES NOT</b> need to button up 
+  the front, no t-shirts or cardigan sweaters please. <b><u>NO JEWERLY</u></b>. Girls can wear either skirts 
+  <b>or pants</b>. Which ever they have or feel most comfortable in. We do not want you to have to buy a 
+  skirt if you do not have one! No leggings or tight fitting pants.</p>
+  
+<p><span style="color: red; font-weight: bold;">Choir Boys:</span> Long sleeved jewel tone colored dress 
+  shirt, with a collar, a tie that matches the shirt (it does not need to be a solid color), and black pants. 
+  If you do not have a jewel toned shirt and do not want to buy one, you can borrow one from a friend, look 
+  at the DI, or a thrift store.</p>
+  
 <p>The sample of colors to choose from has a variety of shades in each color; try to match your shirt to one 
   of the shades of your chosen color as best as possible.</p>
 <div class="text_center"><img src="images/jewel.png" alt="Jewel Colors" /></div>
