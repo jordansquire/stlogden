@@ -69,7 +69,7 @@
     </script>
     <div class="left_half">
       <h3>Login</h3>
-      <p>Select your stake and login with the password you have been provided to download music, choreography, and other information.</p>
+      <p>Select your stake and login to download music, choreography, and other information.</p>
     </div>
     <div class="right_half">
       <form action="participate.php" method="post">
