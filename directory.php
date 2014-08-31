@@ -3470,6 +3470,13 @@
     <td>801-719-0066</td>
     <td>sewingforfun5@yahoo.com</td>
   </tr>
+  <tr class="even">
+    <td>Morgan Utah</td>
+    <td>Dance Specialist 1</td>
+    <td>Tammy McCain</td>
+    <td>801-710-6548</td>
+    <td>tammymccain@hotmail.com</td>
+  </tr>
   <tr class="odd">
     <td>South Weber Utah</td>
     <td>Coordinator 1</td>
@@ -3746,9 +3753,9 @@
   <tr class="odd">
     <td>Syracuse Utah Legacy Park</td>
     <td>Cast Asst. 1</td>
-    <td>Gretchen Stone</td>
-    <td>435-619-0853</td>
-    <td>gretchenstone123@yahoo.com</td>
+    <td>Amanda Miller</td>
+    <td>801-891-4834</td>
+    <td>millerae4@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Syracuse Utah Legacy Park</td>

@@ -51,6 +51,12 @@
   </div>
   <iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FShineTheLightOgden&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe>
 </div>
+<h3 class="date">Sun, August 31st</h3>
+<h3>It&#39;s not too late</h3>
+<p>Please let your friends know that it&#39;s still not too late to participate in the celebration! 
+  <a href="https://leaders.shinethelightogden.com/InstructionsAndHandout.pdf" target="_blank">Learn more...</a>
+</p>
+
 <h3 class="date">Mon, August 25th</h3>
 <h3>Costume Clarification</h3>
 <p>We have received a lot of costume questions and have clarified the <b><a href="choir_costumes.php">CHOIR costume 
