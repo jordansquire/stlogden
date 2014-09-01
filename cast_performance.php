@@ -17,11 +17,11 @@
     }  
 ?>
 <div class="right council_select">
-  <form action="cast_script.php" method="post">
+  <form action="cast_performance.php" method="post">
     <?php getCouncilDropDown($council) ?>
   </form>
 </div>
 <?php
   }
-  include('script.php');
+  include('performance.php');
 ?>

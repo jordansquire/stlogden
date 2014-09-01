@@ -17,11 +17,11 @@
     }  
 ?>
 <div class="right council_select">
-  <form action="choir_script.php" method="post">
+  <form action="choir_volunteers.php" method="post">
     <?php getCouncilDropDown($council) ?>
   </form>
 </div>
 <?php
   }
-  include('script.php');
+  include('volunteers.php');
 ?>

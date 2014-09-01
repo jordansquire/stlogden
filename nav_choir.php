@@ -1,5 +1,6 @@
+<li><a href="choir_volunteers.php">Volunteers</a></li>
+<li><a href="cast_performance.php">Performance</a></li>
 <li><a href="choir_calendar.php">Calendar</a></li>
-<li><a href="choir_script.php">Script</a></li>
 <li><a href="choir_costumes.php">Costumes</a></li>
 <li><a href="choir_music.php">Music</a></li>
 <li><a href="choir_directory.php">Directory</a></li>

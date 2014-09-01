@@ -63,6 +63,7 @@ div.top_section_container {
 }
 ul.nav {
   float: right;
+  margin-right: -210px;
   list-style-type: none;
   padding: 0;
 }
