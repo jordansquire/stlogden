@@ -23,5 +23,6 @@
 </div>
 <?php
   }
+  $cast = getCast($council);
   include('performance.php');
 ?>
