@@ -5,7 +5,7 @@
 <h1>Ogden Temple Cultural Celebration</h1>
 <div class="divider"></div>
 <div class="error alert" style="margin-bottom: 15px;">
-  Youth: It&#39;s still not too late to participate! <a href="https://leaders.shinethelightogden.com/InstructionsAndHandout.pdf" target="_blank">Learn more...</a>
+  Youth: It&#39;s still not too late to participate! <a href="https://leaders.shinethelightogden.com/Announcement.pdf" target="_blank">Learn more...</a>
 </div>
 <div class="right" style="margin: 0 0 20px 10px;">
   <img class="rounded" src="images/Shining-Templo.jpg" alt="Ogden Temple" width="400" />

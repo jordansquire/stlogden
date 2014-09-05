@@ -25,7 +25,7 @@
 <h1>Participate in the Ogden Temple<br/><br/>Cultural Celebration</h1>
 <div class="divider"></div>
 <div class="error alert">
-  Youth: It&#39;s still not too late to participate! <a href="https://leaders.shinethelightogden.com/InstructionsAndHandout.pdf" target="_blank">Learn more...</a>
+  Youth: It&#39;s still not too late to participate! <a href="https://leaders.shinethelightogden.com/Announcement.pdf" target="_blank">Learn more...</a>
 </div>
 <h3>Shine the Light</h3> 
 <p>Attention all youth 12-18 in the Ogden Utah Temple District. The cultural celebration is a chance for you 

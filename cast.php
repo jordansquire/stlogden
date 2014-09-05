@@ -54,7 +54,7 @@
 <h3 class="date">Sun, August 31st</h3>
 <h3>It&#39;s not too late</h3>
 <p>Please let your friends know that it&#39;s still not too late to participate in the celebration! 
-  <a href="https://leaders.shinethelightogden.com/InstructionsAndHandout.pdf" target="_blank">Learn more...</a>
+  <a href="https://leaders.shinethelightogden.com/Announcement.pdf" target="_blank">Learn more...</a>
 </p>
 
 <h3 class="date">Wed, July 16th</h3>
