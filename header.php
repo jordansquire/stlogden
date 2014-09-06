@@ -2,7 +2,7 @@
 <head>
   <title>Shine the Light Ogden</title>
   <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,300,400italic,400,600italic,600,700italic,700,800italic,800" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" type="text/css" href="styles.css#0001" />
+  <link rel="stylesheet" type="text/css" href="styles.css#0002" />
 </head>
 <body>
   <div class="page_layout">

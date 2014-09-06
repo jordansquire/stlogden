@@ -8,7 +8,7 @@ body {
   padding: 0px;
 }
 div.page_layout {
-  width: 1440px;
+  width: 980px;
   margin: 0 auto;
   padding: 0;
   min-height: 100%;
@@ -26,7 +26,7 @@ div.top_nav_container {
 div.page_content {
   position: absolute;
   top: 0;
-  margin-left: 230px;
+  /*margin-left: 230px;*/
   width: 980px;
 }
 div.top_nav {
@@ -63,7 +63,7 @@ div.top_section_container {
 }
 ul.nav {
   float: right;
-  margin-right: -210px;
+  /*margin-right: -210px;*/
   list-style-type: none;
   padding: 0;
 }
@@ -86,7 +86,7 @@ ul.nav a {
   font-size: 16px;
   color: #000000;
   margin: 10px 1px 0 1px;
-  padding: 10px 15px;
+  padding: 10px 5px;
   height: 25px;
   border-radius: 5px;
 }
@@ -315,4 +315,10 @@ ul.notes li span {
 }
 .text_girls {
   color: #FF6699;
+}
+.blue_highlight {
+  background-color: #00A2ED;
+}
+.underline {
+  text-decoration: underline;
 }
