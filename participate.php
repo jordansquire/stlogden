@@ -31,19 +31,9 @@
 <p>Attention all youth 12-18 in the Ogden Utah Temple District. The cultural celebration is a chance for you 
   to share your testimonies with your friends and family and those you don't know, by providing a spiritual 
   experience through singing and dancing, in celebrating the blessings of the Lord's house.</p>
-<p>Everyone who would like to participate will be welcomed. 
-  <ul>
-    <li>Sing in the 2000 voice choir</li>
-    <li>Perform musical numbers - no dance background required</li>
-    <li>Audition for the Dance Corps and learn more advance choreography
-      <ul>
-        <li>Audition Date: July 12 at 9 am</li>
-        <li>Place: Sunset North Church Building, 2431 N 250 W, Sunset UT 84015</li>
-      </ul>  
-    </li>
-  </ul>
-  Contact your local bishop to find out ways you can be part of this once in a lifetime opportunity. Not 
-  sure who your bishop is? Enter your address <a href="http://www.mormon.org/meetinghouse">here</a>.</p>
+<p>Everyone who would like to participate will be welcomed. Contact your local bishop to find out ways you 
+  can be part of this once in a lifetime opportunity. Not sure who your bishop is? Enter your address 
+  <a href="http://www.mormon.org/meetinghouse">here</a>.</p>
 <p><b>All participants will need to complete a <a href="files/Release_to_Use_Image.pdf">release form</a> and 
   <a href="files/parental-permission-medical-release.pdf">permission slip</a></b>.</p>
 <br/>
