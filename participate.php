@@ -36,7 +36,8 @@
   <a href="http://www.mormon.org/meetinghouse">here</a>.</p>
 <p><b>All participants will need to complete a <a href="files/Release_to_Use_Image.pdf">release form</a> and 
   <a href="files/parental-permission-medical-release.pdf">permission slip</a></b>.</p>
-<br/>
+<h3>Shine the Light Preview</h3>
+<iframe width="560" height="315" src="//www.youtube.com/embed/sQ0e2L5VAQM" frameborder="0" allowfullscreen></iframe>
 <a name="login"></a>
 <div class="form">
   <?php

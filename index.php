@@ -19,8 +19,9 @@
   the blessings of the Lord's house.</p>
 <p>Interested in participating? Contact your local bishop to find out ways you can be part of this once in a lifetime opportunity. 
   <a href="participate.php">Learn more about participating...</a></p>
-<br/>
-<div class="form">
+<h3>Shine the Light Preview</h3>
+<iframe width="560" height="315" src="//www.youtube.com/embed/sQ0e2L5VAQM" frameborder="0" allowfullscreen></iframe>
+<div class="form" style="margin-top: 20px;">
   <h3>Cast members</h3>
   <p>Already participating in the cultural celebration? <a href="participate.php">Login</a> to download music, choreography, and other 
     information.</p>
