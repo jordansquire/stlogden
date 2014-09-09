@@ -90,12 +90,12 @@
       <a href="files/cast/Hoedown.mp3" target="_blank"><img src="images/mp3.png" alt="mp3" /></a>
     </td>
     <td class="text_center">
-      <a href="http://youtu.be/84aUnGkioWk" target="_blank"><img src="images/video.png" alt="Video" /></a> 
+      <a href="https://drive.google.com/file/d/0B31UTznXWoLuWTFpQUxrVWNiVWc/edit?usp=sharing" target="_blank"><img src="images/video.png" alt="Video" /></a> 
     </td>
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">
       <ul class="notes">
-        <li><span>See the video for the <b>NEW</b> choreography</span></li>
+        <li><span>See the video for choreography</span></li>
       </ul>
     </td>
   </tr>
