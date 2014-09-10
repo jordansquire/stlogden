@@ -26,13 +26,15 @@
 ?>
 <h1>Seminary Cast Chorus</h1>
 <div class="divider"></div>
-<p>Print off the Cast Lyrics Help (in color), for each song, for everyone in your class. To clarify, they 
-  will be part of the Cast Chorus, <b><i>not</i></b> the choir. Please rehearse the parts labeled <b>CAST</b>.</p>
+<p>Print off the&nbsp;&nbsp;<a href="/files/Cast_Chorus.pdf"><img src="/images/document.png" />Cast Lyrics Help</a> 
+  (in color), for each song, for everyone in your class. To clarify, they will be part of the Cast Chorus, 
+  <b><i>not</i></b> the Choir. Please rehearse the parts labeled <b>CAST</b>.</p>
 <p>Please play the videos for each song (except Hope of Israel) so that the youth can learn the hand actions 
   as well as the lyrics for each of the four songs below. Please encourage them to review this material 
   outside of class as well. Thank you!</p>
-<p>The mp3 /files available for download are listed below. <em>To download you may need to 
+<p>The mp3 / files available for download are listed below. <em>To download you may need to 
   right click the link and select &quot;Save Link As...&quot;</em></p>
+  
 <table class="directory">
   <thead>
     <tr>
@@ -45,7 +47,7 @@
   </thead>
   <tr>
     <td>1.</td>
-    <td>Hope of Israel (1st verse)</td>
+    <td>Hope of Israel (1st &amp; 4th verse)</td>
     <td>Congregation / Choir / Cast</td>
     <td class="text_center">
       <a href="https://www.lds.org/music/library/hymns/hope-of-israel?lang=eng" target="_blank">
@@ -62,7 +64,6 @@
       <ul class="notes">
         <li><span>Opening song before the show starts</span></li>
         <li><span>You can sing parts or melody</span></li>
-        <li><span><a href="/cast_lyrics.php"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -83,7 +84,6 @@
         <li><span>See the document for choreography timing</span></li>
         <li><span><a href="https://drive.google.com/file/d/0B31UTznXWoLudXVfS0RuYzR1aDQ/edit?usp=sharing" target="_blank"><img src="/images/video.png" />&nbsp;&nbsp;Hand motions</a> 
           for those seated</span></li>
-        <li><span><a href="/cast_lyrics.php#shine"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -99,7 +99,6 @@
     <td class="odd">
       <ul class="notes">
         <li><span>See the video for choreography</span></li>
-        <li><span><a href="/cast_lyrics.php#helaman"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -116,7 +115,6 @@
         <li><span>
           <a href="http://youtu.be/TxVjbLO8yes" target="_blank"><img src="/images/video.png" alt="Video" />&nbsp;&nbsp;Mirror Image ASL</a>
         </span></li>
-        <li><span><a href="/cast_lyrics.php#new_day"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>

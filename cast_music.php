@@ -40,7 +40,7 @@
   </thead>
   <tr>
     <td>1.</td>
-    <td>Hope of Israel (1st verse)</td>
+    <td>Hope of Israel (1st &amp; 4th verse)</td>
     <td>Congregation / Choir / Cast</td>
     <td class="text_center">
       <a href="https://www.lds.org/music/library/hymns/hope-of-israel?lang=eng" target="_blank">
@@ -57,7 +57,7 @@
       <ul class="notes">
         <li><span>Opening song before the show starts</span></li>
         <li><span>You can sing parts or melody</span></li>
-        <li><span><a href="/cast_lyrics.php"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
+        <li><span><a href="/files/Cast_Chorus.pdf"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -78,7 +78,7 @@
         <li><span>See the document for choreography timing</span></li>
         <li><span><a href="https://drive.google.com/file/d/0B31UTznXWoLudXVfS0RuYzR1aDQ/edit?usp=sharing" target="_blank"><img src="/images/video.png" />&nbsp;&nbsp;Hand motions</a> 
           for those seated</span></li>
-        <li><span><a href="/cast_lyrics.php#shine"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
+        <li><span><a href="/files/Cast_Chorus.pdf"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -141,7 +141,7 @@
     <td class="odd">
       <ul class="notes">
         <li><span>See the video for choreography</span></li>
-        <li><span><a href="/cast_lyrics.php#helaman"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
+        <li><span><a href="/files/Cast_Chorus.pdf"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -158,7 +158,7 @@
         <li><span>
           <a href="http://youtu.be/TxVjbLO8yes" target="_blank"><img src="/images/video.png" alt="Video" />&nbsp;&nbsp;Mirror Image ASL</a>
         </span></li>
-        <li><span><a href="/cast_lyrics.php#new_day"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
+        <li><span><a href="/files/Cast_Chorus.pdf"><img src="/images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>

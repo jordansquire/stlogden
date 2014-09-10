@@ -40,7 +40,7 @@
   </thead>
   <tr>
     <td>1.</td>
-    <td>Hope of Israel (1st verse)</td>
+    <td>Hope of Israel (1st &amp; 4th verse)</td>
     <td>Congregation / Choir / Cast</td>
     <td class="text_center">
       <a href="http://media.ldscdn.org/pdf/music/hymns/2001-01-2590-hope-of-israel-eng.pdf?download=true" target="_blank">
@@ -57,7 +57,7 @@
       <ul class="notes">
         <li><span>Opening song before the show starts</span></li>
         <li><span>You can sing parts or melody</span></li>
-        <li><span><a href="cast_lyrics.php"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
+        <li><span><a href="/files/Cast_Chorus.pdf"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -76,7 +76,7 @@
       <ul class="notes">
         <li><span>The choir will be singing a different part than the cast</span></li>
         <li><span>See the video for hand motions</span></li>
-        <li><span><a href="cast_lyrics.php#shine"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
+        <li><span><a href="/files/Cast_Chorus.pdf"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -128,7 +128,7 @@
     <td class="text_center">&nbsp;-&nbsp;</td>
     <td class="odd">
       <ul class="notes">
-        <li><span><a href="cast_lyrics.php#helaman"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
+        <li><span><a href="/files/Cast_Chorus.pdf"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>
@@ -149,7 +149,7 @@
         <li><span>
           <a href="http://youtu.be/TxVjbLO8yes" target="_blank"><img src="images/video.png" alt="Video" />&nbsp;&nbsp;Mirror Image ASL</a>
         </span></li>
-        <li><span><a href="cast_lyrics.php#new_day"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
+        <li><span><a href="/files/Cast_Chorus.pdf"><img src="images/document.png" />&nbsp;&nbsp;Cast lyrics help</a></span></li>
       </ul>
     </td>
   </tr>

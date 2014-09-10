@@ -2,11 +2,14 @@
 <div class="divider"></div>
 <h3>Hope of Israel&nbsp;&nbsp;<span class="prompt">(You can sing parts or melody)</span></h3>
 
-<p>Hope of Israel, Zion&#39;s army, Children of the promised day,<br/>
+<p>1. Hope of Israel, Zion&#39;s army, Children of the promised day,<br/>
   See the Chieftan signals onward, And the battle&#39;s in array!<br/>
   Hope of Israel, rise in might With the sword of truth and right;<br/>
-  Sound the war-cry, &quot;Watch and pray!&quot; Vanquish ev&#39;ry foe today.</p><br/>
-  
+  Sound the war-cry, &quot;Watch and pray!&quot; Vanquish ev&#39;ry foe today.</p>
+<p>4. Soon the battle will be over; Ev&#39;ry foe of truth be down.<br/>
+  Onward, onward, youth of Zion; Thy reward the victor&#39;s crown.<br/>
+  Hope of Israel, rise in might, With the sword of truth and right;<br/>
+  Sound the war-cry, &quot;Watch and pray!&quot; Vanquish ev&#39;ry foe today.</p><br/>  
 
 <a name="shine"></a>
 <h3>Shine the Light&nbsp;&nbsp;<span class="prompt">(The cast is singing the melody line you hear the 
