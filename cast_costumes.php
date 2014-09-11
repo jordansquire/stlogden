@@ -128,9 +128,17 @@
       FLOPS. No leggings or tight fitting pants.<br/><br/>
       
       <p class="bold text_solo underline">Additional information about the Shine the Light number</p>
+      
       <p>The youth will be provided a T-shirt (that they keep) they will need to wear YOUR OWN Black pants or skirt, 
         black shoes and socks. (If girls choose to wear a skirt they need opaque black tights so everything from the 
         waist down is black). NO FLIP FLOPS</p>
+        
+      <p class="bold text_solo">*** CHANGE FROM ORIGINAL INFORMATION PASSED OUT ***</p>
+      
+      <p>I HAD TOLD PEOPLE FROM THE BURCH CREEK, OGDEN EAST, OGDEN AND WEBER HEIGHTS STAKES that their youth 
+        would get a costume to wear.</p>
+ 
+      <p>I WAS WRONG!!!!</p> 
       
       <p>All of the stakes in the &quot;Shine the Light&quot; number will wear black pants or skirt with black 
         shoes and socks and the T-shirt we will give them.</p>
@@ -179,22 +187,20 @@
       fitting pants.
       
       <p class="bold text_solo underline">Additional information</p>
-       
-      <p>Your stake is in one of the dance numbers that do not have a costume.</p>
+      
+      <p class="bold text_solo">*** CHANGE FROM ORIGINAL INFORMATION PASSED OUT ***</p>
+      
+      <p>If you were assigned to wear a costume at your last practice (you should know who you are) the 
+        morning of the event please wear t-shirt and shorts and Black flat shoes, NO FLIP FLOPS. They will 
+        put the costume on over top of their own clothes. There is no place for them to change or to put 
+        their clothes if they did change.</p>
 
-      <p>The youth will be provided a T-shirt (that they keep) they will need to wear YOUR OWN Black pants or 
-        skirt black shoes and socks. (if girls choose to wear a skirt they need opaque black tights so 
-        everything from the waist down is black). NO FLIP FLOPS</p>
+      <p>They will also get a t-shirt to wear (that they keep) over top of their costume while sitting in the 
+        audience waiting for their time to go on stage.</p> 
 
-      <p>ALL The youth in these numbers will need to go to the Dee Event Center the morning of the 
-        performance. If the can be there promptly at 8:00 a.m. for cast A and Cast B at 3:15 p.m. it will 
-        make things go faster. At that time they will be given a t-shirt to wear  for the performance.</p>
-
-     <p>There is no place for people to change clothes so girls please wear a cap sleeve shirt the morning of 
-       the performance and you can put your t-shirt on over top of it.</p>
-       
-     <p>Boys wear a shirt with no collar that you can wear the t-shirt over top of as there will be no place 
-       to put a shirt you take off.</p>
+      <p>The youth <b>WHO DO NOT HAVE A COSTUME</b> will be provided a T-shirt (that they keep) they will 
+        need to wear THEIR OWN Black pants or skirt, black shoes and socks. (If girls choose to wear a skirt 
+        xthey need opaque black tights so everything from the waist down is black). NO FLIP FLOPS</p>
     </td>
   </tr>
   <tr>
@@ -338,16 +344,17 @@
       keep) you will need <b>YOUR OWN</b> black skirt or pants, black shoes and socks. NO FLIP 
       FLOPS. No leggings or tight fitting pants.
       
-      <p class="bold text_solo underline">Additional Information</p>
+      <p class="bold text_solo underline">Additional information about the Shine the Light number</p>
+      
       <p>The youth will be provided a T-shirt (that they keep) they will need to wear YOUR OWN Black pants or skirt, 
         black shoes and socks. (If girls choose to wear a skirt they need opaque black tights so everything from the 
         waist down is black). NO FLIP FLOPS</p>
-      
+        
       <p class="bold text_solo">*** CHANGE FROM ORIGINAL INFORMATION PASSED OUT ***</p>
       
-      <p>I HAD TOLD PEOPLE FROM THE BURCH CREEK, OGDEN EAST, OGDEN AND WEBER HEIGHTS STAKES  that their youth would 
-        get a costume to wear</p>
-      
+      <p>I HAD TOLD PEOPLE FROM THE BURCH CREEK, OGDEN EAST, OGDEN AND WEBER HEIGHTS STAKES that their youth 
+        would get a costume to wear.</p>
+ 
       <p>I WAS WRONG!!!!</p> 
       
       <p>All of the stakes in the &quot;Shine the Light&quot; number will wear black pants or skirt with black 
@@ -386,6 +393,8 @@
       fitting pants.
       
       <p class="bold text_solo underline">Additional Information about the Solar System number</p>
+      
+      <p class="bold text_solo">*** CHANGE FROM ORIGINAL INFORMATION PASSED OUT ***</p>
       
       <p>If you were assigned to wear a costume at your last practice (you should know who you are) the 
         morning of the event please wear t-shirt and shorts and Black flat shoes, NO FLIP FLOPS. They will 
@@ -694,7 +703,7 @@
   <tr class="odd">
     <td>Morgan Utah North Stake</td>
     <td>Hoedown</td>
-    <td rowspan="6"><b>Please bring your own pioneer costume.</b><br/><br/>
+    <td rowspan="5"><b>Please bring your own pioneer costume.</b><br/><br/>
       Boys: Button up shirt, khaki, tan, brown or blue pants. <b>NO LEVIS or JEANS</b>.<br/><br/>
       Girls: Cotton dress with bonnet, apron if you have one. PLEASE NO BRIGHT or FLUORESCENT COLORS. Please 
       wear shorts or pantaloons under your dress.<br/><br/>
@@ -755,10 +764,6 @@
     <td>Hoedown</td>
   </tr>
   <tr class="odd">
-    <td>Syracuse Utah Bluff Stake</td>
-    <td>Hoedown (wagon train)</td>
-  </tr>
-  <tr class="odd">
     <td>Syracuse Utah Stake</td>
     <td>Hoedown</td>
   </tr>
@@ -791,7 +796,6 @@
      <p>Boys wear a shirt with no collar that you can wear the t-shirt over top of as there will be no place 
        to put a shirt you take off.</p>
     </td>
-    </td>
   </tr>
   <tr>
     <td>Syracuse Utah South Stake</td>
@@ -800,6 +804,33 @@
   <tr>
     <td>Syracuse Utah West Stake</td>
     <td>Can&#39;t Go Anywhere</td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr class="odd">
+    <td>Syracuse Utah Bluff Stake</td>
+    <td>Solar System</td>
+    <td style="padding: 10px;">Girls &amp; Boys: You will be provided a T-shirt (YOU KEEP THESE) and you will need 
+      <b>YOUR OWN</b> black skirt or pants, black shoes and socks. NO FLIP FLOPS. No leggings or tight 
+      fitting pants.
+      
+      <p class="bold text_solo underline">Additional information</p>
+      
+      <p class="bold text_solo">*** CHANGE FROM ORIGINAL INFORMATION PASSED OUT ***</p>
+      
+      <p>If you were assigned to wear a costume at your last practice (you should know who you are) the 
+        morning of the event please wear t-shirt and shorts and Black flat shoes, NO FLIP FLOPS. They will 
+        put the costume on over top of their own clothes. There is no place for them to change or to put 
+        their clothes if they did change.</p>
+
+      <p>They will also get a t-shirt to wear (that they keep) over top of their costume while sitting in the 
+        audience waiting for their time to go on stage.</p> 
+
+      <p>The youth <b>WHO DO NOT HAVE A COSTUME</b> will be provided a T-shirt (that they keep) they will 
+        need to wear THEIR OWN Black pants or skirt, black shoes and socks. (If girls choose to wear a skirt 
+        xthey need opaque black tights so everything from the waist down is black). NO FLIP FLOPS</p>
+    </td>
   </tr>
 </table>
 

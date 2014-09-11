@@ -194,7 +194,7 @@
   <tr class="even">
     <td>Layton Utah East</td>
     <td>Cast Asst. 1</td>
-    <td>Jodi Rutter</td>
+    <td>Jodi &amp; Chris Rutter</td>
     <td>801.706.0400</td>
     <td>jlrutter@hotmail.com</td>
   </tr>
@@ -279,7 +279,7 @@
     <td>Layton Utah Holmes Creek</td>
     <td>Cast Asst. 2</td>
     <td>Keri Fawcett</td>
-    <td>801-444-1016</td>
+    <td>801-663-3916</td>
     <td>keri.fawcett77@gmail.com</td>
   </tr>
   <tr class="odd">
@@ -596,6 +596,20 @@
     <td>Colleen Nicholes</td>
     <td>801-771-8841</td>
     <td>cdnicholes@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah Northridge</td>
+    <td>Cast Asst. 1</td>
+    <td>Daren Miller</td>
+    <td>801-771-8720</td>
+    <td>millerfamilycool@msn.com</td>
+  </tr>
+  <tr class="even">
+    <td>Layton Utah Northridge</td>
+    <td>Cast Asst. 2</td>
+    <td>Colleen Nicholes</td>
+    <td>801-771-8841</td>
+    <td>ednicholes@yahoo.com</td>
   </tr>
   <tr class="odd">
     <td>Layton Utah South</td>
@@ -1029,7 +1043,7 @@
   <tr class="even">
     <td>North Ogden Coldwater</td>
     <td>Cast Asst. 1</td>
-    <td>Shanna Hawes</td>
+    <td>Shanna Haws</td>
     <td>801-391-5855</td>
     <td>shannahaws@gmail.com</td>
   </tr>
@@ -1176,7 +1190,7 @@
   <tr class="even">
     <td>North Ogden</td>
     <td>Cast Asst. 1</td>
-    <td>Leslie Liechte</td>
+    <td>Leslie Liechty</td>
     <td>801-547-3680</td>
     <td>lliechty@gmail.com</td>
   </tr>
@@ -1184,8 +1198,8 @@
     <td>North Ogden</td>
     <td>Cast Asst. 2</td>
     <td>Marty Roskelly</td>
-    <td>801-391-9753</td>
-    <td>mroskelley@msn.com</td>
+    <td>801-391-9753<br/>801-791-6144</td>
+    <td>mroskelley@msn.com<br/>emilyksorensen@gmail.com</td>
   </tr>
   <tr class="even">
     <td>North Ogden</td>
@@ -1483,6 +1497,20 @@
   </tr>
   <tr class="even">
     <td>Pleasant View South</td>
+    <td>Cast Asst. 3</td>
+    <td>TanjaLyn Hortin</td>
+    <td>801-388-7548</td>
+    <td>hortin_cr@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Pleasant View South</td>
+    <td>Cast Asst. 4</td>
+    <td>Christl Hortin</td>
+    <td>801-388-1738</td>
+    <td>hortin_cr@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Pleasant View South</td>
     <td>Costume Asst. 1</td>
     <td>Nancy Bischoff</td>
     <td>801-710-8134</td>
@@ -1719,14 +1747,14 @@
     <td>Cast Asst. 1</td>
     <td>LYDIA TRIBE</td>
     <td>801-624-8990</td>
-    <td>&nbsp;</td>
+    <td>lydia31363@msn.com</td>
   </tr>
   <tr class="odd">
     <td>Ogden East</td>
     <td>Cast Asst. 2</td>
     <td>CARRIE LUND</td>
     <td>801-389-3734</td>
-    <td>&nbsp;</td>
+    <td>soxr4rl@comcast.net</td>
   </tr>
   <tr class="odd">
     <td>Ogden East</td>
@@ -1838,7 +1866,7 @@
     <td>Cast Asst. 1</td>
     <td>Zachary Robbins</td>
     <td>801-644-1323</td>
-    <td>zmrobbinsm@gmail.com</td>
+    <td>zmrobbins@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Weber Heights</td>
@@ -1996,6 +2024,20 @@
   </tr>
   <tr class="odd">
     <td>Riverdale</td>
+    <td>Cast Asst. 1</td>
+    <td>Becky Richter</td>
+    <td>801-458-3417</td>
+    <td>bcky.richter@gmail.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Riverdale</td>
+    <td>Cast Asst. 2</td>
+    <td>Cory &amp; Heather Waite</td>
+    <td>801-891-8680</td>
+    <td>w8heather@msn.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Riverdale</td>
     <td>Costume Asst. 1</td>
     <td>Connie Fuller</td>
     <td>801-389-7150</td>
@@ -2042,6 +2084,13 @@
     <td>Evelyn Harris</td>
     <td>801-392-3773</td>
     <td>evieh7@comcast.net</td>
+  </tr>
+  <tr class="even">
+    <td>South Ogden</td>
+    <td>Cast Asst. 1</td>
+    <td>Melissa Hall</td>
+    <td>801-645-1119</td>
+    <td>missy007@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Washington Terrace East</td>
@@ -2146,14 +2195,14 @@
     <td>Cast Asst. 1</td>
     <td>Chris Jones</td>
     <td>801-866-7479</td>
-    <td>Officerjones85@gmail.com</td>
+    <td>officerjones85@gmail.com</td>
   </tr>
   <tr class="even">
     <td>Washington Terrace West</td>
     <td>Cast Asst. 2</td>
     <td>Clay Peterson</td>
     <td>801-663-1802</td>
-    <td>&nbsp;</td>
+    <td>petersonclay@comcast.net</td>
   </tr>
   <tr class="even">
     <td>Washington Terrace West</td>
@@ -2234,6 +2283,55 @@
     <td>801-628-3325</td>
     <td>gerilynjensen@rocketmail.com</td>
   </tr>
+  <tr class="even">
+    <td>Farr West Poplar</td>
+    <td>Cast Asst. 1</td>
+    <td>Jason Taylor</td>
+    <td>801-391-0693</td>
+    <td>jtaylor@royutah.org</td>
+  </tr>
+  <tr class="even">
+    <td>Farr West Poplar</td>
+    <td>Cast Asst. 2</td>
+    <td>W. Tyler Dixon</td>
+    <td>801-589-6512</td>
+    <td>tylerdixon24@gmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Farr West Poplar</td>
+    <td>Costume Asst. 1</td>
+    <td>Lynita Price</td>
+    <td>801-644-7162</td>
+    <td>lynita58@yahoo.com</td>
+  </tr>
+  <tr class="even">
+    <td>Farr West Poplar</td>
+    <td>Dance Specialist 1</td>
+    <td>Kristy Iverson</td>
+    <td>801-726-6302</td>
+    <td>kristyiverson@me.com</td>
+  </tr>
+  <tr class="even">
+    <td>Farr West Poplar</td>
+    <td>Dance Specialist 2</td>
+    <td>Kari Jones</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr class="even">
+    <td>Farr West Poplar</td>
+    <td>Stage Crew 1</td>
+    <td>Wendel Woolsey</td>
+    <td>801-791-6950</td>
+    <td>wmwoolsey@msn.com</td>
+  </tr>
+  <tr class="even">
+    <td>Farr West Poplar</td>
+    <td>Stage Crew 2</td>
+    <td>Reed Woolsey</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
   <tr class="odd">
     <td>Farr West</td>
     <td>Coordinator 1</td>
@@ -2254,6 +2352,13 @@
     <td>Becky Arrington</td>
     <td>801-458-5253</td>
     <td>beckyarrington2504@Yahoo.com</td>
+  </tr>
+  <tr class="odd">
+    <td>Farr West</td>
+    <td>Cast Asst. 1</td>
+    <td>Krista Stettler</td>
+    <td>801-731-6166</td>
+    <td>krista@northPolePines.com</td>
   </tr>
   <tr class="even">
     <td>Harrisville</td>
@@ -2282,6 +2387,13 @@
     <td>Kirsten Gonzales</td>
     <td>801-782-6191</td>
     <td>kirsten@gonzales.com</td>
+  </tr>
+  <tr class="even">
+    <td>Harrisville</td>
+    <td>Cast Asst. 2</td>
+    <td>Cara Fureigh</td>
+    <td>801-866-6608</td>
+    <td>carafureigh@hotmail.com</td>
   </tr>
   <tr class="even">
     <td>Harrisville</td>
@@ -2568,7 +2680,7 @@
     <td>Stage Crew 1</td>
     <td>Lon Hudman</td>
     <td>801-732-2805</td>
-    <td>lon@sollenaturals.com </td>
+    <td>lon@sollenaturals.com</td>
   </tr>
   <tr class="even">
     <td>Ogden Weber North</td>
@@ -2841,7 +2953,7 @@
     <td>Music Rep.</td>
     <td>Lisa Hamblin</td>
     <td>801-678-2262</td>
-    <td>Lisa.hamblin@gmail.com</td>
+    <td>lis.hamblin@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Hooper Pioneer Trails</td>
@@ -3043,6 +3155,13 @@
   </tr>
   <tr class="even">
     <td>Evanston Wyoming South</td>
+    <td>Cast Asst. 3</td>
+    <td>Donna Hoffman</td>
+    <td>307-679-5501</td>
+    <td>donnabodancer@hotmail.com</td>
+  </tr>
+  <tr class="even">
+    <td>Evanston Wyoming South</td>
     <td>Costume Asst. 1</td>
     <td>Lisa Browning</td>
     <td>307-679-0718</td>
@@ -3086,8 +3205,8 @@
   <tr class="odd">
     <td>Kemmerer Wyoming</td>
     <td>Coordinator 1</td>
-    <td>Wallace Schulthess</td>
-    <td>435 881-2313</td>
+    <td>Wallace Schallhess</td>
+    <td>435-881-2313</td>
     <td>wallace@allwest.net</td>
   </tr>
   <tr class="odd">
@@ -3250,14 +3369,14 @@
     <td>Clearfield Utah North</td>
     <td>Cast Asst. 1</td>
     <td>Laura Prouty</td>
-    <td>&nbsp;</td>
-    <td>devprouty@msn.com</td>
+    <td>801-540-9119</td>
+    <td>dlcprouty@msn.com</td>
   </tr>
   <tr class="even">
     <td>Clearfield Utah North</td>
     <td>Cast Asst. 2</td>
     <td>Angie Barnes</td>
-    <td>&nbsp;</td>
+    <td>801-830-3778</td>
     <td>abarnes11@hotmail.com</td>
   </tr>
   <tr class="even">
@@ -3383,8 +3502,15 @@
     <td>Morgan Utah North</td>
     <td>Cast Asst. 1</td>
     <td>Jodee Warner</td>
-    <td>&nbsp;</td>
+    <td>801-829-9197</td>
     <td>warnerfam88@digis.net</td>
+  </tr>
+  <tr class="odd">
+    <td>Morgan Utah North</td>
+    <td>Cast Asst. 2</td>
+    <td>Jaycee Norman</td>
+    <td>702-415-3415</td>
+    <td>&nbsp;</td>
   </tr>
   <tr class="odd">
     <td>Morgan Utah North</td>
@@ -3633,6 +3759,13 @@
   </tr>
   <tr class="even">
     <td>Sunset Utah</td>
+    <td>Stage Crew 1</td>
+    <td>Heidi Blaylock</td>
+    <td>801-774-6760</td>
+    <td>heidinjohn@q.com</td>
+  </tr>
+  <tr class="even">
+    <td>Sunset Utah</td>
     <td>Costume Asst. 1</td>
     <td>Wendy Hubbard</td>
     <td>8017765836</td>
@@ -3705,8 +3838,8 @@
     <td>Syracuse Utah Bluff</td>
     <td>Stage Crew 1</td>
     <td>Braxton Schenk</td>
-    <td>8017250375</td>
-    <td>&nbsp;</td>
+    <td>801-628-9696</td>
+    <td>Braxton.shenk@yahoo.com</td>
   </tr>
   <tr class="odd">
     <td>Syracuse Utah Bluff</td>
@@ -3783,14 +3916,14 @@
     <td>Dance Specialist 1</td>
     <td>Julie Parsons</td>
     <td>801-643-0080</td>
-    <td>jparsonsjbp@yahoo.com</td>
+    <td>rparsonsgtr@yahoo.com</td>
   </tr>
   <tr class="odd">
     <td>Syracuse Utah Legacy Park</td>
     <td>Dance Specialist 2</td>
-    <td>Angela Ford</td>
+    <td>Anggy Ford</td>
     <td>801-628-0266</td>
-    <td>ford@utbravo.com</td>
+    <td>ford@utahbravo.com</td>
   </tr>
   <tr class="odd">
     <td>Syracuse Utah Legacy Park</td>
@@ -4134,7 +4267,7 @@
     <td>Clinton Utah</td>
     <td>Cast Asst. 1</td>
     <td>Sandy Essler</td>
-    <td>801-643-2651</td>
+    <td>801-643-5785</td>
     <td>headspin180@hotmail.com</td>
   </tr>
   <tr class="odd">
@@ -4267,7 +4400,7 @@
     <td>Clinton Utah North</td>
     <td>Stage Crew 2</td>
     <td>Jeff Mills</td>
-    <td>8018259365</td>
+    <td>(801) 825-9365</td>
     <td>sllimnnyl42@gmail.com</td>
   </tr>
   <tr class="even">
@@ -4343,7 +4476,7 @@
   <tr class="even">
     <td>Roy Utah Midland</td>
     <td>Cast Asst. 2</td>
-    <td>Trish Watkins</td>
+    <td>Tricia Watkins</td>
     <td>801-458-6360</td>
     <td>ltwatkins6@gmail.com</td>
   </tr>
@@ -4413,15 +4546,15 @@
   <tr class="odd">
     <td>Roy Utah North</td>
     <td>Cast Asst. 1</td>
-    <td>David Girggs</td>
+    <td>David Griggs</td>
     <td>801 725-4290</td>
     <td>dgriggs99@firehousemail.com</td>
   <tr class="odd">
     <td>Roy Utah North</td>
     <td>Cast Asst. 2</td>
-    <td>brenda Griggs</td>
+    <td>Brenda Griggs</td>
     <td>801 725-4290</td>
-    <td>newutahprincess@hotmail.com</td>
+    <td>bgriggs2992@gmail.com</td>
   </tr>
   <tr class="odd">
     <td>Roy Utah North</td>
@@ -4657,7 +4790,7 @@
   <tr class="even">
     <td>Roy Utah West</td>
     <td>Cast Asst. 1</td>
-    <td>Jenee Sustaita</td>
+    <td>Jonee Sustaita</td>
     <td>801-779-2697</td>
     <td>sustaitafam@gmail.com</td>
   </tr>
@@ -4665,7 +4798,7 @@
     <td>Roy Utah West</td>
     <td>Cast Asst. 2</td>
     <td>Gary Penrod</td>
-    <td>&nbsp;</td>
+    <td>801-725-4653</td>
     <td>penrod_gsj@yahoo.com</td>
   </tr>
   <tr class="even">
@@ -4771,7 +4904,7 @@
     <td>Dance Specialist 2</td>
     <td>Brandy Christensen</td>
     <td>801-557-2288</td>
-    <td>&nbsp;</td>
+    <td>andy@dcrch.com</td>
   </tr>
   <tr class="odd">
     <td>West Point Utah Lakeside</td>
@@ -4819,7 +4952,7 @@
     <td>West Point Utah</td>
     <td>Cast Asst. 1</td>
     <td>Patty Flint</td>
-    <td>801-499-0083</td>
+    <td>801-499-0082</td>
     <td>flintjp@yahoo.com</td>
   </tr>
   <tr class="even">
