@@ -2,12 +2,16 @@
 <div class="divider"></div>
 <p>This page contains additional information for the following volunteers:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#CastAsst">Cast Assistant</a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#ChoirCrew">Choir Crew</a><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#StageCrew">Stage Crew</a><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#YSA">Young Single Adult</a><br/>
 </p>
 <div class="divider"></div>
 <a name="CastAsst"></a>
-<h3>Cast Assistant</h3>
+<h3>Cast Assistant&nbsp;&nbsp;
+  <span style="font-size: 10px;"><a href="/files/volunteer/Cast_Asst_Volunteer.pdf" target="_blank">Print / Download</a></span>
+</h3>
+<p><b>* <a href="/files/volunteer/Cast_Asst_Reminder.pdf" target="_blank">Cast Assistant Reminder Letter</a> *</b></p>
 <table class="directory">
   <tr>
     <td>Job Title</td>
@@ -79,8 +83,70 @@
 </p>
 
 <div class="divider"></div>
+<a name="ChoirCrew"></a>
+<h3>Choir Crew&nbsp;&nbsp;
+  <span style="font-size: 10px;"><a href="/files/volunteer/Music_Rep_Volunteer.pdf" target="_blank">Print / Download</a></span>
+</h3>
+<table class="directory">
+  <tr>
+    <td>Job Title</td>
+    <td colspan="3">Choir Crew (formerly known as Music Rep. Choir Volunteer)</td>
+  </tr>
+  <tr>
+    <td>Color Assignment</td>
+    <td colspan="3">Black</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Team Leaders</td>
+    <td>Brita Miles</td>
+    <td>801-336-8298</td>
+    <td>britamiles@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Pati Crosby</td>
+    <td>801-814-4568</td>
+    <td>paticrosby@gmail.com</td>
+  </tr>
+</table>
+<p>The Music Representatives Choir Volunteers will serve as volunteers from his/her stake. The Choir Crew 
+  Volunteers work under the direction of the Musical Director who will report to the Director. The Choir Crew 
+  Volunteers will also work in conjunction with the Stage Crew, Cast Assistant &amp; Young Single Adult 
+  Volunteers. ALL Volunteers will need to be at their assigned Cast performance and ALL rehearsals.</p>
+<p>The Choir Crew Volunteers will be responsible for the following jobs:
+  <ul>
+    <li>All Choir Crew Volunteers will check in at the Tunnel entrance of the Dee Event Center upon arrival. On Friday evening and Saturday.</li>
+    <li>Arrive with their Stake Choir and help check in Youth and distribute necessary materials such as water bottles, t-shirts, etc.</li>
+    <li>Usher the youth to their seats and maintain quiet and order while seated.</li>
+    <li>Hold Coordinating Council signs designating different councils, SATB (Bari and Middle) parts, RR song parts</li>
+    <li>Keep choir area clean, during and directly following performance.</li>
+    <li>Facilitate the swift, safe exit of choir members from the building after the show.</li>
+    <li>Any other duties assigned specifically by the Music Committee.</li>
+  </ul>
+</p>
+<p>Calendar Dates:
+  <ul>
+    <li>September 19th - 6:00 pm – Choir Crew Volunteer rehearsal @ Dee Events Center</li>
+    <li>September 20th - rehearsal and performance (refer to your Cast Schedule)</li>
+  </ul>
+</p>
+<p>Items to Bring:
+  <ul>
+    <li>Watch (or something to keep track of time)</li>
+    <li>Small handheld flashlight</li>
+    <li>Garbage Bag</li>
+    <li>Lunch &amp;/Or dinner on the 20th</li>
+    <li>WATER!!!!</li>
+    <li>Wear black shirt &amp; black pants or skirt </li>
+  </ul>
+</p>
+<p>Thank you so much for your willingness to help with this once in a lifetime opportunity for the youth in 
+  our temple district!</p>
+
+<div class="divider"></div>
 <a name="StageCrew"></a>
-<h3>Stage Crew</h3>
+<h3>Stage Crew&nbsp;&nbsp;
+  <span style="font-size: 10px;"><a href="/files/volunteer/Stage_Crew_Volunteer.pdf" target="_blank">Print / Download</a></span>
+</h3>
 <table class="directory">
   <tr>
     <td>Job Title</td>
@@ -150,7 +216,9 @@
 
 <div class="divider"></div>
 <a name="YSA"></a>
-<h3>Young Single Adult</h3>
+<h3>Young Single Adult&nbsp;&nbsp;
+  <span style="font-size: 10px;"><a href="/files/volunteer/YSA_Volunteer.pdf" target="_blank">Print / Download</a></span>
+</h3>
 <table class="directory">
   <tr>
     <td>Job Title</td>
