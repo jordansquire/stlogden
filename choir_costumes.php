@@ -52,7 +52,7 @@
  
 <p>We realize that 4000 kids are now looking for the same thing.  So any shirt you can find that is a deep 
   color will be ok.  (No pastels and No black) If you are having difficulty finding the correct color of 
-  shirt the DI in Layton still has many to choose from. I’m sure other DI’s are the same. For the girls 
+  shirt the DI in Layton still has many to choose from. I&#39;m sure other DI&#39;s are the same. For the girls 
   they may not be able to find the style of shirt you wear today but we are looking for color not style of 
   shirt, you only have to wear it one time. We do not want this be a financial burden on anyone.  Another 
   option is to dye a lighter colored shirt to the color you need.</p>
