@@ -25,16 +25,19 @@ $(document).ready(function(){
 </script>
 <h1>Performance</h1>
 <div class="divider"></div>
+<div class="error alert">
+  Check out the <a href="/index.php#checklist">Performance Day Checklist</a>
+</div>
 <p>This page contains information about that will be helpful for the day of the performance.
   <ul>
 <?php
   if($cast == 'A - 1:00pm Performance') {
 ?>
-    <li><a href="files/DEC_Parking_Assignments_CastA.pdf" target="_blank">Cast A parking assignments</a></li>
+    <li><a href="files/DEC_Parking_Assignments_CastA.pdf" target="_blank"><b>UPDATED</b> Cast A parking assignments</a></li>
 <?php
   } else {
 ?>
-    <li><a href="files/DEC_Parking_Assignments_CastB.pdf" target="_blank">Cast B parking assignments</a></li>
+    <li><a href="files/DEC_Parking_Assignments_CastB.pdf" target="_blank"><b>UPDATED</b> Cast B parking assignments</a></li>
 <?php
   }
 ?>

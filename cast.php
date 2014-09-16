@@ -27,6 +27,9 @@
 ?>
 <h1>Cast Announcements</h1>
 <div class="divider"></div>
+<div class="error alert">
+  Check out the <a href="/index.php#checklist">Performance Day Checklist</a>
+</div><br/>
 <div class="right likebox">
   <div class="error alert" style="border-bottom:none;">All participants need to complete a <a href="files/Release_to_Use_Image.pdf">release form</a>
     and <a href="files/parental-permission-medical-release.pdf">permission slip</a>
