@@ -52,26 +52,26 @@ $(document).ready(function(){
 ?>
 <p><b><u>Cast A</u></b></p>
 <p>
-  7:30 am - Arrive (Check In, Get Costumes, Review Lyrics, etc.)<br/>
-  9:00 am - Rehearsal Start Time<br/>
-  11:00 am - Primary Children Arrive and Check In<br/>
-  12:00 pm - Lunch/Bathroom Break<br/>
-  12:30 pm - In seats ready for performance<br/>
-  1:00 pm - Performance Start Time<br/>
-  2:30 pm - Exit Dee Event Center (same door they entered)
+  7:30 am – Arrive (Check In, Get Costumes/Shirts, Review Lyrics, etc.)<br/>
+  9:00 am – Rehearsal Start Time<br/>
+  11:00 am – Primary Children/Ogden Missionaries Arrive and Check In<br/>
+  12:00 pm – Lunch/Bathroom Break<br/>
+  12:30 pm – In seats ready for performance<br/>
+  1:00 pm – Performance Start Time<br/>
+  2:30 pm – Exit Dee Event Center (same door they entered)
 </p>
 <?php
   } else {
 ?>
 <p><b><u>Cast B</u></b></p>
 <p>
-  3:15 pm - Arrive (Check In, Get Costumes, Review Lyrics, etc.)<br/>
-  4:00 pm - Rehearsal Start Time<br/>
-  5:00 pm - Primary Children Arrive and Check In<br/>
-  6:00 pm - Dinner/Bathroom Break<br/>
-  6:30 pm - In seats ready for performance<br/>
-  7:00 pm - Performance Start Time<br/>
-  8:30 pm - Exit Dee Event Center
+  3:15 pm – Arrive (Check In, Get Costumes, Review Lyrics, etc.)<br/>
+  4:00 pm – Rehearsal Start Time<br/>
+  5:00 pm – Primary Children/Ogden Missionaries Arrive and Check In<br/>
+  6:00 pm – Dinner/Bathroom Break<br/>
+  6:30 pm – In seats ready for performance<br/>
+  7:00 pm – Performance Start Time<br/>
+  8:30 pm – Exit Dee Event Center
 </p>
 <?php
   }

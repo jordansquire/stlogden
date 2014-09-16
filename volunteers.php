@@ -3,6 +3,7 @@
 <p>This page contains additional information for the following volunteers:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#CastAsst">Cast Assistant</a><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#ChoirCrew">Choir Crew</a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#CostumeAsst">Costume Assistant</a><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#StageCrew">Stage Crew</a><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#YSA">Young Single Adult</a><br/>
 </p>
@@ -141,6 +142,14 @@
 </p>
 <p>Thank you so much for your willingness to help with this once in a lifetime opportunity for the youth in 
   our temple district!</p>
+  
+<div class="divider"></div>
+<a name="CostumeAsst"></a>
+<h3>Costume Assistant</h3>
+<p>
+  <b>* <a href="/files/volunteer/Costume_Volunteer.pdf" target="_blank">Costume Assistant Instructions</a> *</b><br/>
+  <b>* <a href="/files/volunteer/Costume_Volunteer_Assignments.pdf" target="_blank">Stake Costume Assistant Assignents</a> *</b>
+</p>
 
 <div class="divider"></div>
 <a name="StageCrew"></a>
