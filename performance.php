@@ -33,11 +33,11 @@ $(document).ready(function(){
 <?php
   if($cast == 'A - 1:00pm Performance') {
 ?>
-    <li><a href="files/DEC_Parking_Assignments_CastA.pdf" target="_blank"><b>UPDATED</b> Cast A parking assignments</a></li>
+    <li><a href="files/DEC_Parking_Assignments_CastA.pdf#0002" target="_blank"><b>UPDATED</b> Cast A parking assignments</a></li>
 <?php
   } else {
 ?>
-    <li><a href="files/DEC_Parking_Assignments_CastB.pdf" target="_blank"><b>UPDATED</b> Cast B parking assignments</a></li>
+    <li><a href="files/DEC_Parking_Assignments_CastB.pdf#0002" target="_blank"><b>UPDATED</b> Cast B parking assignments</a></li>
 <?php
   }
 ?>
