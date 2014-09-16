@@ -62,7 +62,7 @@
  
 <p>The Costume Committee</p> 
  
-<p>D&C 97:15-16</p>
+<p>D&amp;C 97:15-16</p>
 
 <div class="divider"></div>
 
