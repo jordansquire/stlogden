@@ -50,17 +50,8 @@ $(document).ready(function(){
 </div>
 <p>This page contains information about that will be helpful for the day of the performance.
   <ul>
-<?php
-  if($cast == 'A - 1:00pm Performance') {
-?>
     <li><a href="files/DEC_Parking_Assignments_CastA.pdf#0002" target="_blank"><b>UPDATED</b> Cast A parking assignments</a></li>
-<?php
-  } else {
-?>
     <li><a href="files/DEC_Parking_Assignments_CastB.pdf#0002" target="_blank"><b>UPDATED</b> Cast B parking assignments</a></li>
-<?php
-  }
-?>
     <li><a href="files/DEC_Map.pdf" target="_blank">Dee Events Center map</a></li>
     <li><a href="#schedule">Performance Schedule</a></li>
     <li><a href="#synopsis">Performance Synopsis</a></li>
@@ -70,9 +61,6 @@ $(document).ready(function(){
 <a name="schedule"></a>
 <h3>Performance Schedule</h3>
 <p>Time outline for September 20th, 2014</p>
-<?php
-  if($cast == 'A - 1:00pm Performance') {
-?>
 <p><b><u>Cast A</u></b></p>
 <p>
   7:30 am - Arrive (Check In, Get Costumes/Shirts, Review Lyrics, etc.)<br/>
@@ -83,9 +71,6 @@ $(document).ready(function(){
   1:00 pm - Performance Start Time<br/>
   2:30 pm - Exit Dee Event Center (same door they entered)
 </p>
-<?php
-  } else {
-?>
 <p><b><u>Cast B</u></b></p>
 <p>
   3:15 pm - Arrive (Check In, Get Costumes, Review Lyrics, etc.)<br/>
@@ -96,9 +81,6 @@ $(document).ready(function(){
   7:00 pm - Performance Start Time<br/>
   8:30 pm - Exit Dee Event Center
 </p>
-<?php
-  }
-?>
 
 <div class="divider"></div>
 <a name="synopsis"></a>
