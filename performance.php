@@ -27,6 +27,26 @@ $(document).ready(function(){
 <div class="divider"></div>
 <div class="error alert">
   Check out the <a href="/index.php#checklist">Performance Day Checklist</a>
+</div><br/>
+<div class="right likebox">
+  <div class="information">
+    <h4 style="margin:0 0 10px 0; text-align:center;">Your Information</h4>
+    <table class="directory">
+      <tr>
+        <td style="border-top: 1px solid #CCCCCC;">Cast:</td>
+        <td style="border-top: 1px solid #CCCCCC;"><?php echo $cast; ?></td>
+      </tr>
+      <tr>
+        <td>Coordinating Council:</td>
+        <td><?php echo $council; ?></td>
+      </tr>
+      <tr>
+        <td>Stake:</td>
+        <td><?php echo $stake; ?></td>
+      </tr>
+    </table>
+    <div class="prompt" style="text-align:right;">Not the right Stake? <a href="logout.php">Change it</a></div>
+  </div>
 </div>
 <p>This page contains information about that will be helpful for the day of the performance.
   <ul>
